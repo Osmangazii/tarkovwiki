@@ -29,9 +29,9 @@ Cargo X - Part 4
   -> Friend From the West - Part 1
   -> Supplier
   -> Burning Rubber
-Big Customer                 ///
-Out of Curiosity             ///
-Chemical - Part 4            ///
+Big Customer                  ///
+Out of Curiosity              ///
+Chemical - Part 4             ///
   -> Chemical - Part 3
   -> Chemical - Part 2
   -> Chemical - Part 1
