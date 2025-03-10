@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import sqlite3
 import time
 
-# Dosyadan URL'leri okuyalım
+# Dosyadan URL'leri okuma
 url_file = "tarkov_tasks_urls.txt"
 try:
     with open(url_file, "r") as file:
@@ -11,26 +11,26 @@ try:
         urls = [line.strip() for line in file if line.strip()]
     print(f"{len(urls)} adet URL okundu.")
 except FileNotFoundError:
-    print(f"{url_file} dosyası bulunamadı. Lütfen bu dosyayı oluşturun ve URL'leri satır satır yazın.")
+    print(f"{url_file} dosyasi bulunamadi. Lütfen bu dosyayi oluşturun ve URL'leri satir satir yazin.")
     exit()
 
-# Veritabanı bağlantısını oluşturalım
+# veritabani baglantisini olusturma
 conn = sqlite3.connect('escapefromtarkov.db')
 cursor = conn.cursor()
 
-# Traders adlarını manuel olarak veritabanına ekleyelim (Eğer yoksa)
+# Traders adlarini manuel olarak ekle(Eğer yoksa)
 traders = [
     'Prapor', 'Therapist', 'Fence', 'Skier', 'Peacekeeper', 
     'Mechanic', 'Ragman', 'Jaeger', 'Ref', 'Lightkeeper', 'BTR Driver', 'Any'
 ]
 
-# Locations verilerini manuel olarak ekliyoruz
+# Locations verilerini manuel olarak ekle
 locations = [
     'Factory', 'Customs', 'Woods', 'Interchange', 'Reserve', 
     'Shoreline', 'Labs', 'Streets of Tarkov', 'The Lab', 'Ground Zero', 'Any'
 ]
 
-# Traders tablosunu oluşturuyoruz (eğer yoksa)
+# Traders tablosunu oluşturma (eğer yoksa)
 cursor.execute(''' 
     CREATE TABLE IF NOT EXISTS Traders (
         trader_id INTEGER PRIMARY KEY,
@@ -38,7 +38,7 @@ cursor.execute('''
     )
 ''')
 
-# Locations tablosunu oluşturuyoruz (eğer yoksa)
+# Locations tablosunu oluşturma (eğer yoksa)
 cursor.execute('''
     CREATE TABLE IF NOT EXISTS Locations (
         location_id INTEGER PRIMARY KEY,
@@ -46,7 +46,7 @@ cursor.execute('''
     )
 ''')
 
-# Tasks tablosunu oluşturuyoruz (eğer yoksa)
+# Tasks tablosunu oluşturma (eğer yoksa)
 cursor.execute('''
     CREATE TABLE IF NOT EXISTS Tasks (
         task_id INTEGER PRIMARY KEY,
@@ -59,7 +59,7 @@ cursor.execute('''
     )
 ''')
 
-# Rewards tablosunu oluşturuyoruz (eğer yoksa)
+# Rewards tablosunu oluşturma (eğer yoksa)
 cursor.execute('''
     CREATE TABLE IF NOT EXISTS Rewards (
         reward_id INTEGER PRIMARY KEY,
@@ -100,7 +100,7 @@ for i, url in enumerate(urls, 1):
         
         # Sayfa başarılı şekilde geldi mi kontrol edelim
         if response.status_code == 200:
-            print("Sayfa başarıyla çekildi!")
+            print("Sayfa başariyla çekildi!")
 
             # BeautifulSoup ile HTML içeriğini parse edelim
             soup = BeautifulSoup(response.content, 'html.parser')
@@ -110,7 +110,7 @@ for i, url in enumerate(urls, 1):
             if task_name_element:
                 task_name = task_name_element.text.strip()  # Görev adı genellikle h1'de olur
             else:
-                print("Görev adı bulunamadı, URL adını kullanıyoruz.")
+                print("Görev adi bulunamadi, URL adini kullaniyoruz.")
                 task_name = url.split('/')[-1].replace('_', ' ')  # URL'den bir isim oluştur
 
             # Trader adı - yeni locator kullanıyoruz
@@ -119,7 +119,7 @@ for i, url in enumerate(urls, 1):
             if trader_name_section:
                 trader_name = trader_name_section.text.strip()
             else:
-                print("Trader adı bulunamadı.")
+                print("Trader adi bulunamadi.")
                 trader_name = "Any"  # Trader bulunamazsa 'Any' olarak atıyoruz
 
             # Burada trader_id 12 ise, trader_name'den yeni bir değer alıyoruz (2. koddan alınan iyileştirme)
@@ -129,7 +129,7 @@ for i, url in enumerate(urls, 1):
                     new_trader_name = new_trader_name_section.text.strip()
                     if new_trader_name in traders:
                         trader_name = new_trader_name
-                        print(f"Alternatif trader adı bulundu: {trader_name}")
+                        print(f"Alternatif trader adi bulundu: {trader_name}")
 
             # Location (Map) verisini yeni locator ile çekiyoruz
             location_section = soup.select_one('#va-infobox0-content > td > table:nth-child(3) > tbody > tr:nth-child(4) > td.va-infobox-content')
@@ -137,7 +137,7 @@ for i, url in enumerate(urls, 1):
             if location_section:
                 map_name = location_section.text.strip()
             else:
-                print("Location (Map) adı bulunamadı.")
+                print("Location (Map) adi bulunamadi.")
                 map_name = "Any"  # Location bulunamazsa 'Any' olarak atıyoruz
 
             # Required for Kappa değerini alıyoruz
@@ -168,9 +168,9 @@ for i, url in enumerate(urls, 1):
                     for item in rewards_section.find_all('li'):
                         rewards_list.append(item.text.strip())
                 else:
-                    print("Rewards listesi bulunamadı.")
+                    print("Rewards listesi bulunamadi.")
             else:
-                print("Rewards başlığı bulunamadı.")
+                print("Rewards basligi bulunamadi.")
             
             # Objectives kısmını bulalım
             objectives_list = []
@@ -181,9 +181,9 @@ for i, url in enumerate(urls, 1):
                     for item in objectives_section.find_all('li'):
                         objectives_list.append(item.text.strip())
                 else:
-                    print("Objectives listesi bulunamadı.")
+                    print("Objectives listesi bulunamadi.")
             else:
-                print("Objectives başlığı bulunamadı.")
+                print("Objectives başligi bulunamadi.")
             
             # Location'ı Locations tablosunda arıyoruz
             cursor.execute("SELECT location_id FROM Locations WHERE map_name = ?", (map_name,))
@@ -251,7 +251,7 @@ for i, url in enumerate(urls, 1):
 
             # Değişiklikleri kaydediyoruz
             conn.commit()
-            print(f"Görev: {task_name} başarıyla veritabanına eklendi!")
+            print(f"Görev: {task_name} basariyla veritabanina eklendi!")
             
         else:
             print(f"Sayfa çekilirken bir hata oluştu: {response.status_code}")
@@ -266,4 +266,4 @@ for i, url in enumerate(urls, 1):
 
 # Veritabanı bağlantısını kapatalım
 conn.close()
-print("Tüm URL'ler işlendi, veritabanı bağlantısı kapatıldı.")
+print("Tüm URL'ler işlendi, veritabani bağlantisi kapatildi.")
