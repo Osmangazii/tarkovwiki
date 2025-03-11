@@ -159,22 +159,14 @@ for i, url in enumerate(urls, 1):
             # Boolean değere çeviriyoruz
             required_for_kappa = True if kappa_value == "Yes" else False
 
-            # Rewards kısmını bulalım - BU KISMI DEĞİŞTİRDİK
+            # Rewards kısmını bulalım
             rewards_list = []
             rewards_header = soup.find('span', {'id': 'Rewards'})
             if rewards_header:
                 rewards_section = rewards_header.find_next('ul')  # Rewards kısmındaki listeyi alıyoruz
                 if rewards_section:
-                    # Sadece doğrudan bu ul'a bağlı olan li'leri alıyoruz
-                    for item in rewards_section.find_all('li', recursive=False):
-                        # Eğer li'nin içinde ul varsa, sadece ul'dan önceki metni alıyoruz
-                        nested_ul = item.find('ul')
-                        if nested_ul:
-                            # ul'dan önceki metni alıyoruz
-                            reward_text = item.get_text().split(nested_ul.get_text())[0].strip()
-                            rewards_list.append(reward_text)
-                        else:
-                            rewards_list.append(item.text.strip())
+                    for item in rewards_section.find_all('li'):
+                        rewards_list.append(item.text.strip())
                 else:
                     print("Rewards listesi bulunamadi.")
             else:
