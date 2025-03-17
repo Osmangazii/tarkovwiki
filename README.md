@@ -1,6 +1,6 @@
-# Project Title
+# Project TarkovTiki
 
-Bu proje, [proje adı] ile ilgili çeşitli görevleri yerine getiren Python betikleri içermektedir.
+Bu proje, TarkovTiki ile ilgili çeşitli görevleri yerine getiren Python betikleri içermektedir.
 
 ## Adımlar
 
