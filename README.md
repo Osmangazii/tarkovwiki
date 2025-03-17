@@ -1,6 +1,6 @@
-# TarkovTiki
+# Project Title
 
-Bu proje, TarkovTiki ile ilgili çeşitli görevleri yerine getiren Python betikleri içermektedir.
+Bu proje, [proje adı] ile ilgili çeşitli görevleri yerine getiren Python betikleri içermektedir.
 
 ## Adımlar
 
@@ -35,9 +35,4 @@ Bu kütüphaneleri yüklemek için aşağıdaki komutu kullanabilirsiniz:
 
 ```bash
 pip install beautifulsoup4 certifi charset-normalizer idna lxml pip requests soupsieve typing_extensions urllib3
-<<<<<<< HEAD
 ```
-
-=======
-
-> > > > > > > cc2e134324ac23a4569c83b4a188540760aac5a7
