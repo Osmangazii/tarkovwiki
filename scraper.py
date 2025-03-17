@@ -4,7 +4,7 @@ import sqlite3
 import time
 
 # Dosyadan URL'leri okuma
-url_file = "tarkov_tasks_urls.txt"
+url_file = "txts/tarkov_tasks_urls.txt"
 try:
     with open(url_file, "r") as file:
         # Her satırı bir URL olarak alalım ve boşlukları temizleyelim

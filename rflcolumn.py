@@ -26,7 +26,7 @@ cursor.execute("""
 conn.commit()
 
 # Txt dosyasındaki görev isimlerini okuma
-with open('merged_tasks_cleaned.txt', 'r') as file:
+with open('lightkeepertasks/merged_tasks_cleaned.txt', 'r') as file:
     task_names = [line.strip() for line in file.readlines()]
 
 # Her görev için veritabanında kontrol yapma
