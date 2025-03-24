@@ -16,7 +16,7 @@ Proje dosyalarınızı düzgün bir şekilde çalıştırmak için aşağıdaki 
 
 Her adımın başarılı bir şekilde çalıştığından emin olduktan sonra projeye devam edebilirsiniz.
 
-## Gereksinimler
+# Gereksinimler
 
 Aşağıdaki Python kütüphaneleri gereklidir:
 
