@@ -1,0 +1,1 @@
+### [1. Osmangazi Metin Durum Diyagrami](/diyagram.pdf)
