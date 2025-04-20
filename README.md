@@ -1,5 +1,8 @@
 # Project TarkovTiki
+OSMANGAZI METIN
+----------------
 https://tarkovwiki.vercel.app/
+
 
 scraping-tool, TarkovTiki ile ilgili çeşitli görevleri yerine getiren Python betikleri içermektedir.
 
