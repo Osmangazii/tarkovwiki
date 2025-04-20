@@ -1,0 +1,293 @@
+.tq-bg {
+  background-color: #f0f0f0;
+  min-height: 100vh;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.tq-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+/* Header styles */
+.tq-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 20px;
+  /* border-bottom: 1px solid #eee; */
+}
+
+.tq-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin: 0;
+}
+
+.tq-search {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.tq-search input {
+  padding: 6px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.icon-btn {
+  background: #eee;
+  border: none;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+/* Tabs styles */
+.tq-tabs {
+  display: flex;
+  border-bottom: 1px solid #eee;
+}
+
+.tq-tab-btn {
+  padding: 12px 16px;
+  background: none;
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  color: #666;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.tq-tab-btn.active {
+  background-color: #f0e6ff;
+  color: #6200ea;
+  border-top: 1px solid #e0ccff;
+  border-left: 1px solid #e0ccff;
+  border-right: 1px solid #e0ccff;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  margin-bottom: -1px;
+}
+
+/* Content styles */
+.tq-content {
+  padding: 20px;
+}
+
+/* Task detail styles */
+.tq-task-detail {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+/* Updated to match photo layout with two separate sections */
+.tq-task-header {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  padding: 20px;
+}
+
+.tq-task-info {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.tq-rewards {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.label {
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #333;
+  font-weight: 700;
+  margin-bottom: 1px;
+}
+
+.value {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.rewards-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.rewards-list li {
+  padding: 3px 0;
+  color: #333;
+}
+
+/* Task footer styles */
+.tq-task-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 20px;
+  background-color: #f5f5f5;
+}
+
+.flags {
+  display: flex;
+  gap: 8px;
+}
+
+.flag {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.kappa {
+  background-color: #e3f2fd;
+  color: #1565c0;
+}
+
+.lightkeeper {
+  background-color: #e8eaf6;
+  color: #3949ab;
+}
+
+.add-btn {
+  background-color: #f0e6ff;
+  color: #6200ea;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* Progress bar */
+.progress-bar {
+  height: 10px;
+  background-color: #f0f0f0;
+  margin: 0 20px;
+  position: relative;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.progress {
+  height: 100%;
+  background-color: #4caf50;
+  transition: width 0.3s ease;
+}
+
+/* Objectives styles */
+.objective {
+  margin: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.objective p {
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.objective-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.card {
+  height: 120px;
+  background-color: #f0e6ff;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+}
+
+.check-btn {
+  display: flex;
+  justify-content: flex-end;
+  padding: 5px;
+}
+
+/* Roadmap styles */
+.tq-roadmap {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 15px;
+}
+
+.roadmap-item {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 15px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.roadmap-item:hover {
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.roadmap-item.active {
+  border-color: #6200ea;
+  background-color: #f0e6ff;
+}
+
+.roadmap-item .title {
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.roadmap-item .subtitle {
+  font-size: 13px;
+  color: #666;
+}
+
+/* Placeholder tab */
+.placeholder-tab {
+  text-align: center;
+  padding: 50px;
+  color: #666;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .tq-task-header {
+    grid-template-columns: 1fr;
+  }
+
+  .objective-cards {
+    grid-template-columns: 1fr;
+  }
+
+  .tq-roadmap {
+    grid-template-columns: 1fr;
+  }
+}
