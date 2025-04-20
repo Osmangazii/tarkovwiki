@@ -1,5 +1,5 @@
 # Project TarkovTiki
-
+https://tarkovwiki.vercel.app/
 Bu proje, TarkovTiki ile ilgili çeşitli görevleri yerine getiren Python betikleri içermektedir.
 
 ## Adımlar
