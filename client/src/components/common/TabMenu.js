@@ -16,4 +16,4 @@ const TabMenu = ({ tabs, activeTab, setActiveTab }) => {
   );
 };
 
-export default TabMenu;
+export default TabMenu; 

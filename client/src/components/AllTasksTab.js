@@ -1,6 +1,6 @@
 import React from "react";
 
-const QuestRoadmap = ({ questData, selectedQuest, onSelectQuest }) => {
+const AllTasksTab = ({ questData, selectedQuest, onSelectQuest }) => {
   return (
     <div className="tq-roadmap">
       {questData.map((quest) => (
@@ -21,4 +21,4 @@ const QuestRoadmap = ({ questData, selectedQuest, onSelectQuest }) => {
   );
 };
 
-export default QuestRoadmap;
+export default AllTasksTab;

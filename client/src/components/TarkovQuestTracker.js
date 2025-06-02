@@ -1,16 +1,15 @@
 import { useState } from "react";
 import "./TarkovQuestTracker.css";
 import questData from "../data/questData.json";
-import Header from "./Header";
-import TabMenu from "./TabMenu";
-import TaskDetail from "./TaskDetail";
+import { Header, TabMenu, PlaceholderTab } from "./common";
+import { TaskDetail } from "./Task";
 import AllTasksTab from "./AllTasksTab";
-import PlaceholderTab from "./PlaceholderTab";
 
 export default function TarkovQuestTracker() {
   const [activeTab, setActiveTab] = useState("tasks");
   const [selectedQuest, setSelectedQuest] = useState(questData[0]);
-  
+  const [searchValue, setSearchValue] = useState("");
+
   const tabs = [
     { id: "quest-roadmap", label: "ALL TASKS" },
     { id: "tasks", label: "TASK" },
@@ -24,25 +23,42 @@ export default function TarkovQuestTracker() {
     setActiveTab("tasks");
   };
 
+  const handleSearchChange = (e) => {
+    setSearchValue(e.target.value);
+  };
+
+  // Filter quests for AllTasksTab
+  const filteredQuests = questData.filter((quest) =>
+    quest.task_name.toLowerCase().includes(searchValue.toLowerCase())
+  );
+
   return (
     <div className="tq-bg">
       <div className="tq-container">
         <Header />
         <TabMenu tabs={tabs} activeTab={activeTab} setActiveTab={setActiveTab} />
-        
         <div className="tq-content">
+          {activeTab === "quest-roadmap" && (
+            <div className="tq-search" style={{ marginBottom: 16 }}>
+              <input
+                type="text"
+                placeholder="TASK NAME"
+                value={searchValue}
+                onChange={handleSearchChange}
+              />
+              <button className="icon-btn">🔍</button>
+            </div>
+          )}
           {activeTab === "tasks" && (
             <TaskDetail selectedQuest={selectedQuest} />
           )}
-          
           {activeTab === "quest-roadmap" && (
-            <AllTasksTab 
-              questData={questData} 
+            <AllTasksTab
+              questData={filteredQuests}
               selectedQuest={selectedQuest}
               onSelectQuest={handleSelectQuest}
             />
           )}
-          
           {["goons-tracker", "keys", "hideout"].includes(activeTab) && (
             <PlaceholderTab />
           )}

@@ -29,4 +29,4 @@ const TaskDetail = ({ selectedQuest }) => {
   );
 };
 
-export default TaskDetail;
+export default TaskDetail; 

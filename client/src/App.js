@@ -1,5 +1,5 @@
 import React from "react";
-import TarkovQuestTracker from "./components/TarkovQuestTracker"; // doğru path olduğundan emin ol
+import TarkovQuestTracker from "./components/TarkovQuestTracker";
 
 function App() {
   return (
