@@ -17,8 +17,8 @@
       "Prapor Rep +0.02",
       "Jaeger Rep +0.01",
       "15,000 Roubles",
-      "1× PP-91 Kedr 9x18PM submachine gun",
-      "2× 9x18mm PM BZhT gzh ammo pack (50 pcs)",
+      "1\u00d7 PP-91 Kedr 9x18PM submachine gun",
+      "2\u00d7 9x18mm PM BZhT gzh ammo pack (50 pcs)",
       "Unlocks purchase of Kalashnikov AKS-74UB 5.45x39 assault rifle at Prapor LL1"
     ]
   },
@@ -40,8 +40,8 @@
       "+1,800 EXP",
       "Prapor Rep +0.03",
       "15,000 Roubles",
-      "1× TOZ Simonov SKS 7.62x39 carbine",
-      "3× 7.62x39mm FMJ ammo pack (20 pcs)"
+      "1\u00d7 TOZ Simonov SKS 7.62x39 carbine",
+      "3\u00d7 7.62x39mm FMJ ammo pack (20 pcs)"
     ]
   },
   {
@@ -53,15 +53,17 @@
     "location_name": "Woods",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate 15 Scavs on Woods"],
+    "objectives": [
+      "Eliminate 15 Scavs on Woods"
+    ],
     "rewards": [
       "+2,000 EXP",
       "Prapor Rep +0.03",
       "Jaeger Rep +0.01",
       "20,000 Roubles",
-      "1× Kalashnikov AKS-74UN 5.45x39 assault rifle",
-      "3× AK-74 5.45x39 6L20 30-round magazine",
-      "3× 5.45x39mm PP gs ammo pack (30 pcs)",
+      "1\u00d7 Kalashnikov AKS-74UN 5.45x39 assault rifle",
+      "3\u00d7 AK-74 5.45x39 6L20 30-round magazine",
+      "3\u00d7 5.45x39mm PP gs ammo pack (30 pcs)",
       "Unlocks purchase of Lebedev PL-15 9x19 pistol at Prapor LL1",
       "Unlocks purchase of 6B5-16 Zh-86 Uley armored rig (Khaki) at Prapor LL2",
       "Unlocks Duck Hideout shooting range target style"
@@ -85,9 +87,9 @@
       "+4,000 EXP",
       "Prapor Rep +0.03",
       "20,000 Roubles",
-      "1× Saiga-12K ver.10 12ga semi-automatic shotgun",
-      "4× SOK-12 12ga Sb.5 5-round magazine",
-      "2× 12/70 8.5mm Magnum buckshot ammo pack (25 pcs)",
+      "1\u00d7 Saiga-12K ver.10 12ga semi-automatic shotgun",
+      "4\u00d7 SOK-12 12ga Sb.5 5-round magazine",
+      "2\u00d7 12/70 8.5mm Magnum buckshot ammo pack (25 pcs)",
       "Unlocks purchase of 5.45x39mm FMJ at Prapor LL2"
     ]
   },
@@ -112,7 +114,7 @@
       "Prapor Rep +0.03",
       "Jaeger Rep -0.01",
       "30,000 Roubles",
-      "2× Expeditionary fuel tank",
+      "2\u00d7 Expeditionary fuel tank",
       "Unlocks purchase of PP-9 Klin 9x18PMM submachine gun at Prapor LL1"
     ]
   },
@@ -136,9 +138,9 @@
       "+4,100 EXP",
       "Prapor Rep +0.03",
       "35,000 Roubles",
-      "1× PP-91-01 Kedr-B 9x18PM submachine gun",
-      "3× PP-91 Kedr 9x18PM 30-round magazine",
-      "3× 9x18mm PM PS gs PPO ammo pack (50 pcs)",
+      "1\u00d7 PP-91-01 Kedr-B 9x18PM submachine gun",
+      "3\u00d7 PP-91 Kedr 9x18PM 30-round magazine",
+      "3\u00d7 9x18mm PM PS gs PPO ammo pack (50 pcs)",
       "Unlocks purchase of BelOMO PSO-1M2-1 4x24 scope at Prapor LL2",
       "Unlocks purchase of SSSh-94 SFERA-S helmet at Prapor LL1"
     ]
@@ -162,8 +164,8 @@
       "+5,200 EXP",
       "Prapor Rep +0.02",
       "17,000 Roubles",
-      "1× RPK-16 5.45x39 light machine gun",
-      "2× 5.45x39mm PP gs ammo pack (120 pcs)",
+      "1\u00d7 RPK-16 5.45x39 light machine gun",
+      "2\u00d7 5.45x39mm PP gs ammo pack (120 pcs)",
       "Unlocks barter for AK-74 5.45x39 6L31 60-round magazine at Prapor LL2"
     ]
   },
@@ -185,8 +187,8 @@
       "+5,900 EXP",
       "Prapor Rep +0.02",
       "40,000 Roubles",
-      "1× ANA Tactical Beta 2 Battle backpack (Olive Drab)",
-      "1× 6B2 body armor (Flora)"
+      "1\u00d7 ANA Tactical Beta 2 Battle backpack (Olive Drab)",
+      "1\u00d7 6B2 body armor (Flora)"
     ]
   },
   {
@@ -207,7 +209,7 @@
       "+5,900 EXP",
       "Prapor Rep +0.02",
       "75,000 Roubles",
-      "1× Geiger-Muller counter",
+      "1\u00d7 Geiger-Muller counter",
       "Unlocks purchase of AKS-74U PBS-4 5.45x39 sound suppressor at Prapor LL3",
       "Unlocks purchase of Hexagon 12K 12ga sound suppressor at Skier LL2"
     ]
@@ -228,7 +230,7 @@
       "+10,200 EXP",
       "Prapor Rep +0.02",
       "40,000 Roubles",
-      "1× 6B43 Zabralo-Sh body armor (EMR)",
+      "1\u00d7 6B43 Zabralo-Sh body armor (EMR)",
       "Unlocks purchase of SV-98 7.62x54R bolt-action sniper rifle at Prapor LL3",
       "Unlocks purchase of 7.62x39mm PS gzh at Prapor LL3"
     ]
@@ -251,8 +253,8 @@
       "+13,100 EXP",
       "Prapor Rep +0.03",
       "50,000 Roubles",
-      "1× Kalashnikov AK-104 7.62x39 assault rifle",
-      "2× Military cable"
+      "1\u00d7 Kalashnikov AK-104 7.62x39 assault rifle",
+      "2\u00d7 Military cable"
     ]
   },
   {
@@ -272,7 +274,7 @@
       "Prapor Rep +0.04",
       "Skier Rep +0.02",
       "2,500 Dollars",
-      "1× Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle (variant Urbana)",
+      "1\u00d7 Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle (variant Urbana)",
       "Unlocks craft for 5.45x39mm PP gs at Workbench level 2"
     ]
   },
@@ -295,7 +297,7 @@
       "+18,000 EXP",
       "Prapor Rep +0.03",
       "100,000 Roubles",
-      "1× Colt M4A1 5.56x45 assault rifle (variant SOPMOD II)"
+      "1\u00d7 Colt M4A1 5.56x45 assault rifle (variant SOPMOD II)"
     ]
   },
   {
@@ -320,9 +322,9 @@
       "+18,200 EXP",
       "Prapor Rep +0.03",
       "5,000 Dollars",
-      "1× Pistol case",
-      "1× Documents case",
-      "6× 7.62x39mm BP gzh ammo pack (20 pcs)"
+      "1\u00d7 Pistol case",
+      "1\u00d7 Documents case",
+      "6\u00d7 7.62x39mm BP gzh ammo pack (20 pcs)"
     ]
   },
   {
@@ -347,7 +349,7 @@
       "Therapist Rep +0.05",
       "Skier Rep +0.01",
       "250,000 Roubles",
-      "1× Secure container Epsilon",
+      "1\u00d7 Secure container Epsilon",
       "Unlocks purchase of 7.62x54mm R PS gzh at Prapor LL4"
     ]
   },
@@ -360,15 +362,17 @@
     "location_name": "Customs",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate 25 Scavs on Customs"],
+    "objectives": [
+      "Eliminate 25 Scavs on Customs"
+    ],
     "rewards": [
       "+5,900 EXP",
       "Prapor Rep +0.02",
       "Jaeger Rep +0.01",
       "50,000 Roubles",
-      "3× F-1 hand grenade",
-      "3× RGD-5 hand grenade",
-      "1× Zarya stun grenade"
+      "3\u00d7 F-1 hand grenade",
+      "3\u00d7 RGD-5 hand grenade",
+      "1\u00d7 Zarya stun grenade"
     ]
   },
   {
@@ -389,8 +393,8 @@
       "+8,100 EXP",
       "Prapor Rep +0.03",
       "200,000 Roubles",
-      "1× 6B2 body armor (Flora)",
-      "2× Ammunition case"
+      "1\u00d7 6B2 body armor (Flora)",
+      "2\u00d7 Ammunition case"
     ]
   },
   {
@@ -402,8 +406,13 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Obtain 10 M67 grenades", "Hand over 10 grenades to Prapor"],
-    "rewards": ["Prapor Rep +0.25"]
+    "objectives": [
+      "Obtain 10 M67 grenades",
+      "Hand over 10 grenades to Prapor"
+    ],
+    "rewards": [
+      "Prapor Rep +0.25"
+    ]
   },
   {
     "task_id": 19,
@@ -414,16 +423,18 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate 8 PMC operatives with grenades"],
+    "objectives": [
+      "Eliminate 8 PMC operatives with grenades"
+    ],
     "rewards": [
       "+18,000 EXP",
       "Prapor Rep +0.02",
       "75,000 Roubles",
-      "10× 12.7x55mm PS12B (10 pcs)",
-      "5× F-1 hand grenade",
-      "5× VOG-17 Khattabka improvised hand grenade",
-      "5× VOG-25 Khattabka improvised hand grenade",
-      "2× RGN hand grenade",
+      "10\u00d7 12.7x55mm PS12B (10 pcs)",
+      "5\u00d7 F-1 hand grenade",
+      "5\u00d7 VOG-17 Khattabka improvised hand grenade",
+      "5\u00d7 VOG-25 Khattabka improvised hand grenade",
+      "2\u00d7 RGN hand grenade",
       "Unlocks craft for VOG-17 Khattabka improvised hand grenade at Workbench level 2"
     ]
   },
@@ -449,7 +460,7 @@
       "+20,900 EXP",
       "Prapor Rep +0.02",
       "55,000 Roubles",
-      "1× T H I C C Weapon case",
+      "1\u00d7 T H I C C Weapon case",
       "Unlocks purchase of SR-3M 9x39 compact assault rifle at Prapor LL4"
     ]
   },
@@ -468,9 +479,9 @@
     "rewards": [
       "+18,200 EXP",
       "Prapor Rep +0.02",
-      "1× VSS Vintorez 9x39 special sniper rifle",
-      "6× 9x39mm PAB-9 gs ammo pack (20 pcs)",
-      "2× VSS/VAL 9x39 30-round magazine",
+      "1\u00d7 VSS Vintorez 9x39 special sniper rifle",
+      "6\u00d7 9x39mm PAB-9 gs ammo pack (20 pcs)",
+      "2\u00d7 VSS/VAL 9x39 30-round magazine",
       "Unlocks craft for 9x39mm PAB-9 gs at Workbench level 2"
     ]
   },
@@ -490,10 +501,10 @@
       "+28,000 EXP",
       "Prapor Rep +0.02",
       "300,000 Roubles",
-      "1× ASh-12 12.7x55 assault rifle",
-      "3× ASh-12 12.7x55 20-round magazine",
-      "6× 12.7x55mm PS12B (10 pcs)",
-      "3× Golden neck chain",
+      "1\u00d7 ASh-12 12.7x55 assault rifle",
+      "3\u00d7 ASh-12 12.7x55 20-round magazine",
+      "6\u00d7 12.7x55mm PS12B (10 pcs)",
+      "3\u00d7 Golden neck chain",
       "Unlocks purchase of 9x21mm BT gzh at Prapor LL3"
     ]
   },
@@ -513,9 +524,9 @@
       "+35,300 EXP",
       "Prapor Rep +0.02",
       "400,000 Roubles",
-      "1× RPK-16 5.45x39 light machine gun",
-      "4× AK-74 5.45x39 6L31 60-round magazine",
-      "8× 5.45x39mm 7N40 ammo pack (30 pcs)"
+      "1\u00d7 RPK-16 5.45x39 light machine gun",
+      "4\u00d7 AK-74 5.45x39 6L31 60-round magazine",
+      "8\u00d7 5.45x39mm 7N40 ammo pack (30 pcs)"
     ]
   },
   {
@@ -534,9 +545,9 @@
       "+40,000 EXP",
       "Prapor Rep +0.02",
       "460,000 Roubles",
-      "1× Tokarev AVT-40 7.62x54R automatic rifle",
-      "3× 7.62x54mm R SNB gzh ammo pack (20 pcs)",
-      "2× AVT-40 7.62x54R 15-round magazine"
+      "1\u00d7 Tokarev AVT-40 7.62x54R automatic rifle",
+      "3\u00d7 7.62x54mm R SNB gzh ammo pack (20 pcs)",
+      "2\u00d7 AVT-40 7.62x54R 15-round magazine"
     ]
   },
   {
@@ -555,9 +566,9 @@
       "+50,000 EXP",
       "Prapor Rep +0.02",
       "500,000 Roubles",
-      "1× AS VAL 9x39 special assault rifle",
-      "3× VSS/VAL 9x39 30-round magazine",
-      "6× 9x39mm BP ammo pack (20 pcs)"
+      "1\u00d7 AS VAL 9x39 special assault rifle",
+      "3\u00d7 VSS/VAL 9x39 30-round magazine",
+      "6\u00d7 9x39mm BP ammo pack (20 pcs)"
     ]
   },
   {
@@ -576,7 +587,7 @@
       "+65,000 EXP",
       "Prapor Rep +0.02",
       "65,000 Roubles",
-      "2× BNTI Zhuk body armor (EMR)"
+      "2\u00d7 BNTI Zhuk body armor (EMR)"
     ]
   },
   {
@@ -598,7 +609,7 @@
       "+14,800 EXP",
       "Prapor Rep +0.02",
       "150,000 Roubles",
-      "10× 12.7x55mm PS12B (10 pcs)",
+      "10\u00d7 12.7x55mm PS12B (10 pcs)",
       "Unlocks barter for ASh-12 12.7x55 assault rifle at Prapor LL4"
     ]
   },
@@ -620,9 +631,9 @@
       "+5,700 EXP",
       "Prapor Rep +0.03",
       "20,000 Roubles",
-      "1× SR-2M Veresk 9x21 submachine gun",
-      "3× 9x21mm BT ammo pack (30 pcs)",
-      "3× SR-2M 9x21 20-round magazine",
+      "1\u00d7 SR-2M Veresk 9x21 submachine gun",
+      "3\u00d7 9x21mm BT ammo pack (30 pcs)",
+      "3\u00d7 SR-2M 9x21 20-round magazine",
       "Unlocks purchase of 9x21mm PS gzh at Prapor LL2"
     ]
   },
@@ -647,10 +658,10 @@
       "+9,200 EXP",
       "Prapor Rep +0.03",
       "25,000 Roubles",
-      "1× Kalashnikov AKS-74UB 5.45x39 assault rifle",
-      "1× 5.45x39mm BS gs ammo pack (120 pcs)",
-      "1× AK CAA RS47 handguard",
-      "1× AK-74M CAA AKTS AK74 buffer tube"
+      "1\u00d7 Kalashnikov AKS-74UB 5.45x39 assault rifle",
+      "1\u00d7 5.45x39mm BS gs ammo pack (120 pcs)",
+      "1\u00d7 AK CAA RS47 handguard",
+      "1\u00d7 AK-74M CAA AKTS AK74 buffer tube"
     ]
   },
   {
@@ -672,9 +683,9 @@
       "+18,100 EXP",
       "Prapor Rep +0.04",
       "50,000 Roubles",
-      "1× AS VAL 9x39 special assault rifle",
-      "5× 9x39mm SPP gs ammo pack (20 pcs)",
-      "5× 9x39mm SP-6 gs ammo pack (20 pcs)"
+      "1\u00d7 AS VAL 9x39 special assault rifle",
+      "5\u00d7 9x39mm SPP gs ammo pack (20 pcs)",
+      "5\u00d7 9x39mm SP-6 gs ammo pack (20 pcs)"
     ]
   },
   {
@@ -695,8 +706,8 @@
       "+2,800 EXP",
       "Prapor Rep +0.02",
       "22,000 Roubles",
-      "1× EYE MK.2 professional hand-held compass",
-      "1× Woods plan map",
+      "1\u00d7 EYE MK.2 professional hand-held compass",
+      "1\u00d7 Woods plan map",
       "Unlocks purchase of NPP KlASS Kora-Kulon body armor (EMR) at Prapor LL1"
     ]
   },
@@ -721,9 +732,9 @@
       "+7,800 EXP",
       "Prapor Rep +0.04",
       "45,000 Roubles",
-      "1× NSPU-M 3.5x dovetail night vision scope",
-      "1× Zenit Klesch-2P flashlight with laser",
-      "1× AKM PBS-1 7.62x39 sound suppressor",
+      "1\u00d7 NSPU-M 3.5x dovetail night vision scope",
+      "1\u00d7 Zenit Klesch-2P flashlight with laser",
+      "1\u00d7 AKM PBS-1 7.62x39 sound suppressor",
       "Unlocks English herringbone Hideout floor style"
     ]
   },
@@ -736,14 +747,16 @@
     "location_name": "Reserve",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate 5 Raiders in the command bunker on Reserve"],
+    "objectives": [
+      "Eliminate 5 Raiders in the command bunker on Reserve"
+    ],
     "rewards": [
       "+15,300 EXP",
       "Prapor Rep +0.03",
       "40,000 Roubles",
-      "1× Kalashnikov AK-103 7.62x39 assault rifle",
-      "3× AK-103 7.62x39 30-round magazine",
-      "7× 7.62x39mm PP gzh ammo pack (20 pcs)"
+      "1\u00d7 Kalashnikov AK-103 7.62x39 assault rifle",
+      "3\u00d7 AK-103 7.62x39 30-round magazine",
+      "7\u00d7 7.62x39mm PP gzh ammo pack (20 pcs)"
     ]
   },
   {
@@ -762,11 +775,11 @@
     ],
     "rewards": [
       "+69,999 EXP",
-      "1× Armband (RFARMY)",
-      "1× Armband (USEC)",
-      "1× Rys-T bulletproof helmet (Black)",
-      "2× Rys-T face shield",
-      "1× 6B43 Zabralo-Sh body armor (EMR)",
+      "1\u00d7 Armband (RFARMY)",
+      "1\u00d7 Armband (USEC)",
+      "1\u00d7 Rys-T bulletproof helmet (Black)",
+      "2\u00d7 Rys-T face shield",
+      "1\u00d7 6B43 Zabralo-Sh body armor (EMR)",
       "Unlocks purchase of 9x39mm SP-6 gs at Prapor LL4"
     ]
   },
@@ -779,7 +792,9 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate 40 Scavs with headshots"],
+    "objectives": [
+      "Eliminate 40 Scavs with headshots"
+    ],
     "rewards": [
       "+84,000 EXP",
       "+3 Aim Drills skill level",
@@ -811,9 +826,9 @@
       "+5 Melee skill levels",
       "+5 Pistols skill level",
       "+5 Strength skill level",
-      "1× 6B43 Zabralo-Sh body armor (EMR)",
-      "1× Rys-T bulletproof helmet (Black)",
-      "1× Rys-T face shield",
+      "1\u00d7 6B43 Zabralo-Sh body armor (EMR)",
+      "1\u00d7 Rys-T bulletproof helmet (Black)",
+      "1\u00d7 Rys-T face shield",
       "Unlocks craft for Rys-T bulletproof helmet (Black) at Lavatory level 3"
     ]
   },
@@ -835,8 +850,8 @@
       "+15,000 EXP",
       "Prapor Rep +0.02",
       "120,000 Roubles",
-      "1× 6Sh118 raid backpack (EMR)",
-      "1× Kalashnikov AK-12 5.45x39 assault rifle"
+      "1\u00d7 6Sh118 raid backpack (EMR)",
+      "1\u00d7 Kalashnikov AK-12 5.45x39 assault rifle"
     ]
   },
   {
@@ -869,7 +884,7 @@
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
     "objectives": [
-      "Eliminate 20 USEC PMC operatives all over the Lighthouse territory",
+      "Eliminate 20 USEC PMC operatives on Lighthouse",
       "Hand over 20 found in raid USEC PMC dogtags"
     ],
     "rewards": [
@@ -877,7 +892,7 @@
       "Prapor Rep +0.02",
       "300,000 Roubles",
       "Unlocks purchase of 23x75mm Zvezda flashbang round at Prapor LL3",
-      "3× TOZ KS-23M 23x75mm pump-action shotgun"
+      "3\u00d7 TOZ KS-23M 23x75mm pump-action shotgun"
     ]
   },
   {
@@ -899,8 +914,8 @@
       "18,000 EXP",
       "Prapor Rep +0.03",
       "155,000 Roubles",
-      "1× NPP KlASS Korund-VM body armor (Black)",
-      "1× NPP KlASS Condor glasses",
+      "1\u00d7 NPP KlASS Korund-VM body armor (Black)",
+      "1\u00d7 NPP KlASS Condor glasses",
       "Unlocks barter for Korund-VM ballistic plates (Front) at Prapor LL3"
     ]
   },
@@ -922,9 +937,9 @@
       "+10,400 EXP",
       "Prapor Rep +0.02",
       "62,000 Roubles",
-      "1× SR-2M Veresk 9x21 submachine gun",
-      "3× SR-2M 9x21 20-round magazine",
-      "80× 9x21mm P gzh"
+      "1\u00d7 SR-2M Veresk 9x21 submachine gun",
+      "3\u00d7 SR-2M 9x21 20-round magazine",
+      "80\u00d7 9x21mm P gzh"
     ]
   },
   {
@@ -940,7 +955,11 @@
       "Eliminate 10 snipers on the rooftops on Streets of Tarkov",
       "Survive and extract from the location"
     ],
-    "rewards": ["+14,700 EXP", "Prapor Rep +0.02", "77,000 Roubles"]
+    "rewards": [
+      "+14,700 EXP",
+      "Prapor Rep +0.02",
+      "77,000 Roubles"
+    ]
   },
   {
     "task_id": 43,
@@ -978,7 +997,7 @@
       "+7,300 EXP",
       "Prapor Rep +0.02",
       "42,000 Roubles",
-      "2× Bottle of Tarkovskaya vodka"
+      "2\u00d7 Bottle of Tarkovskaya vodka"
     ]
   },
   {
@@ -1000,9 +1019,9 @@
       "+10,100 EXP",
       "Prapor Rep +0.01",
       "50,000 Roubles",
-      "1× Tokarev SVT-40 7.62x54R rifle",
-      "2× SVT-40 7.62x54R 10-round magazine",
-      "2× 7.62x54mm R PS gzh ammo pack (20 pcs)",
+      "1\u00d7 Tokarev SVT-40 7.62x54R rifle",
+      "2\u00d7 SVT-40 7.62x54R 10-round magazine",
+      "2\u00d7 7.62x54mm R PS gzh ammo pack (20 pcs)",
       "Unlocks barter for Tokarev AVT-40 7.62x54R automatic rifle at Prapor LL3"
     ]
   },
@@ -1023,8 +1042,8 @@
       "+4,800 EXP",
       "Prapor Rep +0.02",
       "28,000 Roubles",
-      "1× 6B47 Ratnik-BSh helmet (Olive Drab)",
-      "1× 5.45x39mm BP gs ammo pack (30 pcs)",
+      "1\u00d7 6B47 Ratnik-BSh helmet (Olive Drab)",
+      "1\u00d7 5.45x39mm BP gs ammo pack (30 pcs)",
       "Unlocks purchase of 9x18mm PM SP7 gzh at Prapor LL2"
     ]
   },
@@ -1044,9 +1063,9 @@
       "+21,500 EXP",
       "Prapor Rep +0.02",
       "120,000 Roubles",
-      "1× SR-2M Veresk 9x21 submachine gun",
-      "4× SR-2M 9x21 30-round magazine",
-      "5× 9x21mm PS gzh ammo pack (30 pcs)",
+      "1\u00d7 SR-2M Veresk 9x21 submachine gun",
+      "4\u00d7 SR-2M 9x21 30-round magazine",
+      "5\u00d7 9x21mm PS gzh ammo pack (30 pcs)",
       "Unlocks barter for Serdyukov SR-1MP Gyurza 9x21 pistol (variant Tactical 2) at Prapor LL4"
     ]
   },
@@ -1066,9 +1085,9 @@
       "+22,600 EXP",
       "Prapor Rep +0.03",
       "150,000 Roubles",
-      "2× Kalashnikov AK-103 7.62x39 assault rifle",
-      "4× AK-103 7.62x39 30-round magazine",
-      "9× 7.62x39mm PP gzh ammo pack (20 pcs)",
+      "2\u00d7 Kalashnikov AK-103 7.62x39 assault rifle",
+      "4\u00d7 AK-103 7.62x39 30-round magazine",
+      "9\u00d7 7.62x39mm PP gzh ammo pack (20 pcs)",
       "Unlocks barter for SR-2M Veresk 9x21 submachine gun (variant FSB) at Prapor LL4"
     ]
   },
@@ -1088,8 +1107,8 @@
       "+25,000 EXP",
       "Prapor Rep +0.04",
       "185,000 Roubles",
-      "16× Bottle of Tarkovskaya vodka",
-      "1× BNTI Zhuk body armor (EMR)",
+      "16\u00d7 Bottle of Tarkovskaya vodka",
+      "1\u00d7 BNTI Zhuk body armor (EMR)",
       "Unlocks barter for Kalashnikov AK-12 5.45x39 assault rifle at Prapor LL4",
       "Unlocks craft for 5.45x39mm BP gs at Workbench level 3"
     ]
@@ -1112,9 +1131,9 @@
       "+11,600 EXP",
       "Prapor Rep +0.02",
       "80,000 Roubles",
-      "1× SR-2M Veresk 9x21 submachine gun",
-      "3× SR-2M 9x21 30-round magazine",
-      "4× 9x21mm PS gzh ammo pack (30 pcs)"
+      "1\u00d7 SR-2M Veresk 9x21 submachine gun",
+      "3\u00d7 SR-2M 9x21 30-round magazine",
+      "4\u00d7 9x21mm PS gzh ammo pack (30 pcs)"
     ]
   },
   {
@@ -1135,9 +1154,9 @@
       "+1,750 EXP",
       "Prapor Rep +0.01",
       "14,000 Roubles",
-      "1× Molot Arms VPO-136 Vepr-KM 7.62x39 carbine",
-      "5× 7.62x39mm FMJ ammo pack (20 pcs)",
-      "3× AK 7.62x39 30-round magazine (issued '55 or later)"
+      "1\u00d7 Molot Arms VPO-136 Vepr-KM 7.62x39 carbine",
+      "5\u00d7 7.62x39mm FMJ ammo pack (20 pcs)",
+      "3\u00d7 AK 7.62x39 30-round magazine (issued '55 or later)"
     ]
   },
   {
@@ -1158,8 +1177,8 @@
       "+1,600 EXP",
       "Prapor Rep +0.01",
       "13,000 Roubles",
-      "1× Mosin 7.62x54R bolt-action rifle (Infantry)",
-      "3× 7.62x54mm R FMJ ammo pack (20 pcs)"
+      "1\u00d7 Mosin 7.62x54R bolt-action rifle (Infantry)",
+      "3\u00d7 7.62x54mm R FMJ ammo pack (20 pcs)"
     ]
   },
   {
@@ -1178,7 +1197,7 @@
       "+15,600 EXP",
       "Prapor Rep +0.01",
       "35,700 Roubles",
-      "2× NPP KIASS Kora-Kulon body armor (Digital Flora)"
+      "2\u00d7 NPP KlASS Kora-Kulon body armor (EMR)"
     ]
   },
   {
@@ -1197,9 +1216,9 @@
       "+98,000 EXP",
       "Prapor Rep +0.03",
       "324,000 Roubles",
-      "3× VOG-25 Khattabka improvised hand grenade",
-      "3× RGN hand grenade",
-      "3× RGO hand grenade"
+      "3\u00d7 VOG-25 Khattabka improvised hand grenade",
+      "3\u00d7 RGN hand grenade",
+      "3\u00d7 RGO hand grenade"
     ]
   },
   {
@@ -1218,9 +1237,9 @@
       "+76,000 EXP",
       "Prapor Rep +0.03",
       "256,000 Roubles",
-      "1× Springfield Armory M1A 7.62x51 rifle (variant 2k18 NY)",
-      "2× M1A 7.62x51 20-round magazine",
-      "3× 7.62x51mm M62 Tracer ammo pack (20 pcs)"
+      "1\u00d7 Springfield Armory M1A 7.62x51 rifle (variant 2k18 NY)",
+      "2\u00d7 M1A 7.62x51 20-round magazine",
+      "3\u00d7 7.62x51mm M62 Tracer ammo pack (20 pcs)"
     ]
   },
   {
@@ -1239,7 +1258,7 @@
       "+62,400 EXP",
       "Prapor Rep +0.03",
       "226,000 Roubles",
-      "2× Ammunition case"
+      "2\u00d7 Ammunition case"
     ]
   },
   {
@@ -1260,8 +1279,8 @@
       "74,000 EXP",
       "Prapor Rep +0.02",
       "172,000 Roubles",
-      "5× Bottle of Pevko Light beer",
-      "5× Bottle of Tarkovskaya vodka"
+      "5\u00d7 Bottle of Pevko Light beer",
+      "5\u00d7 Bottle of Tarkovskaya vodka"
     ]
   },
   {
@@ -1281,7 +1300,7 @@
       "+7,300 EXP",
       "Prapor Rep +0.02",
       "49,000 Roubles",
-      "1× Metal fuel tank"
+      "1\u00d7 Metal fuel tank"
     ]
   },
   {
@@ -1304,9 +1323,9 @@
       "+12,800 EXP",
       "Mechanic Rep +0.02",
       "32,000 Roubles",
-      "1× Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle (variant Urbana)",
-      "3× DVL-10 7.62x51 10-round magazine",
-      "3× 7.62x51mm BCP FMJ ammo pack (20 pcs)"
+      "1\u00d7 Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle (variant Urbana)",
+      "3\u00d7 DVL-10 7.62x51 10-round magazine",
+      "3\u00d7 7.62x51mm BCP FMJ ammo pack (20 pcs)"
     ]
   },
   {
@@ -1318,12 +1337,14 @@
     "location_name": "Customs",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Survive and extract from Customs through Railroad Passage"],
+    "objectives": [
+      "Survive and extract from Customs through Railroad Passage"
+    ],
     "rewards": [
       "+8,200 EXP",
       "Prapor Rep +0.01",
       "44,000 Roubles",
-      "5× RGD-5 hand grenade"
+      "5\u00d7 RGD-5 hand grenade"
     ]
   },
   {
@@ -1335,13 +1356,15 @@
     "location_name": "Woods",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Hand over the package from the depot on Woods"],
+    "objectives": [
+      "Hand over the package from the depot on Woods"
+    ],
     "rewards": [
       "+11,000 EXP",
       "Prapor Rep +0.02",
       "57,000 Roubles",
-      "3× 7.62x54mm R PS gzh ammo pack (20 pcs)",
-      "3× 5.45x39mm 7N40 ammo pack (30 pcs)"
+      "3\u00d7 7.62x54mm R PS gzh ammo pack (20 pcs)",
+      "3\u00d7 5.45x39mm 7N40 ammo pack (30 pcs)"
     ]
   },
   {
@@ -1361,9 +1384,9 @@
       "+18,800 EXP",
       "Prapor Rep +0.02",
       "95,000 Roubles",
-      "1× Kalashnikov AK-12 5.45x39 assault rifle",
-      "3× AK-74 5.45x39 6L26 45-round magazine",
-      "2× 5.45x39mm BP gs ammo pack (120 pcs)"
+      "1\u00d7 Kalashnikov AK-12 5.45x39 assault rifle",
+      "3\u00d7 AK-74 5.45x39 6L26 45-round magazine",
+      "2\u00d7 5.45x39mm BP gs ammo pack (120 pcs)"
     ]
   },
   {
@@ -1383,8 +1406,8 @@
       "+14,900 EXP",
       "Prapor Rep +0.02",
       "123,000 Roubles",
-      "2× Altyn bulletproof helmet (Olive Drab)",
-      "2× Altyn helmet face shield"
+      "2\u00d7 Altyn bulletproof helmet (Olive Drab)",
+      "2\u00d7 Altyn helmet face shield"
     ]
   },
   {
@@ -1396,14 +1419,16 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate any 30 targets on any location"],
+    "objectives": [
+      "Eliminate any 30 targets on any location"
+    ],
     "rewards": [
       "+21,500 EXP",
       "Prapor Rep +0.03",
       "112,000 Roubles",
-      "1× AS VAL 9x39 special assault rifle",
-      "3× VSS/VAL 9x39 6L25 20-round magazine (Plum)",
-      "4× 9x39mm PAB-9 gs ammo pack (20 pcs)"
+      "1\u00d7 AS VAL 9x39 special assault rifle",
+      "3\u00d7 VSS/VAL 9x39 6L25 20-round magazine (Plum)",
+      "4\u00d7 9x39mm PAB-9 gs ammo pack (20 pcs)"
     ]
   },
   {
@@ -1423,9 +1448,9 @@
       "+2,000 EXP",
       "Therapist Rep +0.03",
       "15,000 Roubles",
-      "2× Car first aid kit",
-      "4× Analgin painkillers",
-      "4× Immobilizing splint"
+      "2\u00d7 Car first aid kit",
+      "4\u00d7 Analgin painkillers",
+      "4\u00d7 Immobilizing splint"
     ]
   },
   {
@@ -1445,7 +1470,7 @@
       "+2,200 EXP",
       "Therapist Rep +0.03",
       "14,000 Roubles",
-      "2× Car first aid kit",
+      "2\u00d7 Car first aid kit",
       "Unlocks purchase of Car first aid kit at Therapist LL1"
     ]
   },
@@ -1466,7 +1491,7 @@
       "+4,500 EXP",
       "Therapist Rep +0.03",
       "30,000 Roubles",
-      "1× Propital regenerative stimulant injector"
+      "1\u00d7 Propital regenerative stimulant injector"
     ]
   },
   {
@@ -1476,7 +1501,7 @@
     "trader_name": "Therapist",
     "location_id": 2,
     "location_name": "Customs",
-    "required_for_kappa": true,
+    "required_for_kappa": false,
     "required_for_lightkeeper": false,
     "objectives": [
       "Locate the water hidden inside of the dorms on Customs",
@@ -1487,8 +1512,8 @@
       "Therapist Rep +0.03",
       "Skier Rep -0.02",
       "14,000 Roubles",
-      "5× Bottle of water (0.6L)",
-      "1× Water filter"
+      "5\u00d7 Bottle of water (0.6L)",
+      "1\u00d7 Water filter"
     ]
   },
   {
@@ -1498,16 +1523,18 @@
     "trader_name": "Therapist",
     "location_id": 2,
     "location_name": "Customs",
-    "required_for_kappa": true,
+    "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate 15 Scavs on Customs"],
+    "objectives": [
+      "Eliminate 15 Scavs on Customs"
+    ],
     "rewards": [
       "+3,400 EXP",
       "Therapist Rep +0.03",
       "Jaeger Rep +0.01",
       "20,000 Roubles",
-      "3× Esmarch tourniquet",
-      "1× Aluminum splint",
+      "3\u00d7 Esmarch tourniquet",
+      "1\u00d7 Aluminum splint",
       "Unlocks purchase of Army bandage at Therapist LL2"
     ]
   },
@@ -1528,10 +1555,10 @@
       "+4,500 EXP",
       "Therapist Rep +0.03",
       "17,000 Roubles",
-      "5× Disposable syringe",
-      "1× Silicone tube",
-      "2× Analgin painkillers",
-      "2× Pile of meds"
+      "5\u00d7 Disposable syringe",
+      "1\u00d7 Silicone tube",
+      "2\u00d7 Analgin painkillers",
+      "2\u00d7 Pile of meds"
     ]
   },
   {
@@ -1553,8 +1580,8 @@
       "+5,700 EXP",
       "Therapist Rep +0.04",
       "25,000 Roubles",
-      "1× AFAK tactical individual first aid kit",
-      "3× Pile of meds",
+      "1\u00d7 AFAK tactical individual first aid kit",
+      "3\u00d7 Pile of meds",
       "Unlocks barter for 6B47 Ratnik-BSh helmet (EMR cover) at Ragman LL2"
     ]
   },
@@ -1575,7 +1602,7 @@
       "+7,500 EXP",
       "Therapist Rep +0.04",
       "75,000 Roubles",
-      "1× CMS surgical kit"
+      "1\u00d7 CMS surgical kit"
     ]
   },
   {
@@ -1595,9 +1622,9 @@
       "+4,800 EXP",
       "Therapist Rep +0.03",
       "30,000 Roubles",
-      "4× Can of pacific saury",
-      "2× Iskra ration pack",
-      "2× Can of Majaica coffee beans"
+      "4\u00d7 Can of pacific saury",
+      "2\u00d7 Iskra ration pack",
+      "2\u00d7 Can of Majaica coffee beans"
     ]
   },
   {
@@ -1619,9 +1646,9 @@
       "+6,900 EXP",
       "Therapist Rep +0.04",
       "1,500 Dollars",
-      "1× Grizzly medical kit",
-      "1× eTG-change regenerative stimulant injector",
-      "1× Adrenaline injector"
+      "1\u00d7 Grizzly medical kit",
+      "1\u00d7 eTG-change regenerative stimulant injector",
+      "1\u00d7 Adrenaline injector"
     ]
   },
   {
@@ -1642,7 +1669,7 @@
       "+4,800 EXP",
       "Therapist Rep +0.03",
       "22,000 Roubles",
-      "2× IFAK individual first aid kit",
+      "2\u00d7 IFAK individual first aid kit",
       "Unlocks purchase of IFAK individual first aid kit at Therapist LL3"
     ]
   },
@@ -1664,7 +1691,7 @@
       "+5,900 EXP",
       "Therapist Rep +0.04",
       "24,000 Roubles",
-      "4× Salewa first aid kit"
+      "4\u00d7 Salewa first aid kit"
     ]
   },
   {
@@ -1686,8 +1713,8 @@
       "+5,900 EXP",
       "Therapist Rep +0.04",
       "26,000 Roubles",
-      "2× Morphine injector",
-      "2× Adrenaline injector",
+      "2\u00d7 Morphine injector",
+      "2\u00d7 Adrenaline injector",
       "Unlocks purchase of Morphine injector at Therapist LL4"
     ]
   },
@@ -1700,13 +1727,15 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Reach the required 4 Health skill level"],
+    "objectives": [
+      "Reach the required 4 Health skill level"
+    ],
     "rewards": [
       "+6,000 EXP",
       "Therapist Rep +0.04",
       "29,000 Roubles",
-      "2× Grizzly medical kit",
-      "2× Bottle of saline solution"
+      "2\u00d7 Grizzly medical kit",
+      "2\u00d7 Bottle of saline solution"
     ]
   },
   {
@@ -1726,7 +1755,7 @@
       "+7,300 EXP",
       "Therapist Rep +0.04",
       "35,000 Roubles",
-      "1× Medicine case"
+      "1\u00d7 Medicine case"
     ]
   },
   {
@@ -1746,7 +1775,7 @@
       "+9,300 EXP",
       "Therapist Rep +0.02",
       "32,000 Roubles",
-      "3× Ibuprofen painkillers"
+      "3\u00d7 Ibuprofen painkillers"
     ]
   },
   {
@@ -1758,7 +1787,9 @@
     "location_name": "Factory",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Hand over the letter from Prapor's messenger"],
+    "objectives": [
+      "Hand over the letter from Prapor's messenger"
+    ],
     "rewards": [
       "+3,500 EXP",
       "Therapist Rep +0.02",
@@ -1784,7 +1815,7 @@
       "+7,700 EXP",
       "Therapist Rep +0.04",
       "170,000 Roubles",
-      "1× Injector case"
+      "1\u00d7 Injector case"
     ]
   },
   {
@@ -1806,7 +1837,9 @@
       "Hand over 1 Customs military checkpoint key",
       "Hand over 1 Gas station storage room key"
     ],
-    "rewards": ["Therapist Rep +0.25"]
+    "rewards": [
+      "Therapist Rep +0.25"
+    ]
   },
   {
     "task_id": 84,
@@ -1817,14 +1850,16 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Reach the required 10 Health skill level"],
+    "objectives": [
+      "Reach the required 10 Health skill level"
+    ],
     "rewards": [
       "+21,900 EXP",
       "Therapist Rep +0.04",
       "110,000 Roubles",
-      "1× Dundukk sport sunglasses",
-      "3× Zagustin hemostatic drug injector",
-      "3× Adrenaline injector",
+      "1\u00d7 Dundukk sport sunglasses",
+      "3\u00d7 Zagustin hemostatic drug injector",
+      "3\u00d7 Adrenaline injector",
       "Unlocks purchase of Adrenaline injector at Therapist LL4"
     ]
   },
@@ -1845,9 +1880,9 @@
       "Therapist Rep +0.05",
       "Jaeger Rep +0.01",
       "300,000 Roubles",
-      "3× Morphine injector",
-      "3× IFAK individual first aid kit",
-      "3× GP-7 gas mask"
+      "3\u00d7 Morphine injector",
+      "3\u00d7 IFAK individual first aid kit",
+      "3\u00d7 GP-7 gas mask"
     ]
   },
   {
@@ -1869,8 +1904,8 @@
       "+30,600 EXP",
       "Therapist Rep +0.05",
       "130,000 Roubles",
-      "1× T H I C C item case",
-      "1× Health Resort east wing room 306 key"
+      "1\u00d7 T H I C C item case",
+      "1\u00d7 Health Resort east wing room 306 key"
     ]
   },
   {
@@ -1882,8 +1917,12 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Hand over 400,000 RUB to Therapist"],
-    "rewards": ["+2 Health skill levels"]
+    "objectives": [
+      "Hand over 400,000 RUB to Therapist"
+    ],
+    "rewards": [
+      "+2 Health skill levels"
+    ]
   },
   {
     "task_id": 88,
@@ -1904,8 +1943,8 @@
       "+12,300 EXP",
       "Therapist Rep +0.04",
       "45,000 Roubles",
-      "2× SJ1 TGLabs combat stimulant injector",
-      "2× SJ6 TGLabs combat stimulant injector"
+      "2\u00d7 SJ1 TGLabs combat stimulant injector",
+      "2\u00d7 SJ6 TGLabs combat stimulant injector"
     ]
   },
   {
@@ -1927,8 +1966,8 @@
       "+12,400 EXP",
       "Therapist Rep +0.04",
       "60,000 Roubles",
-      "1× Surv12 field surgical kit",
-      "1× P22 (Product 22) stimulant injector"
+      "1\u00d7 Surv12 field surgical kit",
+      "1\u00d7 P22 (Product 22) stimulant injector"
     ]
   },
   {
@@ -1954,12 +1993,12 @@
       "Therapist Rep +0.04",
       "Fence Rep +0.25",
       "150,000 Roubles",
-      "1× TerraGroup Labs keycard (Black)",
-      "1× Medicine case",
-      "3× L1 (Norepinephrine) injector",
-      "3× Meldonin injector",
-      "5× Obdolbos 2 cocktail injector",
-      "4× Grizzly medical kit"
+      "1\u00d7 TerraGroup Labs keycard (Black)",
+      "1\u00d7 Medicine case",
+      "3\u00d7 L1 (Norepinephrine) injector",
+      "3\u00d7 Meldonin injector",
+      "5\u00d7 Obdolbos 2 cocktail injector",
+      "4\u00d7 Grizzly medical kit"
     ]
   },
   {
@@ -1981,9 +2020,9 @@
       "+7,200 EXP",
       "Therapist Rep +0.03",
       "30,000 Roubles",
-      "1× Grizzly medical kit",
-      "1× Ibuprofen painkillers",
-      "5× CALOK-B hemostatic applicator",
+      "1\u00d7 Grizzly medical kit",
+      "1\u00d7 Ibuprofen painkillers",
+      "5\u00d7 CALOK-B hemostatic applicator",
       "Unlocks Red paint Hideout wall style"
     ]
   },
@@ -2010,7 +2049,7 @@
     ],
     "rewards": [
       "+97,000 EXP",
-      "1× Medicine case",
+      "1\u00d7 Medicine case",
       "+4 Immunity skill level",
       "+4 Vitality skill level",
       "+4 Surgery skill level",
@@ -2075,9 +2114,9 @@
       "7,500 EXP",
       "Therapist Rep +0.03",
       "45,000 Roubles",
-      "1× Propital regenerative stimulant injector",
-      "1× ETG-change regenerative stimulant injector",
-      "1× Zagustin hemostatic drug injector"
+      "1\u00d7 Propital regenerative stimulant injector",
+      "1\u00d7 ETG-change regenerative stimulant injector",
+      "1\u00d7 Zagustin hemostatic drug injector"
     ]
   },
   {
@@ -2097,8 +2136,8 @@
       "+6,900 EXP",
       "Therapist Rep +0.02",
       "35,000 Roubles",
-      "2× Salewa first aid kit",
-      "2× Medical tools"
+      "2\u00d7 Salewa first aid kit",
+      "2\u00d7 Medical tools"
     ]
   },
   {
@@ -2117,8 +2156,8 @@
       "+7,800 EXP",
       "Therapist Rep +0.01",
       "45,000 Roubles",
-      "2× Aluminum splint",
-      "2× CALOK-B hemostatic applicator"
+      "2\u00d7 Aluminum splint",
+      "2\u00d7 CALOK-B hemostatic applicator"
     ]
   },
   {
@@ -2139,8 +2178,8 @@
       "+10,200 EXP",
       "Therapist Rep +0.02",
       "51,000 Roubles",
-      "2× Adrenaline injector",
-      "1× Zagustin hemostatic drug injector"
+      "2\u00d7 Adrenaline injector",
+      "1\u00d7 Zagustin hemostatic drug injector"
     ]
   },
   {
@@ -2161,9 +2200,9 @@
       "+8,100 EXP",
       "Therapist Rep +0.01",
       "43,000 Roubles",
-      "4× Adrenaline injector",
-      "2× Medical bloodset",
-      "2× Bottle of saline solution"
+      "4\u00d7 Adrenaline injector",
+      "2\u00d7 Medical bloodset",
+      "2\u00d7 Bottle of saline solution"
     ]
   },
   {
@@ -2185,10 +2224,10 @@
       "+9,000 EXP",
       "Therapist Rep +0.02",
       "55,000 Roubles",
-      "4× Disposable syringe",
-      "4× Pile of meds",
-      "2× Morphine injector",
-      "2× L1 (Norepinephrine) injector"
+      "4\u00d7 Disposable syringe",
+      "4\u00d7 Pile of meds",
+      "2\u00d7 Morphine injector",
+      "2\u00d7 L1 (Norepinephrine) injector"
     ]
   },
   {
@@ -2209,8 +2248,8 @@
       "+12,000 EXP",
       "Therapist Rep +0.01",
       "100,000 Roubles",
-      "2× Grizzly medical kit",
-      "2× Surv12 field surgical kit",
+      "2\u00d7 Grizzly medical kit",
+      "2\u00d7 Surv12 field surgical kit",
       "Unlocks barter for Propital regenerative stimulant injector at Therapist LL2"
     ]
   },
@@ -2231,8 +2270,8 @@
       "+1,200 EXP",
       "Therapist Rep +0.01",
       "6,400 Roubles",
-      "1× Factory plan map",
-      "2× Bottle of water (0.6L)"
+      "1\u00d7 Factory plan map",
+      "2\u00d7 Bottle of water (0.6L)"
     ]
   },
   {
@@ -2252,8 +2291,8 @@
       "+42,000 EXP",
       "Therapist Rep +0.02",
       "164,000 Roubles",
-      "5× Propital regenerative stimulant injector",
-      "5× eTG-change regenerative stimulant injector"
+      "5\u00d7 Propital regenerative stimulant injector",
+      "5\u00d7 eTG-change regenerative stimulant injector"
     ]
   },
   {
@@ -2274,8 +2313,8 @@
       "+11,200 EXP",
       "Therapist Rep +0.03",
       "180,000 Roubles",
-      "4× Aquamari water bottle with filter",
-      "2× M.U.L.E. stimulant injector"
+      "4\u00d7 Aquamari water bottle with filter",
+      "2\u00d7 M.U.L.E. stimulant injector"
     ]
   },
   {
@@ -2295,7 +2334,7 @@
     "rewards": [
       "+13,100 EXP",
       "Therapist Rep +0.02",
-      "6× 2A2-(b-TG) stimulant injector",
+      "6\u00d7 2A2-(b-TG) stimulant injector",
       "Unlocks craft for 2A2-(b-TG) stimulant injector at Medstation level 2"
     ]
   },
@@ -2316,7 +2355,7 @@
       "+17,200 EXP",
       "Therapist Rep +0.02",
       "63,000 Roubles",
-      "1× Documents case"
+      "1\u00d7 Documents case"
     ]
   },
   {
@@ -2328,12 +2367,14 @@
     "location_name": "Factory",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Hand over the lab journal"],
+    "objectives": [
+      "Hand over the lab journal"
+    ],
     "rewards": [
       "+13,500 EXP",
       "Therapist Rep +0.02",
       "86,000 Roubles",
-      "2× ETG-change regenerative stimulant injector"
+      "2\u00d7 ETG-change regenerative stimulant injector"
     ]
   },
   {
@@ -2346,8 +2387,8 @@
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
     "objectives": [
-      "Locate the passage leading to The Lab on Streets of Tarkov (In one raid)",
-      "Use the transit from Streets of Tarkov to The Lab (In one raid)",
+      "Use the transit from Streets of Tarkov to The Lab (In one raid)\n(Optional)  Locate the passage leading to The Lab on Streets of Tarkov (In one raid)",
+      "(Optional)  Locate the passage leading to The Lab on Streets of Tarkov (In one raid)",
       "Scout the server room in The Lab (In one raid)",
       "Scout the hazard dome in The Lab (In one raid)",
       "Scout the control room in The Lab (In one raid)",
@@ -2357,7 +2398,7 @@
       "+46,700 EXP",
       "Therapist Rep +0.03",
       "170,000 Roubles",
-      "1× Medicine case"
+      "1\u00d7 Medicine case"
     ]
   },
   {
@@ -2377,7 +2418,7 @@
       "+9,600 EXP",
       "Therapist Rep +0.02",
       "52,000 Roubles",
-      "2× Topographic survey maps"
+      "2\u00d7 Topographic survey maps"
     ]
   },
   {
@@ -2397,7 +2438,7 @@
       "+10,300 EXP",
       "Therapist Rep +0.02",
       "10,500 Roubles",
-      "2× Portable defibrillator"
+      "2\u00d7 Portable defibrillator"
     ]
   },
   {
@@ -2422,7 +2463,7 @@
       "+9,400 EXP",
       "Therapist Rep +0.02",
       "46,000 Roubles",
-      "3× Propital regenerative stimulant injector"
+      "3\u00d7 Propital regenerative stimulant injector"
     ]
   },
   {
@@ -2442,10 +2483,10 @@
     "rewards": [
       "+11,700 EXP",
       "50,000 Roubles",
-      "1× CQC Osprey MK4A plate carrier (Assault, MTP)",
-      "1× HK 416A5 5.56x45 assault rifle",
-      "3× 5.56x45 HK Steel Maritime STANAG 30-round magazine",
-      "120× 5.56x45mm MK 318 Mod 0 (SOST)"
+      "1\u00d7 CQC Osprey MK4A plate carrier (Assault, MTP)",
+      "1\u00d7 HK 416A5 5.56x45 assault rifle",
+      "3\u00d7 5.56x45 HK Steel Maritime STANAG 30-round magazine",
+      "120\u00d7 5.56x45mm MK 318 Mod 0 (SOST)"
     ]
   },
   {
@@ -2464,9 +2505,9 @@
     ],
     "rewards": [
       "+18,500 EXP",
-      "Fence Rep +2",
-      "65,000 Roubles",
-      "1× Secure container Theta"
+      "Fence Rep +0.2",
+      "165,000 Roubles",
+      "1\u00d7 Secure container Theta"
     ]
   },
   {
@@ -2529,8 +2570,8 @@
       "Hand over the Smoke balaclava",
       "Find Missam forklift key in raid",
       "Hand over the Missam forklift key",
-      "Find Video cassette with the movie Cyborg Killer from \"Prokhodimec\" in raid",
-      "Hand over the Video cassette with the movie Cyborg Killer from \"Prokhodimec\"",
+      "Find Video cassette with the Cyborg Killer movie in raid",
+      "Hand over the Video cassette with the Cyborg Killer movie",
       "Find BakeEzy cook book in raid",
       "Hand over the BakeEzy cook book",
       "Find JohnB Liquid DNB glasses in raid",
@@ -2559,8 +2600,8 @@
       "Hand over the Tamatthi kunai knife replica"
     ],
     "rewards": [
-      "1× Secure container Kappa",
-      "1× Armband (DEADSKUL)",
+      "1\u00d7 Secure container Kappa",
+      "1\u00d7 Armband (DEADSKUL)",
       "Unlocks achievement The Kappa Path"
     ]
   },
@@ -2573,10 +2614,12 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Handover Secure container Epsilon"],
+    "objectives": [
+      "Handover Secure container Epsilon"
+    ],
     "rewards": [
       "+433,333 EXP",
-      "+2 Hideout management skill levels",
+      "+2 Hideout Management skill levels",
       "Fence Rep +1.1",
       "1,000,000 Roubles"
     ]
@@ -2593,7 +2636,9 @@
     "objectives": [
       "Eliminate 7 PMC operatives while using any AK-series assault rifle"
     ],
-    "rewards": ["Fence Rep +1"]
+    "rewards": [
+      "Fence Rep +1"
+    ]
   },
   {
     "task_id": 117,
@@ -2604,8 +2649,12 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Hand over the 2 found in raid Colt M4A1 assault rifles"],
-    "rewards": ["Fence Rep +1"]
+    "objectives": [
+      "Hand over the 2 found in raid Colt M4A1 assault rifles"
+    ],
+    "rewards": [
+      "Fence Rep +1"
+    ]
   },
   {
     "task_id": 118,
@@ -2620,7 +2669,9 @@
       "Hand over the found in raid Bottle of Dan Jackiel whiskey",
       "Hand over the 3 found in raid Can of TarCola soda"
     ],
-    "rewards": ["Fence Rep +1"]
+    "rewards": [
+      "Fence Rep +1"
+    ]
   },
   {
     "task_id": 119,
@@ -2631,8 +2682,12 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Hand over 1,000,000 RUB"],
-    "rewards": ["Fence Rep +1"]
+    "objectives": [
+      "Hand over 1,000,000 RUB"
+    ],
+    "rewards": [
+      "Fence Rep +1"
+    ]
   },
   {
     "task_id": 120,
@@ -2647,7 +2702,9 @@
       "Hand over the 5 found in raid BEAR PMC dogtags",
       "Hand over the 5 found in raid USEC PMC dogtags"
     ],
-    "rewards": ["Fence Rep +1"]
+    "rewards": [
+      "Fence Rep +1"
+    ]
   },
   {
     "task_id": 121,
@@ -2658,8 +2715,14 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Reach 5.0 standing with Fence"],
-    "rewards": ["+8,800 EXP", "Fence Rep +0.02", "600 Euros"]
+    "objectives": [
+      "Reach 5.0 standing with Fence"
+    ],
+    "rewards": [
+      "+8,800 EXP",
+      "Fence Rep +0.02",
+      "600 Euros"
+    ]
   },
   {
     "task_id": 122,
@@ -2677,7 +2740,7 @@
       "+25,600 EXP",
       "Fence Rep +0.04",
       "1,200 Euros",
-      "2× Military flash drive"
+      "2\u00d7 Military flash drive"
     ]
   },
   {
@@ -2696,7 +2759,7 @@
       "+28,000 EXP",
       "Fence Rep +0.02",
       "1,150 Euros",
-      "5× XTG-12 antidote injector"
+      "5\u00d7 XTG-12 antidote injector"
     ]
   },
   {
@@ -2732,7 +2795,7 @@
       "+22,800 EXP",
       "Fence Rep +0.02",
       "1,800 Euros",
-      "3× Virtex programmable processor"
+      "3\u00d7 Virtex programmable processor"
     ]
   },
   {
@@ -2744,12 +2807,14 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate any 10 Boss guards without killing the Bosses"],
+    "objectives": [
+      "Eliminate any 10 Boss guards without killing the Bosses"
+    ],
     "rewards": [
       "+36,800 EXP",
       "Fence Rep +0.04",
       "2,200 Euros",
-      "2× Physical Bitcoin"
+      "2\u00d7 Physical Bitcoin"
     ]
   },
   {
@@ -2771,7 +2836,7 @@
       "+30,000 EXP",
       "Fence Rep +0.03",
       "6,000 Euros",
-      "1× Mark of The Unheard  Note: Only obtainable in the PvE game mode and not available to owners of the \"The Unheard\" edition of the game."
+      "1\u00d7 Mark of The Unheard\u00a0\u00a0Note: Only obtainable in the PvE game mode and not available to owners of the \"The Unheard\" edition of the game."
     ]
   },
   {
@@ -2812,7 +2877,11 @@
       "Install a WI-FI Camera at the upside-down chair on Shoreline",
       "Install a WI-FI Camera at the not-so-lonely bathroom on Shoreline"
     ],
-    "rewards": ["+30,000 EXP", "200,000 Roubles", "1× Streamer item case"]
+    "rewards": [
+      "+30,000 EXP",
+      "200,000 Roubles",
+      "1\u00d7 Streamer item case"
+    ]
   },
   {
     "task_id": 128,
@@ -2831,7 +2900,7 @@
       "+3,300 EXP",
       "Skier Rep +0.05",
       "60,000 Roubles",
-      "1× Saiga-9 9x19 carbine",
+      "1\u00d7 Saiga-9 9x19 carbine",
       "Unlocks purchase of Saiga-9 9x19 carbine at Skier LL1",
       "Unlocks purchase of 7.62x54mm R SP BT at Skier LL1"
     ]
@@ -2855,10 +2924,10 @@
       "+3,200 EXP",
       "Skier Rep +0.04",
       "500 Dollars",
-      "1× Molot Arms VPO-209 .366 TKM carbine",
-      "3× AK 7.62x39 30-round magazine (issued '55 or later)",
-      "6× .366 TKM EKO ammo pack (20 pcs)",
-      "1× BNTI Zhuk body armor (Press)",
+      "1\u00d7 Molot Arms VPO-209 .366 TKM carbine",
+      "3\u00d7 AK 7.62x39 30-round magazine (issued '55 or later)",
+      "6\u00d7 .366 TKM EKO ammo pack (20 pcs)",
+      "1\u00d7 BNTI Zhuk body armor (Press)",
       "Unlocks purchase of Remington Model 870 12ga pump-action shotgun at Skier LL1"
     ]
   },
@@ -2871,20 +2940,22 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate 3 PMCs while using pistols"],
+    "objectives": [
+      "Eliminate 3 PMCs while using pistols"
+    ],
     "rewards": [
       "+5,300 EXP",
       "Skier Rep +0.05",
       "Prapor Rep -0.05",
       "Therapist Rep -0.02",
       "70,000 Roubles",
-      "1× Camelbak Tri-Zip assault backpack (Foliage)",
+      "1\u00d7 Camelbak Tri-Zip assault backpack (Foliage)",
       "Unlocks purchase of Chiappa Rhino 50DS .357 revolver (variant Tactical) at Skier LL2"
     ]
   },
   {
     "task_id": 131,
-    "task_name": "What’s on the Flash Drive?",
+    "task_name": "What\u2019s on the Flash Drive?",
     "trader_id": 4,
     "trader_name": "Skier",
     "location_id": 11,
@@ -2899,9 +2970,9 @@
       "+4,500 EXP",
       "Skier Rep +0.04",
       "30,000 Roubles",
-      "1× Molot Arms Simonov OP-SKS 7.62x39 carbine (variant UAS)",
-      "2× SKS 7.62x39 TAPCO 6610 20-round magazine",
-      "1× SKS Hexagon 7.62x39 sound suppressor"
+      "1\u00d7 Molot Arms Simonov OP-SKS 7.62x39 carbine (variant UAS)",
+      "2\u00d7 SKS 7.62x39 TAPCO 6610 20-round magazine",
+      "1\u00d7 SKS Hexagon 7.62x39 sound suppressor"
     ]
   },
   {
@@ -2921,9 +2992,9 @@
       "4,500 EXP",
       "Skier Rep +0.04",
       "17,000 Roubles",
-      "1× Soyuz-TM STM-9 Gen.2 9x19 carbine",
-      "2× Glock 9x19 \"Big Stick\" 33-round magazine",
-      "3× 9x19mm Green Tracer ammo pack (50 pcs)",
+      "1\u00d7 Soyuz-TM STM-9 Gen.2 9x19 carbine",
+      "2\u00d7 Glock 9x19 \"Big Stick\" 33-round magazine",
+      "3\u00d7 9x19mm Green Tracer ammo pack (50 pcs)",
       "Unlocks purchase of VOMZ Pilad P1x42 Weaver reflex sight at Skier LL1"
     ]
   },
@@ -2947,7 +3018,7 @@
       "+4,800 EXP",
       "Skier Rep +0.04",
       "15,000 Roubles",
-      "1× MSA ACH TC-2002 MICH Series helmet (Olive Drab)"
+      "1\u00d7 MSA ACH TC-2002 MICH Series helmet (Olive Drab)"
     ]
   },
   {
@@ -2969,8 +3040,8 @@
       "+4,800 EXP",
       "Skier Rep +0.04",
       "15,000 Roubles",
-      "3× F-1 hand grenade",
-      "2× TP-200 TNT brick",
+      "3\u00d7 F-1 hand grenade",
+      "2\u00d7 TP-200 TNT brick",
       "Unlocks purchase of SOK-12 12ga SAI-02 10-round magazine at Jaeger LL2"
     ]
   },
@@ -2992,8 +3063,8 @@
       "Skier Rep +0.04",
       "Jaeger Rep -0.01",
       "22,000 Roubles",
-      "1× BelOMO PSO-1M2-1 4x24 scope",
-      "4× Zarya stun grenade"
+      "1\u00d7 BelOMO PSO-1M2-1 4x24 scope",
+      "4\u00d7 Zarya stun grenade"
     ]
   },
   {
@@ -3014,7 +3085,7 @@
       "+6,500 EXP",
       "Skier Rep +0.04",
       "35,000 Roubles",
-      "1× Grenade case"
+      "1\u00d7 Grenade case"
     ]
   },
   {
@@ -3026,8 +3097,12 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Hand over 1,000,000 RUB to Skier"],
-    "rewards": ["Skier Rep +0.25"]
+    "objectives": [
+      "Hand over 1,000,000 RUB to Skier"
+    ],
+    "rewards": [
+      "Skier Rep +0.25"
+    ]
   },
   {
     "task_id": 138,
@@ -3047,9 +3122,9 @@
       "+10,000 EXP",
       "Skier Rep +0.06",
       "700 Dollars",
-      "2× ADAR 2-15 5.56x45 carbine",
-      "1× 5.56x45mm M855A1 ammo pack (50 pcs)",
-      "1× Roler Submariner gold wrist watch"
+      "2\u00d7 ADAR 2-15 5.56x45 carbine",
+      "1\u00d7 5.56x45mm M855A1 ammo pack (50 pcs)",
+      "1\u00d7 Roler Submariner gold wrist watch"
     ]
   },
   {
@@ -3061,7 +3136,9 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": true,
-    "objectives": ["Hand over 5,000 USD to Skier"],
+    "objectives": [
+      "Hand over 5,000 USD to Skier"
+    ],
     "rewards": [
       "+10,000 EXP",
       "Skier Rep +0.05",
@@ -3090,8 +3167,8 @@
       "Skier Rep +0.05",
       "Jaeger Rep -0.01",
       "40,000 Roubles",
-      "3× Holosun HS401G5 reflex sight",
-      "2× Trijicon SRS-02 reflex sight"
+      "3\u00d7 Holosun HS401G5 reflex sight",
+      "2\u00d7 Trijicon SRS-02 reflex sight"
     ]
   },
   {
@@ -3113,8 +3190,8 @@
       "15,800 EXP",
       "Skier Rep +0.05",
       "40,000 Roubles",
-      "4× Morphine injector",
-      "1× Golden Star balm",
+      "4\u00d7 Morphine injector",
+      "1\u00d7 Golden Star balm",
       "Unlocks purchase of TDI KRISS Vector Gen.2 9x19 submachine gun at Skier LL3"
     ]
   },
@@ -3143,7 +3220,7 @@
       "17,500 EXP",
       "Skier Rep +0.05",
       "3,000 Dollars",
-      "1× Armasight N-15 night vision goggles",
+      "1\u00d7 Armasight N-15 night vision goggles",
       "Unlocks purchase of ORSIS T-5000M 7.62x51 bolt-action sniper rifle at Skier LL3"
     ]
   },
@@ -3165,9 +3242,9 @@
       "14,000 EXP",
       "Skier Rep +0.05",
       "45,000 Roubles",
-      "2× AKM/AK-74 FAB Defense UAS stock",
-      "4× AK CNC Warrior 5.56x45 muzzle device adapter",
-      "1× EOTech Vudu 1-6x24 30mm riflescope"
+      "2\u00d7 AKM/AK-74 FAB Defense UAS stock",
+      "4\u00d7 AK CNC Warrior 5.56x45 muzzle device adapter",
+      "1\u00d7 EOTech Vudu 1-6x24 30mm riflescope"
     ]
   },
   {
@@ -3189,8 +3266,8 @@
       "19,100 EXP",
       "Skier Rep +0.05",
       "65,000 Roubles",
-      "1× Roler Submariner gold wrist watch",
-      "2× GP coin"
+      "1\u00d7 Roler Submariner gold wrist watch",
+      "2\u00d7 GP coin"
     ]
   },
   {
@@ -3202,8 +3279,14 @@
     "location_name": "Woods",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Hand over Secure Folder 0052 to Skier"],
-    "rewards": ["+4,500 EXP", "Skier Rep +0.04", "180,000 Roubles"]
+    "objectives": [
+      "Hand over Secure Folder 0052 to Skier"
+    ],
+    "rewards": [
+      "+4,500 EXP",
+      "Skier Rep +0.04",
+      "180,000 Roubles"
+    ]
   },
   {
     "task_id": 146,
@@ -3222,8 +3305,8 @@
       "Skier Rep +0.05",
       "Fence Rep +0.05",
       "150,000 Roubles",
-      "1× Kel-Tec RFB 7.62x51 rifle",
-      "4× 12/70 AP-20 ammo pack (25 pcs)"
+      "1\u00d7 Kel-Tec RFB 7.62x51 rifle",
+      "4\u00d7 12/70 AP-20 ammo pack (25 pcs)"
     ]
   },
   {
@@ -3235,13 +3318,15 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Reach the required Stress resistance skill level of 5"],
+    "objectives": [
+      "Reach the required Stress resistance skill level of 5"
+    ],
     "rewards": [
       "+25,100 EXP",
       "Skier Rep +0.05",
       "150,000 Roubles",
-      "3× Bottle of Tarkovskaya vodka",
-      "5× Bottle of Pevko Light beer",
+      "3\u00d7 Bottle of Tarkovskaya vodka",
+      "5\u00d7 Bottle of Pevko Light beer",
       "Unlocks barter for Miller Bros. Blades M-2 Tactical Sword at Skier LL4"
     ]
   },
@@ -3262,7 +3347,7 @@
       "+18,000 EXP",
       "Skier Rep +0.05",
       "100,000 Roubles",
-      "1× MP-155 12ga semi-automatic shotgun (Ultima variant)",
+      "1\u00d7 MP-155 12ga semi-automatic shotgun (Ultima variant)",
       "Unlocks craft for 12/70 flechette at Workbench level 3"
     ]
   },
@@ -3312,9 +3397,9 @@
       "+12,900 EXP",
       "Skier Rep +0.05",
       "150,000 Roubles",
-      "1× HK MP5 9x19 submachine gun (Navy 3 Round Burst) (variant SD)",
-      "3× HK MP5 9x19 30-round magazine",
-      "3× 9x19mm Luger CCI ammo pack (50 pcs)"
+      "1\u00d7 HK MP5 9x19 submachine gun (Navy 3 Round Burst) (variant SD)",
+      "3\u00d7 HK MP5 9x19 30-round magazine",
+      "3\u00d7 9x19mm Luger CCI ammo pack (50 pcs)"
     ]
   },
   {
@@ -3333,8 +3418,8 @@
       "+9,000 EXP",
       "Skier Rep +0.04",
       "35,000 Roubles",
-      "2× 5.45x39mm BP gs ammo pack (120 pcs)",
-      "2× Expeditionary fuel tank"
+      "2\u00d7 5.45x39mm BP gs ammo pack (120 pcs)",
+      "2\u00d7 Expeditionary fuel tank"
     ]
   },
   {
@@ -3417,9 +3502,9 @@
       "11,700 EXP",
       "Skier Rep +0.03",
       "50,000 Roubles",
-      "1× Rifle Dynamics RD-704 7.62x39 assault rifle",
-      "2× AK 7.62x39 FAB Defense Ultimag 30R 30-round magazine",
-      "3× 7.62x39mm MAI AP ammo pack (20 pcs)"
+      "1\u00d7 Rifle Dynamics RD-704 7.62x39 assault rifle",
+      "2\u00d7 AK 7.62x39 FAB Defense Ultimag 30R 30-round magazine",
+      "3\u00d7 7.62x39mm MAI AP ammo pack (20 pcs)"
     ]
   },
   {
@@ -3439,7 +3524,7 @@
       "+28,800 EXP",
       "Skier Rep +0.03",
       "112,000 Roubles",
-      "1× Kel-Tec RFB 7.62x51 rifle"
+      "1\u00d7 Kel-Tec RFB 7.62x51 rifle"
     ]
   },
   {
@@ -3460,7 +3545,7 @@
       "+29,200 EXP",
       "Skier Rep +0.03",
       "114,000 Roubles",
-      "1× TDI KRISS Vector Gen.2 9x19 submachine gun"
+      "1\u00d7 TDI KRISS Vector Gen.2 9x19 submachine gun"
     ]
   },
   {
@@ -3476,7 +3561,11 @@
       "Find the debtor on Streets of Tarkov",
       "Survive and extract from the location"
     ],
-    "rewards": ["+26,600 EXP", "Skier Rep +0.03", "250,000 Roubles"]
+    "rewards": [
+      "+26,600 EXP",
+      "Skier Rep +0.03",
+      "250,000 Roubles"
+    ]
   },
   {
     "task_id": 159,
@@ -3495,9 +3584,9 @@
       "+18,400 EXP",
       "Skier Rep +0.02",
       "80,000 Roubles",
-      "2× SAG AK-545 5.45x39 carbine",
-      "4× AK-74 5.45x39 6L23 30-round magazine (black)",
-      "6× 5.45x39mm BT gs ammo pack (30 pcs)",
+      "2\u00d7 SAG AK-545 5.45x39 carbine",
+      "4\u00d7 AK-74 5.45x39 6L23 30-round magazine (black)",
+      "6\u00d7 5.45x39mm BT gs ammo pack (30 pcs)",
       "Unlocks purchase of AK CSS knurled charging handle at Skier LL3"
     ]
   },
@@ -3518,9 +3607,9 @@
       "+21,300 EXP",
       "Skier Rep +0.03",
       "120,000 Roubles",
-      "1× SIG MCX .300 Blackout assault rifle",
-      "3× 5.56x45 Colt AR-15 STANAG 30-round magazine",
-      "3× .300 Blackout CBJ ammo pack (50 pcs)",
+      "1\u00d7 SIG MCX .300 Blackout assault rifle",
+      "3\u00d7 AR-15 5.56x45 Colt STANAG 30-round magazine",
+      "3\u00d7 .300 Blackout CBJ ammo pack (50 pcs)",
       "Unlocks purchase of Zenit RK-1 tactical foregrip on B-25U mount at Skier LL4"
     ]
   },
@@ -3541,11 +3630,11 @@
       "+26,000 EXP",
       "Skier Rep +0.04",
       "280,000 Roubles",
-      "1× Propane tank (5L)",
-      "1× Car battery",
-      "1× Silicone tube",
-      "1× Alkaline cleaner for heat exchangers",
-      "1× Can of Majaica coffee beans"
+      "1\u00d7 Propane tank (5L)",
+      "1\u00d7 Car battery",
+      "1\u00d7 Silicone tube",
+      "1\u00d7 Alkaline cleaner for heat exchangers",
+      "1\u00d7 Can of Majaica coffee beans"
     ]
   },
   {
@@ -3574,7 +3663,11 @@
       "Locate the third ATM on Primorsky Ave on Streets of Tarkov",
       "Locate the ATM at the expo on Streets of Tarkov"
     ],
-    "rewards": ["+25,500 EXP", "Skier Rep +0.03", "600,000 Roubles"]
+    "rewards": [
+      "+25,500 EXP",
+      "Skier Rep +0.03",
+      "600,000 Roubles"
+    ]
   },
   {
     "task_id": 163,
@@ -3585,12 +3678,14 @@
     "location_name": "Ground Zero",
     "required_for_kappa": true,
     "required_for_lightkeeper": true,
-    "objectives": ["Use the paid vehicle extraction on Ground Zero"],
+    "objectives": [
+      "Use the paid vehicle extraction on Ground Zero"
+    ],
     "rewards": [
       "+1,900 EXP",
       "Skier Rep +0.01",
       "12,000 Roubles",
-      "1× OPSMEN Earmor M32 headset"
+      "1\u00d7 OPSMEN Earmor M32 headset"
     ]
   },
   {
@@ -3603,9 +3698,13 @@
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
     "objectives": [
-      "Plant the \"Bison VS Undertaker\" poster in the living quarters at the Scav base on Customs"
+      "Plant the Bison vs Undertaker poster in the living quarters at the Scav base on Customs"
     ],
-    "rewards": ["+4,500 EXP", "35,000 Roubles", "Unlocks Ref as trader"]
+    "rewards": [
+      "+4,500 EXP",
+      "35,000 Roubles",
+      "Unlocks Ref as trader"
+    ]
   },
   {
     "task_id": 165,
@@ -3624,9 +3723,9 @@
       "+40,000 EXP",
       "Skier Rep +0.02",
       "1,600 Euros",
-      "2× AWC Thor PSR XL multi-caliber sound suppressor",
-      "2× AWC PSR 7.62x51 muzzle brake",
-      "2× SIG Sauer SRD762Ti 7.62x51 sound suppressor"
+      "2\u00d7 AWC Thor PSR XL multi-caliber sound suppressor",
+      "2\u00d7 AR-10 AWC PSR 7.62x51 muzzle brake",
+      "2\u00d7 SIG Sauer SRD762Ti 7.62x51 sound suppressor"
     ]
   },
   {
@@ -3646,9 +3745,9 @@
       "+36,000 EXP",
       "Skier Rep +0.02",
       "1,500 Euros",
-      "1× L3Harris AN/PVS-14 night vision monocular",
-      "1× AN/PVS-14 Norotos Dual Dovetail Mount",
-      "1× Norotos Titanium Advanced Tactical Mount"
+      "1\u00d7 L3Harris AN/PVS-14 night vision monocular",
+      "1\u00d7 AN/PVS-14 Norotos Dual Dovetail Mount",
+      "1\u00d7 Norotos Titanium Advanced Tactical Mount"
     ]
   },
   {
@@ -3669,8 +3768,8 @@
       "78,000 EXP",
       "Skier Rep +0.02",
       "1,900 Euros",
-      "2× Golden egg",
-      "2× Tetriz portable game console"
+      "2\u00d7 Golden egg",
+      "2\u00d7 Tetriz portable game console"
     ]
   },
   {
@@ -3682,12 +3781,15 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Find 2 Propane tanks (5L) in raid", "Hand over the items"],
+    "objectives": [
+      "Find 2 Propane tanks (5L) in raid",
+      "Hand over the items"
+    ],
     "rewards": [
       "+9,600 EXP",
       "Skier Rep +0.01",
       "200 Euros",
-      "1× Expeditionary fuel tank"
+      "1\u00d7 Expeditionary fuel tank"
     ]
   },
   {
@@ -3709,7 +3811,7 @@
       "+14,200 EXP",
       "Skier Rep +0.03",
       "56,000 Roubles",
-      "4× Alyonka chocolate bar"
+      "4\u00d7 Alyonka chocolate bar"
     ]
   },
   {
@@ -3730,9 +3832,9 @@
       "+7,200 EXP",
       "Skier Rep +0.02",
       "550 Euros",
-      "1× TDI KRISS Vector Gen.2 .45 ACP submachine gun",
-      "3× Glock .45 ACP KRISS G30 MagEx 30-round magazine",
-      "3× .45 ACP Lasermatch FMJ ammo pack (50 pcs)"
+      "1\u00d7 TDI KRISS Vector Gen.2 .45 ACP submachine gun",
+      "3\u00d7 Glock .45 ACP KRISS G30 MagEx 30-round magazine",
+      "3\u00d7 .45 ACP Lasermatch FMJ ammo pack (50 pcs)"
     ]
   },
   {
@@ -3744,12 +3846,14 @@
     "location_name": "Factory",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Survive and extract from Factory through the main exit"],
+    "objectives": [
+      "Survive and extract from Factory through the main exit"
+    ],
     "rewards": [
       "+5,500 EXP",
       "Skier Rep +0.01",
       "260 Euros",
-      "3× TP-200 TNT brick"
+      "3\u00d7 TP-200 TNT brick"
     ]
   },
   {
@@ -3806,9 +3910,9 @@
     "rewards": [
       "+21,000 EXP",
       "Skier Rep +0.03",
-      "1× Sako TRG M10 .338 LM bolt-action sniper rifle",
-      "2× Sako TRG M10 .338 LM 8-round magazine",
-      "1× .338 Lapua Magnum FMJ ammo pack (20 pcs)",
+      "1\u00d7 Sako TRG M10 .338 LM bolt-action sniper rifle",
+      "2\u00d7 Sako TRG M10 .338 LM 8-round magazine",
+      "1\u00d7 .338 Lapua Magnum FMJ ammo pack (20 pcs)",
       "Unlocks purchase of Sako TRG M10 .338 LM bolt-action sniper rifle at Skier LL4"
     ]
   },
@@ -3829,7 +3933,7 @@
       "+23,000 EXP",
       "Skier Rep +0.02",
       "100,000 Roubles",
-      "3× Walker's XCEL 500BT Digital headset",
+      "3\u00d7 Walker's XCEL 500BT Digital headset",
       "Unlocks barter for Saiga-12K 12ga automatic shotgun at Skier LL4"
     ]
   },
@@ -3842,12 +3946,14 @@
     "location_name": "Woods",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate 2 PMC operatives on Woods (in one raid)"],
+    "objectives": [
+      "Eliminate 2 PMC operatives on Woods (in one raid)"
+    ],
     "rewards": [
       "+8,000 EXP",
       "Skier Rep +0.02",
       "550 Euros",
-      "1× Ammunition case"
+      "1\u00d7 Ammunition case"
     ]
   },
   {
@@ -3871,9 +3977,9 @@
       "+17,900 EXP",
       "Skier Rep +0.02",
       "1,100 Euros",
-      "1× Desert Tech MDR 5.56x45 assault rifle",
-      "3× 5.56x45 Magpul PMAG 40 GEN M3 STANAG 40-round magazine",
-      "3× 5.56x45mm M855A1 ammo pack (50 pcs)"
+      "1\u00d7 Desert Tech MDR 5.56x45 assault rifle",
+      "3\u00d7 AR-15 5.56x45 Magpul PMAG 40 GEN M3 STANAG 40-round magazine",
+      "3\u00d7 5.56x45mm M855A1 ammo pack (50 pcs)"
     ]
   },
   {
@@ -3895,7 +4001,7 @@
       "+21,800 EXP",
       "Skier Rep +0.02",
       "1,600 Euros",
-      "2× Peltor ComTac VI headset (Coyote Brown)"
+      "2\u00d7 Peltor ComTac VI headset (Coyote Brown)"
     ]
   },
   {
@@ -3907,12 +4013,14 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Sell any 75 items to Peacekeeper"],
+    "objectives": [
+      "Sell any 75 items to Peacekeeper"
+    ],
     "rewards": [
       "+14,600 EXP",
       "Skier Rep +0.02",
       "900 Euros",
-      "2× Intelligence folder"
+      "2\u00d7 Intelligence folder"
     ]
   },
   {
@@ -3932,9 +4040,9 @@
       "+22,500 EXP",
       "Skier Rep +0.02",
       "1,800 Euros",
-      "1× SIG MCX-SPEAR 6.8x51 assault rifle",
-      "80× 6.8x51mm SIG FMJ",
-      "3× AR-10 7.62x51 Lancer L7AWM 20-round magazine"
+      "1\u00d7 SIG MCX-SPEAR 6.8x51 assault rifle",
+      "80\u00d7 6.8x51mm SIG FMJ",
+      "3\u00d7 AR-10 7.62x51 Lancer L7AWM 20-round magazine"
     ]
   },
   {
@@ -3957,7 +4065,7 @@
       "+85,200 EXP",
       "Skier Rep +0.02",
       "5,000 Euros",
-      "1× T H I C C Weapon case",
+      "1\u00d7 T H I C C Weapon case",
       "Unlocks achievement All-Wheel Drive"
     ]
   },
@@ -3980,7 +4088,7 @@
       "+4,800 EXP",
       "Peacekeeper Rep +0.02",
       "700 Dollars",
-      "1× UNTAR helmet",
+      "1\u00d7 UNTAR helmet",
       "Unlocks purchase of SIG Sauer ROMEO4 reflex sight at Peacekeeper LL2",
       "Unlocks barter for Springfield Armory M1A 7.62x51 rifle at Peacekeeper LL2"
     ]
@@ -4004,8 +4112,8 @@
       "+5,900 EXP",
       "Peacekeeper Rep +0.03",
       "900 Dollars",
-      "1× Direct Action Thunderbolt compact chest rig (Shadow Grey)",
-      "2× M67 hand grenade",
+      "1\u00d7 Direct Action Thunderbolt compact chest rig (Shadow Grey)",
+      "2\u00d7 M67 hand grenade",
       "Unlocks purchase of B&T MP9 9x19 submachine gun at Peacekeeper LL1",
       "Unlocks purchase of 5.56x45mm FMJ at Peacekeeper LL2"
     ]
@@ -4029,8 +4137,8 @@
       "+5,900 EXP",
       "Peacekeeper Rep +0.03",
       "900 Dollars",
-      "1× HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
-      "3× 9x19mm Pst gzh ammo pack (50 pcs)",
+      "1\u00d7 HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
+      "3\u00d7 9x19mm Pst gzh ammo pack (50 pcs)",
       "Unlocks purchase of HK MP5 9x19 submachine gun (Navy 3 Round Burst) (variant SD) at Peacekeeper LL2",
       "Unlocks purchase of 5.7x28mm SS197SR at Peacekeeper LL2"
     ]
@@ -4056,8 +4164,8 @@
       "+6,600 EXP",
       "Peacekeeper Rep +0.03",
       "900 Dollars",
-      "1× ELCAN SpecterDR 1x/4x scope (FDE)",
-      "1× Leupold Mark 4 HAMR 4x24 DeltaPoint hybrid assault scope",
+      "1\u00d7 ELCAN SpecterDR 1x/4x scope (FDE)",
+      "1\u00d7 Leupold Mark 4 HAMR 4x24 DeltaPoint hybrid assault scope",
       "Unlocks purchase of SIG MPX 9x19 submachine gun at Peacekeeper LL2"
     ]
   },
@@ -4084,7 +4192,7 @@
       "+11,500 EXP",
       "Peacekeeper Rep +0.03",
       "800 Dollars",
-      "2× Weapon parts",
+      "2\u00d7 Weapon parts",
       "Unlocks purchase of 5.56x45mm Warmageddon at Peacekeeper LL2",
       "Unlocks purchase of AK-74 Hexagon 5.45x39 sound suppressor at Skier LL2"
     ]
@@ -4106,7 +4214,7 @@
       "+6,200 EXP",
       "Peacekeeper Rep +0.02",
       "700 Dollars",
-      "3× Golden neck chain"
+      "3\u00d7 Golden neck chain"
     ]
   },
   {
@@ -4128,7 +4236,7 @@
       "+7,500 EXP",
       "Peacekeeper Rep +0.03",
       "850 Dollars",
-      "1× Knight's Armament Company SR-25 7.62x51 marksman rifle"
+      "1\u00d7 Knight's Armament Company SR-25 7.62x51 marksman rifle"
     ]
   },
   {
@@ -4147,10 +4255,10 @@
       "+7,400 EXP",
       "Peacekeeper Rep +0.03",
       "950 Dollars",
-      "1× SIG MPX 9x19 submachine gun (variant Silenced)",
-      "3× MPX 9x19 30-round magazine",
-      "5× 9x19mm RIP ammo pack (20 pcs)",
-      "1× Health Resort west wing room 306 key"
+      "1\u00d7 SIG MPX 9x19 submachine gun (variant Silenced)",
+      "3\u00d7 MPX 9x19 30-round magazine",
+      "5\u00d7 9x19mm RIP ammo pack (20 pcs)",
+      "1\u00d7 Health Resort west wing room 306 key"
     ]
   },
   {
@@ -4171,7 +4279,7 @@
       "+6,300 EXP",
       "Peacekeeper Rep +0.02",
       "900 Dollars",
-      "1× Physical Bitcoin",
+      "1\u00d7 Physical Bitcoin",
       "Unlocks purchase of M67 hand grenade at Peacekeeper LL3"
     ]
   },
@@ -4198,10 +4306,10 @@
       "+7,600 EXP",
       "Peacekeeper Rep +0.03",
       "800 Dollars",
-      "1× TDI KRISS Vector Gen.2 9x19 submachine gun",
-      "5× M67 hand grenade",
-      "4× Glock 9x19 \"Big Stick\" 33-round magazine",
-      "2× Toolset"
+      "1\u00d7 TDI KRISS Vector Gen.2 9x19 submachine gun",
+      "5\u00d7 M67 hand grenade",
+      "4\u00d7 Glock 9x19 \"Big Stick\" 33-round magazine",
+      "2\u00d7 Toolset"
     ]
   },
   {
@@ -4222,7 +4330,7 @@
       "+7,700 EXP",
       "Peacekeeper Rep +0.03",
       "1,100 Dollars",
-      "1× Car Battery"
+      "1\u00d7 Car Battery"
     ]
   },
   {
@@ -4242,7 +4350,7 @@
       "+6,500 EXP",
       "Peacekeeper Rep +0.02",
       "980 Dollars",
-      "1× RB-AO key"
+      "1\u00d7 RB-AO key"
     ]
   },
   {
@@ -4254,8 +4362,13 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": true,
-    "objectives": ["Hand over 8,000 USD to Peacekeeper"],
-    "rewards": ["+9,500 EXP", "Peacekeeper Rep +0.04"]
+    "objectives": [
+      "Hand over 8,000 USD to Peacekeeper"
+    ],
+    "rewards": [
+      "+9,500 EXP",
+      "Peacekeeper Rep +0.04"
+    ]
   },
   {
     "task_id": 195,
@@ -4280,7 +4393,7 @@
       "+9,700 EXP",
       "Peacekeeper Rep +0.04",
       "Jaeger Rep -0.01",
-      "1× RB-ST key",
+      "1\u00d7 RB-ST key",
       "Unlocks purchase of Crye Precision AirFrame helmet (Tan) at Peacekeeper LL4"
     ]
   },
@@ -4301,9 +4414,9 @@
       "+8,200 EXP",
       "Peacekeeper Rep +0.03",
       "700 Dollars",
-      "2× Colt M45A1 .45 ACP pistol",
-      "6× M1911A1 .45 ACP Wilson Combat 7-round magazine",
-      "1× Pistol case"
+      "2\u00d7 Colt M45A1 .45 ACP pistol",
+      "6\u00d7 M1911A1 .45 ACP Wilson Combat 7-round magazine",
+      "1\u00d7 Pistol case"
     ]
   },
   {
@@ -4324,9 +4437,9 @@
       "+8,300 EXP",
       "Peacekeeper Rep +0.03",
       "850 Dollars",
-      "1× Colt M4A1 5.56x45 assault rifle",
-      "3× 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine",
-      "Unlocks purchase of KAC QDSS NT-4 5.56x45 sound suppressor (Black) at Peacekeeper LL3"
+      "1\u00d7 Colt M4A1 5.56x45 assault rifle",
+      "3\u00d7 AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine",
+      "Unlocks purchase of KAC QDSS NT4 5.56x45 sound suppressor (Black) at Peacekeeper LL3"
     ]
   },
   {
@@ -4346,7 +4459,7 @@
       "+8,400 EXP",
       "Peacekeeper Rep +0.03",
       "900 Dollars",
-      "1× HK MP7A1 4.6x30 submachine gun"
+      "1\u00d7 HK MP7A1 4.6x30 submachine gun"
     ]
   },
   {
@@ -4365,7 +4478,7 @@
       "+11,400 EXP",
       "Peacekeeper Rep +0.04",
       "1,100 Dollars",
-      "2× Secure magnetic tape cassette",
+      "2\u00d7 Secure magnetic tape cassette",
       "Unlocks craft for .300 Blackout M62 Tracer at Workbench level 3"
     ]
   },
@@ -4387,8 +4500,8 @@
       "+9,700 EXP",
       "Peacekeeper Rep +0.03",
       "1,300 Dollars",
-      "1× Eberlestock F5 Switchblade backpack (Dry Earth)",
-      "Unlocks barter for 5.56x45 Magpul PMAG D-60 STANAG 60-round magazine at Peacekeeper LL4",
+      "1\u00d7 Eberlestock F5 Switchblade backpack (Dry Earth)",
+      "Unlocks barter for AR-15 5.56x45 Magpul PMAG D-60 STANAG 60-round magazine at Peacekeeper LL4",
       "Unlocks purchase of MSA ACH TC-2001 MICH Series helmet (Olive Drab) at Peacekeeper LL2"
     ]
   },
@@ -4409,7 +4522,7 @@
       "+8,200 EXP",
       "Peacekeeper Rep +0.03",
       "1,500 Dollars",
-      "1× NcSTAR ADO P4 Sniper 3-9x42 riflescope",
+      "1\u00d7 NcSTAR ADO P4 Sniper 3-9x42 riflescope",
       "Unlocks purchase of HK 416A5 5.56x45 assault rifle at Peacekeeper LL3"
     ]
   },
@@ -4430,7 +4543,7 @@
       "+8,300 EXP",
       "Peacekeeper Rep +0.03",
       "1,700 Dollars",
-      "1× Shoreline Health Resort plan map",
+      "1\u00d7 Shoreline Health Resort plan map",
       "Unlocks purchase of Desert Tech MDR 7.62x51 assault rifle at Peacekeeper LL4"
     ]
   },
@@ -4451,7 +4564,7 @@
       "+8,400 EXP",
       "Peacekeeper Rep +0.03",
       "1,700 Dollars",
-      "1× HighCom Trooper TFO body armor (MultiCam)",
+      "1\u00d7 HighCom Trooper TFO body armor (MultiCam)",
       "Unlocks purchase of Remington R11 RSASS 7.62x51 marksman rifle at Peacekeeper LL4",
       "Unlocks purchase of AFAK tactical individual first aid kit at Peacekeeper LL4"
     ]
@@ -4465,13 +4578,15 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Reach the required Bolt-action Rifles skill level of 7"],
+    "objectives": [
+      "Reach the required Bolt-action Rifles skill level of 7"
+    ],
     "rewards": [
       "+8,500 EXP",
       "Peacekeeper Rep +0.03",
       "3,500 Dollars",
-      "1× Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle (variant Saboteur)",
-      "3× 7.62x51mm M61 ammo pack (20 pcs)",
+      "1\u00d7 Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle (variant Saboteur)",
+      "3\u00d7 7.62x51mm M61 ammo pack (20 pcs)",
       "Unlocks barter for FN40GL Mk2 40mm grenade launcher at Peacekeeper LL4",
       "Unlocks craft for 7.62x51mm M61 at Workbench level 3"
     ]
@@ -4501,9 +4616,9 @@
       "+42,600 EXP",
       "Peacekeeper Rep +0.04",
       "25,000 Dollars",
-      "1× EOTech HHS-1 hybrid sight (Tan)",
-      "1× Ops-Core SLAAP armor helmet plate (Tan)",
-      "3× AR-15 Vltor MUR-1S 5.56x45 upper receiver",
+      "1\u00d7 EOTech HHS-1 hybrid sight (Tan)",
+      "1\u00d7 Ops-Core SLAAP armor helmet plate (Tan)",
+      "3\u00d7 AR-15 Vltor MUR-1S 5.56x45 upper receiver",
       "Unlocks purchase of EOTech HHS-1 hybrid sight (Tan) at Peacekeeper LL4",
       "Unlocks purchase of Ops-Core SLAAP armor helmet plate (Tan) at Peacekeeper LL4",
       "Unlocks purchase of AR-15 Vltor MUR-1S 5.56x45 upper receiver at Peacekeeper LL4",
@@ -4530,9 +4645,9 @@
     "rewards": [
       "+25,500 EXP",
       "Peacekeeper Rep +0.04",
-      "1× Remington Model 700 7.62x51 bolt-action sniper rifle (variant AAC SD)",
-      "2× 7.62x51mm M61 ammo pack (20 pcs)",
-      "2× L3Harris GPNVG-18 night vision goggles",
+      "1\u00d7 Remington Model 700 7.62x51 bolt-action sniper rifle (variant AAC SD)",
+      "2\u00d7 7.62x51mm M61 ammo pack (20 pcs)",
+      "2\u00d7 L3Harris GPNVG-18 night vision goggles",
       "Unlocks barter for Cult Locust ballistic plate at Skier LL4"
     ]
   },
@@ -4555,10 +4670,10 @@
       "+21,000 EXP",
       "Peacekeeper Rep +0.04",
       "2,000 Dollars",
-      "2× HK 416A5 5.56x45 assault rifle",
-      "2× 5.56x45 Magpul PMAG D-60 STANAG 60-round magazine",
-      "2× 5.56x45 SureFire MAG5-60 STANAG 60-round magazine",
-      "3× 5.56x45mm M995 ammo pack (100 pcs)"
+      "2\u00d7 HK 416A5 5.56x45 assault rifle",
+      "2\u00d7 AR-15 5.56x45 Magpul PMAG D-60 STANAG 60-round magazine",
+      "2\u00d7 AR-15 5.56x45 SureFire MAG5-60 STANAG 60-round magazine",
+      "3\u00d7 5.56x45mm M995 ammo pack (100 pcs)"
     ]
   },
   {
@@ -4570,8 +4685,12 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Hand over 50,000 EUR to Peacekeeper"],
-    "rewards": ["+3 Bolt-action Rifles skill levels"]
+    "objectives": [
+      "Hand over 50,000 EUR to Peacekeeper"
+    ],
+    "rewards": [
+      "+3 Bolt-action Rifles skill levels"
+    ]
   },
   {
     "task_id": 209,
@@ -4602,10 +4721,10 @@
       "+15.300 EXP",
       "Peacekeeper Rep +0.04",
       "4,000 Dollars",
-      "1× Ammunition case",
-      "1× DS Arms SA58 7.62x51 assault rifle (variant BEL)",
+      "1\u00d7 Ammunition case",
+      "1\u00d7 DS Arms SA58 7.62x51 assault rifle (variant BEL)",
       "Unlocks purchase of Ops-Core FAST multi-hit ballistic face shield at Peacekeeper LL4",
-      "Unlocks purchase of Team Wendy EXFIL Ballistic Helmet (variant Black) at Peacekeeper LL4"
+      "Unlocks purchase of Team Wendy EXFIL Ballistic Helmet (Black) at Peacekeeper LL4"
     ]
   },
   {
@@ -4626,9 +4745,9 @@
       "+17,000 EXP",
       "Peacekeeper Rep +0.04",
       "5,000 Dollars",
-      "4× Desert Tech MDR 7.62x51 assault rifle",
-      "3× AR-10 7.62x51 Magpul PMAG 20 SR-LR GEN M3 20-round magazine",
-      "4× 7.62x51mm M80 ammo pack (20 pcs)",
+      "4\u00d7 Desert Tech MDR 7.62x51 assault rifle",
+      "3\u00d7 AR-10 7.62x51 Magpul PMAG 20 SR-LR GEN M3 20-round magazine",
+      "4\u00d7 7.62x51mm M80 ammo pack (20 pcs)",
       "Unlocks purchase of Mesa Tactical Crosshair Hydraulic buffer tube at Peacekeeper LL4"
     ]
   },
@@ -4659,7 +4778,7 @@
       "+7,300 EXP",
       "Peacekeeper Rep +0.03",
       "800 Dollars",
-      "15× 5.56x45mm Warmageddon ammo pack (20 pcs)"
+      "15\u00d7 5.56x45mm Warmageddon ammo pack (20 pcs)"
     ]
   },
   {
@@ -4694,10 +4813,12 @@
     "location_name": "Reserve",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate 40 Scav Raiders on Reserve"],
+    "objectives": [
+      "Eliminate 40 Scav Raiders on Reserve"
+    ],
     "rewards": [
       "+84,000 EXP",
-      "+1 Designated Marksman Rifles skill level",
+      "+1 DMRs skill level",
       "+2 Submachine Guns skill level",
       "+2 Assault Rifles skill level",
       "3,000 Euros",
@@ -4721,8 +4842,8 @@
       "+7,200 EXP",
       "Peacekeeper Rep +0.02",
       "800 Dollars",
-      "2× 5.7x28mm R37.F ammo pack (50 pcs)",
-      "2× 5.7x28mm R37.X ammo pack (50 pcs)"
+      "2\u00d7 5.7x28mm R37.F ammo pack (50 pcs)",
+      "2\u00d7 5.7x28mm R37.X ammo pack (50 pcs)"
     ]
   },
   {
@@ -4748,9 +4869,9 @@
     ],
     "rewards": [
       "+177,000 EXP",
-      "1× Weapon case",
-      "7× TerraGroup Labs access keycard",
-      "4× Iridium military thermal vision module",
+      "1\u00d7 Weapon case",
+      "7\u00d7 TerraGroup Labs access keycard",
+      "4\u00d7 Iridium military thermal vision module",
       "Unlocks barter for T H I C C item case at Peacekeeper LL4"
     ]
   },
@@ -4790,9 +4911,9 @@
       "+18,200 EXP",
       "Peacekeeper Rep +0.01",
       "1,000 Dollars",
-      "2× L3Harris GPNVG-18 night vision goggles",
-      "1× Ops-Core FAST MT Super High Cut helmet (Black)",
-      "2× Ops-Core FAST multi-hit ballistic face shield",
+      "2\u00d7 L3Harris GPNVG-18 night vision goggles",
+      "1\u00d7 Ops-Core FAST MT Super High Cut helmet (Black)",
+      "2\u00d7 Ops-Core FAST multi-hit ballistic face shield",
       "Unlocks barter for SAPI level III+ ballistic plate at Peacekeeper LL4"
     ]
   },
@@ -4806,16 +4927,16 @@
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
     "objectives": [
-      "Eliminate 20 BEAR PMC operatives all over the Lighthouse territory",
+      "Eliminate 20 BEAR PMC operatives on Lighthouse",
       "Hand over 20 found in raid BEAR PMC dogtags"
     ],
     "rewards": [
       "+22,000 EXP",
       "Peacekeeper Rep +0.03",
       "2,300 Dollars",
-      "1× SSD drive",
-      "1× Intelligence folder",
-      "1× Topographic survey maps",
+      "1\u00d7 SSD drive",
+      "1\u00d7 Intelligence folder",
+      "1\u00d7 Topographic survey maps",
       "Unlocks purchase of 23x75mm Zvezda flashbang round at Skier LL4"
     ]
   },
@@ -4828,7 +4949,9 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate 12 Scavs around the chalet area on Lighthouse"],
+    "objectives": [
+      "Eliminate 12 Scavs around the chalet area on Lighthouse"
+    ],
     "rewards": [
       "+8,500 EXP",
       "Peacekeeper Rep +0.02",
@@ -4851,10 +4974,10 @@
     ],
     "rewards": [
       "+137,000 EXP",
-      "4× Ammunition case",
-      "1× Armband (UNTAR)",
-      "1× FN40GL Mk2 40mm grenade launcher",
-      "10× 40x46mm M433 (HEDP) grenade"
+      "4\u00d7 Ammunition case",
+      "1\u00d7 Armband (UNTAR)",
+      "1\u00d7 FN40GL Mk2 40mm grenade launcher",
+      "10\u00d7 40x46mm M433 (HEDP) grenade"
     ]
   },
   {
@@ -4898,9 +5021,9 @@
       "+10,500 EXP",
       "Peacekeeper Rep +0.02",
       "62,300 Roubles",
-      "1× HK MP7A1 4.6x30 submachine gun",
-      "3× HK MP7 4.6x30 20-round magazine",
-      "2× 4.6x30mm Action SX ammo pack (40 pcs)"
+      "1\u00d7 HK MP7A1 4.6x30 submachine gun",
+      "3\u00d7 HK MP7 4.6x30 20-round magazine",
+      "2\u00d7 4.6x30mm Action SX ammo pack (40 pcs)"
     ]
   },
   {
@@ -4959,9 +5082,9 @@
       "+15,000 EXP",
       "Peacekeeper Rep +0.03",
       "1,200 Dollars",
-      "1× Magnum Research Desert Eagle Mk XIX .50 AE pistol",
-      "3× Desert Eagle .50 AE 7-round magazine",
-      "28× .50 AE Copper Solid"
+      "1\u00d7 Magnum Research Desert Eagle Mk XIX .50 AE pistol",
+      "3\u00d7 Desert Eagle .50 AE 7-round magazine",
+      "28\u00d7 .50 AE Copper Solid"
     ]
   },
   {
@@ -4976,18 +5099,15 @@
     "objectives": [
       "Scout the intersection of Mira Ave and the overpass on Ground Zero (In one raid)",
       "Locate the passage leading to Streets of Tarkov on Ground Zero (In one raid)",
-      "Use the transit from Ground Zero to Streets of Tarkov (In one raid)",
-      "Scout the road on Primorsky Ave on Streets of Tarkov (In one raid)",
-      "Scout the area round the Rodina cinema on Streets of Tarkov (In one raid)",
-      "Survive and extract from Streets of Tarkov (or transit to the next location)"
+      "Use the transit from Ground Zero to Streets of Tarkov (In one raid)"
     ],
     "rewards": [
       "+11,800 EXP",
       "Peacekeeper Rep +0.02",
       "900 Dollars",
-      "1× Secure Flash drive",
-      "1× SAS drive",
-      "1× SSD drive"
+      "1\u00d7 Secure Flash drive",
+      "1\u00d7 SAS drive",
+      "1\u00d7 SSD drive"
     ]
   },
   {
@@ -5007,7 +5127,7 @@
       "+6,300 EXP",
       "Peacekeeper Rep +0.01",
       "600 Dollars",
-      "1× Galvion Caiman Hybrid helmet (Grey)"
+      "1\u00d7 Galvion Caiman Hybrid helmet (Grey)"
     ]
   },
   {
@@ -5030,8 +5150,8 @@
       "+3,800 EXP",
       "Mechanic Rep +0.01",
       "15,000 Roubles",
-      "2× Tube of Poxeram cold welding",
-      "2× Metal spare parts"
+      "2\u00d7 Tube of Poxeram cold welding",
+      "2\u00d7 Metal spare parts"
     ]
   },
   {
@@ -5043,14 +5163,16 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": true,
-    "objectives": ["Modify an MP-133 to comply with the given specifications"],
+    "objectives": [
+      "Modify an MP-133 to comply with the given specifications"
+    ],
     "rewards": [
       "+800 EXP",
       "Mechanic Rep +0.01",
       "10,000 Roubles",
-      "1× Screw nuts",
-      "1× Bolts",
-      "1× 12/70 makeshift .50 BMG slug ammo pack (25 pcs)",
+      "1\u00d7 Screw nuts",
+      "1\u00d7 Bolts",
+      "1\u00d7 12/70 makeshift .50 BMG slug ammo pack (25 pcs)",
       "Unlocks purchase of AR-15 Windham Weaponry Rail Gas Block at Mechanic LL1"
     ]
   },
@@ -5063,14 +5185,16 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": true,
-    "objectives": ["Modify an AKS-74U to comply with the given specifications"],
+    "objectives": [
+      "Modify an AKS-74U to comply with the given specifications"
+    ],
     "rewards": [
       "+2,000 EXP",
       "Mechanic Rep +0.01",
       "15,000 Roubles",
-      "2× Capacitors",
-      "2× Bundle of wires",
-      "2× Light bulb",
+      "2\u00d7 Capacitors",
+      "2\u00d7 Bundle of wires",
+      "2\u00d7 Light bulb",
       "Unlocks purchase of AK 100-series polymer handguard at Prapor LL1"
     ]
   },
@@ -5083,13 +5207,15 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": true,
-    "objectives": ["Modify an MP5 to comply with the given specifications"],
+    "objectives": [
+      "Modify an MP5 to comply with the given specifications"
+    ],
     "rewards": [
       "+2,800 EXP",
       "Mechanic Rep +0.01",
       "250 Dollars",
-      "2× SwampFox Trihawk Prism Scope 3x30",
-      "2× Magpul RVG foregrip (FDE)",
+      "2\u00d7 SwampFox Trihawk Prism Scope 3x30",
+      "2\u00d7 Magpul RVG foregrip (FDE)",
       "Unlocks barter for Glock 17 9x19 pistol (variant Tac 3) at Mechanic LL1"
     ]
   },
@@ -5102,14 +5228,16 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": true,
-    "objectives": ["Modify an OP-SKS to comply with the given specifications"],
+    "objectives": [
+      "Modify an OP-SKS to comply with the given specifications"
+    ],
     "rewards": [
       "+3,600 EXP",
       "Mechanic Rep +0.01",
       "25,000 Roubles",
-      "2× Gunpowder \"Kite\"",
-      "1× Car battery",
-      "1× Electric motor",
+      "2\u00d7 Gunpowder \"Kite\"",
+      "1\u00d7 Car battery",
+      "1\u00d7 Electric motor",
       "Unlocks purchase of PP-19-01 Vityaz 9x19 submachine gun (variant Zenit) at Ref LL1"
     ]
   },
@@ -5129,7 +5257,7 @@
       "+4,100 EXP",
       "Mechanic Rep +0.01",
       "300 Dollars",
-      "3× Weapon parts",
+      "3\u00d7 Weapon parts",
       "Unlocks barter for Ammunition case at Mechanic LL1"
     ]
   },
@@ -5142,14 +5270,16 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": true,
-    "objectives": ["Modify an AKM to comply with the given specifications"],
+    "objectives": [
+      "Modify an AKM to comply with the given specifications"
+    ],
     "rewards": [
       "+5,800 EXP",
       "Mechanic Rep +0.01",
       "50,000 Roubles",
-      "2× Pack of screws",
-      "2× Phase control relay",
-      "3× 7.62x39mm BP gzh ammo pack (20 pcs)",
+      "2\u00d7 Pack of screws",
+      "2\u00d7 Phase control relay",
+      "3\u00d7 7.62x39mm BP gzh ammo pack (20 pcs)",
       "Unlocks purchase of AK GP-25 accessory kit recoil pad at Prapor LL2"
     ]
   },
@@ -5162,13 +5292,15 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": true,
-    "objectives": ["Modify an M4A1 to comply with the given specifications"],
+    "objectives": [
+      "Modify an M4A1 to comply with the given specifications"
+    ],
     "rewards": [
       "+6,300 EXP",
       "Mechanic Rep +0.01",
       "500 Dollars",
-      "1× Pliers Elite",
-      "1× Electric drill",
+      "1\u00d7 Pliers Elite",
+      "1\u00d7 Electric drill",
       "Unlocks purchase of AR-15 Daniel Defense MK12 Low Profile Gas Block at Mechanic LL2"
     ]
   },
@@ -5181,14 +5313,16 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": true,
-    "objectives": ["Modify an AKS-74N to comply with the given specifications"],
+    "objectives": [
+      "Modify an AKS-74N to comply with the given specifications"
+    ],
     "rewards": [
       "+8,600 EXP",
       "Mechanic Rep +0.02",
       "75,000 Roubles",
-      "2× AKS-74U CAA XRSU47SU tactical handguard",
-      "2× AK-74 thread type JMac Customs RRD-4C multi-caliber muzzle brake",
-      "2× 5.45x39mm BS gs ammo pack (30 pcs)"
+      "2\u00d7 AKS-74U CAA XRSU47SU tactical handguard",
+      "2\u00d7 AK-74 thread type JMac Customs RRD-4C multi-caliber muzzle brake",
+      "2\u00d7 5.45x39mm BS gs ammo pack (30 pcs)"
     ]
   },
   {
@@ -5200,12 +5334,14 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": true,
-    "objectives": ["Modify a P226R to comply with the given specifications"],
+    "objectives": [
+      "Modify a P226R to comply with the given specifications"
+    ],
     "rewards": [
       "+9,800 EXP",
       "Mechanic Rep +0.02",
       "300 Euros",
-      "2× Gunpowder \"Hawk\"",
+      "2\u00d7 Gunpowder \"Hawk\"",
       "Unlocks purchase of Colt M4A1 5.56x45 assault rifle (variant SOPMOD I) at Mechanic LL3",
       "Unlocks purchase of 5.7x28mm R37.F at Mechanic LL3"
     ]
@@ -5219,12 +5355,14 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": true,
-    "objectives": ["Modify an AK-105 to comply with the given specifications"],
+    "objectives": [
+      "Modify an AK-105 to comply with the given specifications"
+    ],
     "rewards": [
       "+10,400 EXP",
       "Mechanic Rep +0.02",
-      "5× Bundle of wires",
-      "2× Metal spare parts",
+      "5\u00d7 Bundle of wires",
+      "2\u00d7 Metal spare parts",
       "Unlocks purchase of Ammunition case at Mechanic LL2"
     ]
   },
@@ -5244,7 +5382,7 @@
       "+11,600 EXP",
       "Mechanic Rep +0.02",
       "500 Dollars",
-      "1× SureFire SOCOM556-MINI MONSTER 5.56x45 sound suppressor",
+      "1\u00d7 SureFire SOCOM556-MINI MONSTER 5.56x45 sound suppressor",
       "Unlocks purchase of Colt M4A1 5.56x45 assault rifle (variant SAI ) at Ref LL2"
     ]
   },
@@ -5257,14 +5395,16 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Modify a SIG MPX to comply with the given specifications"],
+    "objectives": [
+      "Modify a SIG MPX to comply with the given specifications"
+    ],
     "rewards": [
       "+12,300 EXP",
       "Mechanic Rep +0.02",
       "500 Dollars",
-      "2× AR-15 Vendetta Precision VP-09 Interceptor 5.56x45 muzzle brake",
-      "1× FN P90 Attenuator 5.7x28 sound suppressor",
-      "1× 5.56x45 SureFire MAG5-100 STANAG 100-round magazine"
+      "2\u00d7 AR-15 Vendetta Precision VP-09 Interceptor 5.56x45 muzzle brake",
+      "1\u00d7 FN P90 Attenuator 5.7x28 sound suppressor",
+      "1\u00d7 AR-15 5.56x45 SureFire MAG5-100 STANAG 100-round magazine"
     ]
   },
   {
@@ -5283,8 +5423,8 @@
       "+13,600 EXP",
       "Mechanic Rep +0.02",
       "500 Dollars",
-      "2× Corrugated hose",
-      "2× Pack of nails",
+      "2\u00d7 Corrugated hose",
+      "2\u00d7 Pack of nails",
       "Unlocks purchase of KAC PRS/QDC 7.62x51 sound suppressor at Peacekeeper LL3"
     ]
   },
@@ -5304,8 +5444,8 @@
       "+14,900 EXP",
       "Mechanic Rep +0.02",
       "500 Dollars",
-      "1× Torrey Pines Logic T12W 30Hz thermal reflex sight",
-      "3× Gunpowder \"Eagle\"",
+      "1\u00d7 Torrey Pines Logic T12W 30Hz thermal reflex sight",
+      "3\u00d7 Gunpowder \"Eagle\"",
       "Unlocks purchase of AR-15 Magpul PRS GEN3 stock (Black) at Peacekeeper LL3"
     ]
   },
@@ -5318,12 +5458,14 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Modify an AS VAL to comply with the given specifications"],
+    "objectives": [
+      "Modify an AS VAL to comply with the given specifications"
+    ],
     "rewards": [
       "+19,400 EXP",
       "Mechanic Rep +0.02",
-      "1× Kiba Arms inner grate door key",
-      "1× Pressure gauge",
+      "1\u00d7 Kiba Arms inner grate door key",
+      "1\u00d7 Pressure gauge",
       "Unlocks purchase of VSS/VAL TOZ 6P29M mount at Jaeger LL3"
     ]
   },
@@ -5336,14 +5478,16 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Modify a DVL-10 to comply with the given specifications"],
+    "objectives": [
+      "Modify a DVL-10 to comply with the given specifications"
+    ],
     "rewards": [
       "+20,400 EXP",
       "Mechanic Rep +0.03",
       "200,000 Roubles",
-      "2× Pack of screws",
-      "1× Electric drill",
-      "1× Metal fuel tank",
+      "2\u00d7 Pack of screws",
+      "1\u00d7 Electric drill",
+      "1\u00d7 Metal fuel tank",
       "Unlocks purchase of Lone Star TX-15 DML 5.56x45 carbine at Skier LL3"
     ]
   },
@@ -5356,13 +5500,15 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Modify an AK-102 to comply with the given specifications"],
+    "objectives": [
+      "Modify an AK-102 to comply with the given specifications"
+    ],
     "rewards": [
       "+21,400 EXP",
       "Mechanic Rep +0.03",
       "35,000 Roubles",
-      "4× Spark plug",
-      "2× GreenBat lithium battery",
+      "4\u00d7 Spark plug",
+      "2\u00d7 GreenBat lithium battery",
       "Unlocks purchase of Magpul AFG tactical foregrip (Olive Drab) at Mechanic LL3",
       "Unlocks purchase of AR-15 Hera Arms CQR pistol grip/buttstock at Mechanic LL4",
       "Unlocks purchase of AK CNC Warrior 5.56x45 muzzle device adapter at Mechanic LL3",
@@ -5378,14 +5524,16 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Modify an AKMN to comply with the given specifications"],
+    "objectives": [
+      "Modify an AKMN to comply with the given specifications"
+    ],
     "rewards": [
       "+23,100 EXP",
       "Mechanic Rep +0.03",
       "50,000 Roubles",
-      "1× EOTech Vudu 1-6x24 30mm riflescope",
-      "1× AK-74 Hexagon Wafflemaker 5.45x39 sound suppressor",
-      "1× AK Hexagon Reactor 5.45x39 muzzle brake",
+      "1\u00d7 EOTech Vudu 1-6x24 30mm riflescope",
+      "1\u00d7 AK-74 Hexagon Wafflemaker 5.45x39 sound suppressor",
+      "1\u00d7 AK Hexagon Reactor 5.45x39 muzzle brake",
       "Unlocks purchase of Steiner LAS/TAC 2 tactical flashlight at Mechanic LL3",
       "Unlocks purchase of AKM 7.62x39 Kiba Arms .308 muzzle device adapter at Mechanic LL3"
     ]
@@ -5399,13 +5547,15 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Modify an SVDS to comply with the given specifications"],
+    "objectives": [
+      "Modify an SVDS to comply with the given specifications"
+    ],
     "rewards": [
       "+25,500 EXP",
       "Mechanic Rep +0.03",
       "75,000 Roubles",
-      "1× Ratchet wrench",
-      "1× Bulbex cable cutter",
+      "1\u00d7 Ratchet wrench",
+      "1\u00d7 Bulbex cable cutter",
       "Unlocks purchase of AK Custom Arms AGS-74 PRO + Sniper Kit pistol grip at Skier LL4"
     ]
   },
@@ -5418,13 +5568,15 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Modify an M1A to comply with the given specifications"],
+    "objectives": [
+      "Modify an M1A to comply with the given specifications"
+    ],
     "rewards": [
       "+26,600 EXP",
       "Mechanic Rep +0.03",
       "500 Euros",
-      "1× AR-15 Hera Arms CQR pistol grip/buttstock",
-      "1× Hera Arms CQR tactical foregrip",
+      "1\u00d7 AR-15 Hera Arms CQR pistol grip/buttstock",
+      "1\u00d7 Hera Arms CQR tactical foregrip",
       "Unlocks purchase of AR-10 KAC QDC 7.62x51 Muzzle Brake Kit at Mechanic LL3",
       "Unlocks purchase of Magpul MOE Carbine rubber buttpad at Peacekeeper LL4"
     ]
@@ -5445,8 +5597,8 @@
     "rewards": [
       "+27,700 EXP",
       "Mechanic Rep +0.03",
-      "1× Pistol case",
-      "3× 7.62x51mm M993 ammo pack (20 pcs)",
+      "1\u00d7 Pistol case",
+      "3\u00d7 7.62x51mm M993 ammo pack (20 pcs)",
       "Unlocks purchase of AR-15 HK Ergo PSG-1 style pistol grip at Mechanic LL4",
       "Unlocks purchase of AR-15 Strike Industries Advanced Receiver Extension buffer tube (Black) at Mechanic LL4"
     ]
@@ -5460,13 +5612,15 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Modify an M4A1 to comply with the given specifications"],
+    "objectives": [
+      "Modify an M4A1 to comply with the given specifications"
+    ],
     "rewards": [
       "+28,900 EXP",
       "Mechanic Rep +0.03",
       "1,000 Euros",
-      "1× Magazine case",
-      "2× FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope",
+      "1\u00d7 Magazine case",
+      "2\u00d7 FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope",
       "Unlocks barter for Trijicon REAP-IR thermal scope at Mechanic LL4",
       "Unlocks purchase of SilencerCo Saker ASR 556 5.56x45 sound suppressor at Peacekeeper LL4"
     ]
@@ -5487,7 +5641,7 @@
       "+29,500 EXP",
       "Mechanic Rep +0.03",
       "1,300 Euros",
-      "1× SIG Sauer ECHO1 1-2x30mm 30Hz thermal reflex scope",
+      "1\u00d7 SIG Sauer ECHO1 1-2x30mm 30Hz thermal reflex scope",
       "Unlocks purchase of Mk47 409mm barrel at Mechanic LL4"
     ]
   },
@@ -5507,8 +5661,8 @@
       "+31,250 EXP",
       "Mechanic Rep +0.03",
       "1,500 Euros",
-      "3× Pipe grip wrench",
-      "2× FP-100 filter absorber",
+      "3\u00d7 Pipe grip wrench",
+      "2\u00d7 FP-100 filter absorber",
       "Unlocks purchase of Stark SE-5 Express Forward foregrip at Mechanic LL4",
       "Unlocks purchase of Stark SE-5 Express Forward foregrip (FDE) at Mechanic LL4"
     ]
@@ -5528,8 +5682,8 @@
     "rewards": [
       "+35,000 EXP",
       "Mechanic Rep +0.04",
-      "5× Physical Bitcoin",
-      "1× Weapon case",
+      "5\u00d7 Physical Bitcoin",
+      "1\u00d7 Weapon case",
       "Unlocks barter for TerraGroup Labs keycard (Black) at Mechanic LL4",
       "Unlocks barter for Kalashnikov PKM 7.62x54R machine gun at Mechanic LL4",
       "Unlocks achievement Jack of All Trades"
@@ -5574,8 +5728,8 @@
       "+6,600 EXP",
       "Mechanic Rep +0.02",
       "25,000 Roubles",
-      "2× Light bulb",
-      "2× Radiator helix"
+      "2\u00d7 Light bulb",
+      "2\u00d7 Radiator helix"
     ]
   },
   {
@@ -5599,8 +5753,8 @@
       "+5,500 EXP",
       "Mechanic Rep +0.02",
       "15,000 Roubles",
-      "1× ASh-12 12.7x55 assault rifle",
-      "1× NIXXOR lens"
+      "1\u00d7 ASh-12 12.7x55 assault rifle",
+      "1\u00d7 NIXXOR lens"
     ]
   },
   {
@@ -5621,7 +5775,7 @@
       "+6,500 EXP",
       "Mechanic Rep +0.02",
       "20,000 Roubles",
-      "1× UHF RFID Reader"
+      "1\u00d7 UHF RFID Reader"
     ]
   },
   {
@@ -5643,10 +5797,10 @@
       "+8,000 EXP",
       "+3 Attention skill level",
       "Mechanic Rep +0.02",
-      "1× Pistol case",
-      "1× Glock 17 9x19 pistol (variant Viper)",
-      "2× Physical Bitcoin",
-      "4× Tetriz portable game console"
+      "1\u00d7 Pistol case",
+      "1\u00d7 Glock 17 9x19 pistol (variant Viper)",
+      "2\u00d7 Physical Bitcoin",
+      "4\u00d7 Tetriz portable game console"
     ]
   },
   {
@@ -5667,7 +5821,7 @@
       "+6,700 EXP",
       "Mechanic Rep +0.02",
       "10,000 Roubles",
-      "3× Glock 9x19 SGM Tactical 50-round drum magazine"
+      "3\u00d7 Glock 9x19 SGM Tactical 50-round drum magazine"
     ]
   },
   {
@@ -5689,7 +5843,11 @@
       "Find 3 Broken GPhone smartphones in raid",
       "Hand over 3 Broken GPhone smartphones to Mechanic"
     ],
-    "rewards": ["+6,700 EXP", "Mechanic Rep +0.02", "50,000 Roubles"]
+    "rewards": [
+      "+6,700 EXP",
+      "Mechanic Rep +0.02",
+      "50,000 Roubles"
+    ]
   },
   {
     "task_id": 261,
@@ -5710,8 +5868,8 @@
       "+8,500 EXP",
       "Mechanic Rep +0.02",
       "30,000 Roubles",
-      "1× Benelli M3 Super 90 12ga dual-mode shotgun",
-      "2× 12/70 8.5mm Magnum buckshot ammo pack (25 pcs)"
+      "1\u00d7 Benelli M3 Super 90 12ga dual-mode shotgun",
+      "2\u00d7 12/70 8.5mm Magnum buckshot ammo pack (25 pcs)"
     ]
   },
   {
@@ -5723,12 +5881,14 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Reach the required Attention skill level of 8"],
+    "objectives": [
+      "Reach the required Attention skill level of 8"
+    ],
     "rewards": [
       "+8,600 EXP",
       "Mechanic Rep +0.01",
       "150,000 Roubles",
-      "1× Vortex Razor HD Gen.2 1-6x24 30mm riflescope"
+      "1\u00d7 Vortex Razor HD Gen.2 1-6x24 30mm riflescope"
     ]
   },
   {
@@ -5752,8 +5912,8 @@
       "+6,700 EXP",
       "Mechanic Rep +0.02",
       "300 Euros",
-      "1× Glock 18C 9x19 machine pistol",
-      "6× 9x19mm Green Tracer ammo pack (50 pcs)",
+      "1\u00d7 Glock 18C 9x19 machine pistol",
+      "6\u00d7 9x19mm Green Tracer ammo pack (50 pcs)",
       "Unlocks barter for Bottle of OLOLO Multivitamins at Therapist LL1"
     ]
   },
@@ -5777,7 +5937,7 @@
       "+6,800 EXP",
       "Mechanic Rep +0.02",
       "30,000 Roubles",
-      "1× Factory emergency exit key"
+      "1\u00d7 Factory emergency exit key"
     ]
   },
   {
@@ -5789,12 +5949,14 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Reach level 3 loyalty with Prapor"],
+    "objectives": [
+      "Reach level 3 loyalty with Prapor"
+    ],
     "rewards": [
       "+6,700 EXP",
       "Mechanic Rep +0.02",
       "800 Euros",
-      "2× SilencerCo Osprey 9 9x19 sound suppressor"
+      "2\u00d7 SilencerCo Osprey 9 9x19 sound suppressor"
     ]
   },
   {
@@ -5817,9 +5979,9 @@
       "Mechanic Rep +0.03",
       "Jaeger Rep -0.01",
       "85,000 Roubles",
-      "2× Physical Bitcoin",
-      "1× Iridium military thermal vision module",
-      "1× Trijicon REAP-IR thermal scope",
+      "2\u00d7 Physical Bitcoin",
+      "1\u00d7 Iridium military thermal vision module",
+      "1\u00d7 Trijicon REAP-IR thermal scope",
       "Unlocks purchase of 4.6x30mm FMJ SX at Mechanic LL4"
     ]
   },
@@ -5842,7 +6004,7 @@
       "+17,200 EXP",
       "Mechanic Rep +0.02",
       "65,000 Roubles",
-      "2× Physical Bitcoin",
+      "2\u00d7 Physical Bitcoin",
       "Unlocks purchase of HK USP .45 ACP pistol (variant Match) at Mechanic LL3"
     ]
   },
@@ -5894,10 +6056,10 @@
       "+5 Bolt-action Rifles skill level",
       "Mechanic Rep +0.03",
       "150,000 Roubles",
-      "1× HK G28 7.62x51 marksman rifle",
-      "2× HK417/G28 7.62x51 20-round magazine",
-      "2× 7.62x51mm M993 ammo pack (20 pcs)",
-      "3× GP coin",
+      "1\u00d7 HK G28 7.62x51 marksman rifle",
+      "2\u00d7 HK417/G28 7.62x51 20-round magazine",
+      "2\u00d7 7.62x51mm M993 ammo pack (20 pcs)",
+      "3\u00d7 GP coin",
       "Unlocks purchase of Magazine case at Mechanic LL3",
       "Unlocks purchase of HK G28 7.62x51 marksman rifle at Jaeger LL4"
     ]
@@ -5940,8 +6102,8 @@
       "+13,400 EXP",
       "Mechanic Rep +0.05",
       "1,000 Euros",
-      "2× SilencerCo Hybrid 46 multi-caliber sound suppressor",
-      "1× Graphics card",
+      "2\u00d7 SilencerCo Hybrid 46 multi-caliber sound suppressor",
+      "1\u00d7 Graphics card",
       "Unlocks barter for T H I C C Weapon case at Mechanic LL4"
     ]
   },
@@ -5962,8 +6124,8 @@
       "+7,500 EXP",
       "Mechanic Rep +0.02",
       "40,000 Roubles",
-      "2× Ultraviolet lamp",
-      "2× Energy-saving lamp"
+      "2\u00d7 Ultraviolet lamp",
+      "2\u00d7 Energy-saving lamp"
     ]
   },
   {
@@ -5983,7 +6145,7 @@
       "+8,200 EXP",
       "Mechanic Rep +0.02",
       "1,000 Euros",
-      "1× SV-98 7.62x54R bolt-action sniper rifle"
+      "1\u00d7 SV-98 7.62x54R bolt-action sniper rifle"
     ]
   },
   {
@@ -5995,12 +6157,14 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate 20 PMC operatives from over 100 meters away"],
+    "objectives": [
+      "Eliminate 20 PMC operatives from over 100 meters away"
+    ],
     "rewards": [
       "+93,000 EXP",
       "+1 Perception skill level",
-      "1× Armband (Kiba Arms)",
-      "5× Can of thermite",
+      "1\u00d7 Armband (Kiba Arms)",
+      "5\u00d7 Can of thermite",
       "Unlocks purchase of 5.45x39mm 7N40 at Prapor LL4",
       "Unlocks barter for Altyn bulletproof helmet (Olive Drab) at Ragman LL4"
     ]
@@ -6022,7 +6186,7 @@
       "+115,000 EXP",
       "+1 Crafting skill level",
       "+1 Intellect skill level",
-      "1× SWORD International Mk-18 .338 LM marksman rifle"
+      "1\u00d7 SWORD International Mk-18 .338 LM marksman rifle"
     ]
   },
   {
@@ -6089,8 +6253,8 @@
       "6,700 EXP",
       "Mechanic Rep +0.03",
       "650 Euros",
-      "1× Can of thermite",
-      "1× Pack of nails"
+      "1\u00d7 Can of thermite",
+      "1\u00d7 Pack of nails"
     ]
   },
   {
@@ -6110,9 +6274,9 @@
       "7,400 EXP",
       "Mechanic Rep +0.02",
       "44,000 Roubles",
-      "1× Steyr AUG A1 5.56x45 assault rifle",
-      "3× Steyr AUG 5.56x45 10-round magazine",
-      "1× 5.56x45mm M855A1 ammo pack (100 pcs)"
+      "1\u00d7 Steyr AUG A1 5.56x45 assault rifle",
+      "3\u00d7 Steyr AUG 5.56x45 10-round magazine",
+      "1\u00d7 5.56x45mm M855A1 ammo pack (100 pcs)"
     ]
   },
   {
@@ -6132,7 +6296,7 @@
       "+22,800 EXP",
       "Mechanic Rep +0.02",
       "126,000 Roubles",
-      "1× Military power filter"
+      "1\u00d7 Military power filter"
     ]
   },
   {
@@ -6153,7 +6317,7 @@
       "+18,500 EXP",
       "Mechanic Rep +0.02",
       "94,000 Roubles",
-      "2× Military cable"
+      "2\u00d7 Military cable"
     ]
   },
   {
@@ -6171,7 +6335,10 @@
       "Hand over the 4 found in raid Gas analyzers",
       "Hand over the 4 found in raid Broken GPhone smartphones"
     ],
-    "rewards": ["+18,600 EXP", "Mechanic Rep +0.01"]
+    "rewards": [
+      "+18,600 EXP",
+      "Mechanic Rep +0.01"
+    ]
   },
   {
     "task_id": 283,
@@ -6188,7 +6355,10 @@
       "Set up the radio repeater at a high elevation overlooking the lighthouse on Lighthouse",
       "Set up the radio repeater on the roof of the sunken building at the shore on Lighthouse"
     ],
-    "rewards": ["+19,100 EXP", "Mechanic Rep +0.01"]
+    "rewards": [
+      "+19,100 EXP",
+      "Mechanic Rep +0.01"
+    ]
   },
   {
     "task_id": 284,
@@ -6199,8 +6369,13 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": true,
-    "objectives": ["Eliminate 15 PMC operatives near the Lighthouse peninsula"],
-    "rewards": ["+23,500 EXP", "Mechanic Rep +0.01"]
+    "objectives": [
+      "Eliminate 15 PMC operatives near the Lighthouse peninsula"
+    ],
+    "rewards": [
+      "+23,500 EXP",
+      "Mechanic Rep +0.01"
+    ]
   },
   {
     "task_id": 285,
@@ -6217,7 +6392,10 @@
       "Locate and mark the third bunker with an MS2000 marker on Woods",
       "Locate and mark the fourth bunker with an MS2000 marker on Woods"
     ],
-    "rewards": ["+24,200 EXP", "Mechanic Rep +0.01"]
+    "rewards": [
+      "+24,200 EXP",
+      "Mechanic Rep +0.01"
+    ]
   },
   {
     "task_id": 286,
@@ -6237,7 +6415,10 @@
       "Hand over 5 SJ6 TGLabs combat stimulant injector to Mechanic",
       "Hand over 1 SJ9 TGLabs combat stimulant injector to Mechanic"
     ],
-    "rewards": ["+24,800 EXP", "Mechanic Rep +0.01"]
+    "rewards": [
+      "+24,800 EXP",
+      "Mechanic Rep +0.01"
+    ]
   },
   {
     "task_id": 287,
@@ -6262,7 +6443,10 @@
       "Hand over 1 Working LCD to Mechanic",
       "Hand over 1 Radio transmitter body to Mechanic"
     ],
-    "rewards": ["+30,500 EXP", "Mechanic Rep +0.01"]
+    "rewards": [
+      "+30,500 EXP",
+      "Mechanic Rep +0.01"
+    ]
   },
   {
     "task_id": 288,
@@ -6277,7 +6461,11 @@
       "Check if the radio transmitter works near the Lighthouse peninsula",
       "Survive and extract from the location"
     ],
-    "rewards": ["+31,300 EXP", "Mechanic Rep +0.01", "Lightkeeper Rep +0.01"]
+    "rewards": [
+      "+31,300 EXP",
+      "Mechanic Rep +0.01",
+      "Lightkeeper Rep +0.01"
+    ]
   },
   {
     "task_id": 289,
@@ -6294,7 +6482,10 @@
       "Hand over the flash drive to Mechanic",
       "Visit the lighthouse building"
     ],
-    "rewards": ["+32,000 EXP", "Mechanic Rep +0.01"]
+    "rewards": [
+      "+32,000 EXP",
+      "Mechanic Rep +0.01"
+    ]
   },
   {
     "task_id": 290,
@@ -6315,9 +6506,9 @@
       "+30,200 EXP",
       "Mechanic Rep +0.01",
       "500 Euros",
-      "1× Rusted bloody key",
-      "1× Beretta M9A3 9x19 pistol",
-      "1× Remington Model 870 12ga pump-action shotgun"
+      "1\u00d7 Rusted bloody key",
+      "1\u00d7 Beretta M9A3 9x19 pistol",
+      "1\u00d7 Remington Model 870 12ga pump-action shotgun"
     ]
   },
   {
@@ -6338,10 +6529,10 @@
       "+23,000 EXP",
       "Mechanic Rep +0.02",
       "130,000 Roubles",
-      "1× PC CPU",
-      "1× CPU fan",
-      "1× Pliers Elite",
-      "1× Awl"
+      "1\u00d7 PC CPU",
+      "1\u00d7 CPU fan",
+      "1\u00d7 Pliers Elite",
+      "1\u00d7 Awl"
     ]
   },
   {
@@ -6361,8 +6552,8 @@
       "+25,400 EXP",
       "Mechanic Rep +0.02",
       "174,000 Roubles",
-      "1× Pressure gauge",
-      "3× Silicone tube"
+      "1\u00d7 Pressure gauge",
+      "3\u00d7 Silicone tube"
     ]
   },
   {
@@ -6385,8 +6576,8 @@
       "+14,000 EXP",
       "Mechanic Rep +0.02",
       "50,000 Roubles",
-      "1× Military cable",
-      "1× Military circuit board"
+      "1\u00d7 Military cable",
+      "1\u00d7 Military circuit board"
     ]
   },
   {
@@ -6398,8 +6589,12 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Hand over 1,000,000 RUB to Mechanic"],
-    "rewards": ["Lightkeeper Rep +0.01"]
+    "objectives": [
+      "Hand over 1,000,000 RUB to Mechanic"
+    ],
+    "rewards": [
+      "Lightkeeper Rep +0.01"
+    ]
   },
   {
     "task_id": 295,
@@ -6410,8 +6605,12 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Hand over the 4 found in raid SVDS sniper rifles"],
-    "rewards": ["Lightkeeper Rep +0.01"]
+    "objectives": [
+      "Hand over the 4 found in raid SVDS sniper rifles"
+    ],
+    "rewards": [
+      "Lightkeeper Rep +0.01"
+    ]
   },
   {
     "task_id": 296,
@@ -6428,7 +6627,9 @@
       "Place a WI-FI Camera at the police truck in the western part of the water treatment plant on Lighthouse",
       "Place a WI-FI Camera at the army truck near the industrial zone in the northern part of the water treatment plant on Lighthouse"
     ],
-    "rewards": ["Lightkeeper Rep +0.01"]
+    "rewards": [
+      "Lightkeeper Rep +0.01"
+    ]
   },
   {
     "task_id": 297,
@@ -6439,8 +6640,12 @@
     "location_name": "Reserve",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate 25 Raiders on Reserve"],
-    "rewards": ["Lightkeeper Rep +0.01"]
+    "objectives": [
+      "Eliminate 25 Raiders on Reserve"
+    ],
+    "rewards": [
+      "Lightkeeper Rep +0.01"
+    ]
   },
   {
     "task_id": 298,
@@ -6451,8 +6656,12 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Hand over 15 found in raid Secure Flash drives"],
-    "rewards": ["Lightkeeper Rep +0.01"]
+    "objectives": [
+      "Hand over 15 found in raid Secure Flash drives"
+    ],
+    "rewards": [
+      "Lightkeeper Rep +0.01"
+    ]
   },
   {
     "task_id": 299,
@@ -6466,7 +6675,9 @@
     "objectives": [
       "Place a WI-FI Camera inside the quarantine zone in The Lab"
     ],
-    "rewards": ["Lightkeeper Rep +0.01"]
+    "rewards": [
+      "Lightkeeper Rep +0.01"
+    ]
   },
   {
     "task_id": 300,
@@ -6483,7 +6694,10 @@
       "Hand over the flash drive to Mechanic",
       "Visit the lighthouse building"
     ],
-    "rewards": ["Mechanic Rep +0.01", "Lightkeeper Rep +0.01"]
+    "rewards": [
+      "Mechanic Rep +0.01",
+      "Lightkeeper Rep +0.01"
+    ]
   },
   {
     "task_id": 301,
@@ -6494,13 +6708,15 @@
     "location_name": "Woods",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Launch a red signal flare at the old sawmill on Woods"],
+    "objectives": [
+      "Launch a red signal flare at the old sawmill on Woods"
+    ],
     "rewards": [
       "+14,000 EXP",
       "Mechanic Rep +0.01",
       "42,000 Roubles",
-      "2× NcSTAR Tactical Blue Laser",
-      "2× Zenit Klesch-2IKS IR illuminator with laser"
+      "2\u00d7 NcSTAR Tactical Blue Laser",
+      "2\u00d7 Zenit Klesch-2IKS IR illuminator with laser"
     ]
   },
   {
@@ -6530,7 +6746,7 @@
       "+32,000 EXP",
       "Mechanic Rep +0.02",
       "205,000 Roubles",
-      "3× TerraGroup Labs access keycard"
+      "3\u00d7 TerraGroup Labs access keycard"
     ]
   },
   {
@@ -6551,9 +6767,9 @@
       "+16,500 EXP",
       "Mechanic Rep +0.02",
       "58,000 Roubles",
-      "1× FN SCAR-L 5.56x45 assault rifle (FDE)",
-      "3× FN SCAR-L 5.56x45 30-round magazine (FDE)",
-      "3× 5.56x45mm M855 ammo pack (50 pcs)"
+      "1\u00d7 FN SCAR-L 5.56x45 assault rifle (FDE)",
+      "3\u00d7 FN SCAR-L 5.56x45 30-round magazine (FDE)",
+      "3\u00d7 5.56x45mm M855 ammo pack (50 pcs)"
     ]
   },
   {
@@ -6574,8 +6790,8 @@
       "+8,600 EXP",
       "Mechanic Rep +0.02",
       "35,000 Roubles",
-      "2× Pressure gauge",
-      "2× Radiator helix"
+      "2\u00d7 Pressure gauge",
+      "2\u00d7 Radiator helix"
     ]
   },
   {
@@ -6605,8 +6821,8 @@
       "+10,700 EXP",
       "Mechanic Rep +0.02",
       "46,000 Roubles",
-      "3× WD-40 (100ml)",
-      "3× Spark plug"
+      "3\u00d7 WD-40 (100ml)",
+      "3\u00d7 Spark plug"
     ]
   },
   {
@@ -6628,9 +6844,9 @@
       "+19,400 EXP",
       "Mechanic Rep +0.03",
       "74,000 Roubles",
-      "2× Electric motor",
-      "2× Power supply unit",
-      "3× Power cord"
+      "2\u00d7 Electric motor",
+      "2\u00d7 Power supply unit",
+      "3\u00d7 Power cord"
     ]
   },
   {
@@ -6650,7 +6866,7 @@
       "+7,200 EXP",
       "Mechanic Rep +0.02",
       "29,000 Roubles",
-      "2× Electric motor"
+      "2\u00d7 Electric motor"
     ]
   },
   {
@@ -6671,7 +6887,7 @@
       "+14,000 EXP",
       "Mechanic Rep +0.02",
       "70,000 Roubles",
-      "1× \"The Eye\" mortar strike signaling device"
+      "1\u00d7 \"The Eye\" mortar strike signaling device"
     ]
   },
   {
@@ -6683,12 +6899,14 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": true,
-    "objectives": ["Reach level 2 loyalty with Ragman"],
+    "objectives": [
+      "Reach level 2 loyalty with Ragman"
+    ],
     "rewards": [
       "+6,700 EXP",
       "Ragman Rep +0.02",
       "10,000 Roubles",
-      "1× BlackHawk! Commando chest harness (Desert Tan)"
+      "1\u00d7 BlackHawk! Commando chest harness (Desert Tan)"
     ]
   },
   {
@@ -6700,13 +6918,15 @@
     "location_name": "Interchange",
     "required_for_kappa": true,
     "required_for_lightkeeper": true,
-    "objectives": ["Eliminate 25 Scavs on Interchange"],
+    "objectives": [
+      "Eliminate 25 Scavs on Interchange"
+    ],
     "rewards": [
       "+9,800 EXP",
       "Ragman Rep +0.02",
       "Jaeger +0.01",
       "25,000 Roubles",
-      "3× WARTECH TV-109 + TV-106 chest rig (A-TACS FG)"
+      "3\u00d7 WARTECH TV-109 + TV-106 chest rig (A-TACS FG)"
     ]
   },
   {
@@ -6730,7 +6950,7 @@
       "+8,200 EXP",
       "Ragman Rep +0.03",
       "30,000 Roubles",
-      "1× Oakley Mechanism heavy duty backpack (Black)"
+      "1\u00d7 Oakley Mechanism heavy duty backpack (Black)"
     ]
   },
   {
@@ -6752,8 +6972,8 @@
       "+7,500 EXP",
       "Ragman Rep +0.02",
       "60,000 Roubles",
-      "2× Metal fuel tank",
-      "Unlocks purchase of Hazard 4 Takedown sling backpack at Ragman LL2"
+      "2\u00d7 Metal fuel tank",
+      "Unlocks purchase of Hazard 4 Takedown sling backpack (MultiCam) at Ragman LL2"
     ]
   },
   {
@@ -6773,8 +6993,8 @@
       "+14,600 EXP",
       "Ragman Rep +0.03",
       "20,000 Roubles",
-      "1× HighCom Striker ACHHC IIIA helmet (variant Black)",
-      "1× NPP KlASS Korund-VM body armor (Black)",
+      "1\u00d7 HighCom Striker ACHHC IIIA helmet (Black)",
+      "1\u00d7 NPP KlASS Korund-VM body armor (Black)",
       "Unlocks craft for Ars Arma A18 Skanda plate carrier (MultiCam) at Lavatory level 2"
     ]
   },
@@ -6797,7 +7017,7 @@
       "+21,300 EXP",
       "Ragman Rep +0.04",
       "75,000 Roubles",
-      "1× Mystery Ranch Blackjack 50 backpack (MultiCam)",
+      "1\u00d7 Mystery Ranch Blackjack 50 backpack (MultiCam)",
       "Unlocks barter for HighCom Trooper TFO body armor (MultiCam) at Ragman LL4"
     ]
   },
@@ -6820,8 +7040,8 @@
       "+8,400 EXP",
       "Ragman Rep +0.03",
       "21,000 Roubles",
-      "1× BNTI Gzhel-K body armor",
-      "1× Military power filter"
+      "1\u00d7 BNTI Gzhel-K body armor",
+      "1\u00d7 Military power filter"
     ]
   },
   {
@@ -6843,10 +7063,10 @@
       "+14,400 EXP",
       "Ragman Rep +0.03",
       "120,000 Roubles",
-      "2× Stich Profi Chimera boonie hat",
-      "2× Jack Pyke Hunting LLCS boonie hat",
-      "2× Door Kicker boonie hat",
-      "2× MIL-TEC boonie hat"
+      "2\u00d7 Stich Profi Chimera boonie hat",
+      "2\u00d7 Jack Pyke Hunting LLCS boonie hat",
+      "2\u00d7 Door Kicker boonie hat",
+      "2\u00d7 MIL-TEC boonie hat"
     ]
   },
   {
@@ -6858,13 +7078,15 @@
     "location_name": "Interchange",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Survive and extract on Interchange 7 times"],
+    "objectives": [
+      "Survive and extract on Interchange 7 times"
+    ],
     "rewards": [
       "+17,500 EXP",
       "Ragman Rep +0.03",
       "35,000 Roubles",
-      "2× SSO Attack 2 raid backpack (Khaki)",
-      "Unlocks purchase of HighCom Striker ULACH IIIA helmet (variant Desert Tan) at Ragman LL4",
+      "2\u00d7 SSO Attack 2 raid backpack (Khaki)",
+      "Unlocks purchase of HighCom Striker ULACH IIIA helmet (Desert Tan) at Ragman LL4",
       "Unlocks barter for Granit Br4 ballistic plate at Ragman LL4"
     ]
   },
@@ -6878,15 +7100,15 @@
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
     "objectives": [
-      "Stash 2 Peltor ComTac 2s in the specified place on Interchange",
-      "Stash 2 6B47 Helmets in the specified place on Interchange",
-      "Stash 2 BNTI Gzhel-K armors in the specified place on Interchange"
+      "Stash 2 ComTac II headsets in the specified place on Interchange",
+      "Stash 2 6B47 helmets (Olive Drab) in the specified place on Interchange",
+      "Stash 2 Gzhel-K body armors in the specified place on Interchange"
     ],
     "rewards": [
       "+20,300 EXP",
       "Ragman Rep +0.04",
       "55,000 Roubles",
-      "1× IOTV Gen4 body armor (Full Protection Kit, MultiCam)",
+      "1\u00d7 IOTV Gen4 body armor (Full Protection Kit, MultiCam)",
       "Unlocks barter for Mystery Ranch Blackjack 50 backpack (MultiCam) at Ragman LL4"
     ]
   },
@@ -6907,7 +7129,11 @@
       "Obtain the IDEA cargo manifests on Interchange",
       "Hand over the IDEA cargo manifests to Ragman"
     ],
-    "rewards": ["+8,400 EXP", "Ragman Rep +0.03", "30,000 Roubles"]
+    "rewards": [
+      "+8,400 EXP",
+      "Ragman Rep +0.03",
+      "30,000 Roubles"
+    ]
   },
   {
     "task_id": 320,
@@ -6925,8 +7151,8 @@
     "rewards": [
       "+8,500 EXP",
       "Ragman Rep +0.03",
-      "1× Car battery",
-      "1× Phase control relay",
+      "1\u00d7 Car battery",
+      "1\u00d7 Phase control relay",
       "Unlocks barter for 6B3TM-01 armored rig (Khaki) at Ragman LL2"
     ]
   },
@@ -6949,7 +7175,7 @@
       "+13,800 EXP",
       "Ragman Rep +0.03",
       "50,000 Roubles",
-      "1× ANA Tactical Beta 2 Battle backpack (Olive Drab)",
+      "1\u00d7 ANA Tactical Beta 2 Battle backpack (Olive Drab)",
       "Unlocks craft for FirstSpear Strandhogg plate carrier (Ranger Green) at Lavatory level 2",
       "Unlocks barter for Interceptor OTV body armor (UCP) at Ragman LL2"
     ]
@@ -6973,8 +7199,8 @@
       "+12,300 EXP",
       "Ragman Rep +0.02",
       "25,000 Roubles",
-      "1× LBT-6094A Slick Plate Carrier (Black)",
-      "1× Walker's XCEL 500BT Digital headset",
+      "1\u00d7 LBT-6094A Slick Plate Carrier (Black)",
+      "1\u00d7 Walker's XCEL 500BT Digital headset",
       "Unlocks craft for 6B23-2 body armor (Mountain Flora) at Lavatory level 1"
     ]
   },
@@ -6988,15 +7214,17 @@
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
     "objectives": [
-      "Obtain 2 BNTI Gzhel-K body armors in any condition",
-      "Hand over the 2 BNTI Gzhel-K body armors to Ragman"
+      "Obtain BNTI Gzhel-K armor in 0-50% durability",
+      "Hand over the armor",
+      "Obtain BNTI Gzhel-K armor in 50-100% durability",
+      "Hand over the armor"
     ],
     "rewards": [
       "+17,500 EXP",
       "Ragman Rep +0.03",
-      "1× ZSh-1-2M face shield",
-      "1× Maska-1SCh face shield (Olive Drab)",
-      "1× Altyn helmet face shield"
+      "1\u00d7 ZSh-1-2M face shield",
+      "1\u00d7 Maska-1SCh face shield (Olive Drab)",
+      "1\u00d7 Altyn helmet face shield"
     ]
   },
   {
@@ -7009,14 +7237,14 @@
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
     "objectives": [
-      "Obtain 2 6B13 assault armors in any condition in raid",
-      "Hand over the 2 6B13 assault armors to Ragman"
+      "Hand over the 6B43 assault armor in 0-75% durability",
+      "Hand over the 6B43 assault armor in 75-100% durability"
     ],
     "rewards": [
       "+18,200 EXP",
       "Ragman Rep +0.03",
       "65,000 Roubles",
-      "1× FORT Redut-T5 body armor (Smog)",
+      "1\u00d7 FORT Redut-T5 body armor (Smog)",
       "Unlocks barter for 6Sh118 raid backpack (EMR) at Prapor LL4"
     ]
   },
@@ -7039,8 +7267,8 @@
       "+18,500 EXP",
       "Ragman Rep +0.03",
       "30,000 Roubles",
-      "1× ANA Tactical M2 plate carrier (EMR)",
-      "1× Oakley Mechanism heavy duty backpack (Black)",
+      "1\u00d7 ANA Tactical M2 plate carrier (EMR)",
+      "1\u00d7 Oakley Mechanism heavy duty backpack (Black)",
       "Unlocks craft for 5.11 Tactical TacTec plate carrier (Ranger Green) at Lavatory level 3"
     ]
   },
@@ -7087,7 +7315,7 @@
     "rewards": [
       "+34,800 EXP",
       "100,000 Roubles",
-      "1× Mystery Ranch Blackjack 50 backpack (MultiCam)"
+      "1\u00d7 Mystery Ranch Blackjack 50 backpack (MultiCam)"
     ]
   },
   {
@@ -7109,7 +7337,7 @@
       "+15,600 EXP",
       "Ragman Rep +0.03",
       "60,000 Roubles",
-      "2× Ghost balaclava",
+      "2\u00d7 Ghost balaclava",
       "Unlocks White Hideout ceiling style"
     ]
   },
@@ -7137,8 +7365,8 @@
     "rewards": [
       "+19,900 EXP",
       "Ragman Rep +0.03",
-      "3× Golden neck chain",
-      "1× Vulkan-5 LShZ-5 bulletproof helmet (Black)",
+      "3\u00d7 Golden neck chain",
+      "1\u00d7 Vulkan-5 LShZ-5 bulletproof helmet (Black)",
       "Unlocks purchase of IOTV Gen4 body armor (High Mobility Kit, MultiCam) at Ref LL4"
     ]
   },
@@ -7165,9 +7393,9 @@
       "+25,900 EXP",
       "Ragman Rep +0.05",
       "110,000 Roubles",
-      "1× Altyn bulletproof helmet (Olive Drab)",
-      "1× Altyn helmet face shield",
-      "1× Ars Arma CPC MOD.1 plate carrier (A-TACS FG)",
+      "1\u00d7 Altyn bulletproof helmet (Olive Drab)",
+      "1\u00d7 Altyn helmet face shield",
+      "1\u00d7 Ars Arma CPC MOD.1 plate carrier (A-TACS FG)",
       "Unlocks craft for NPP KlASS Bagariy plate carrier (EMR) at Lavatory level 3"
     ]
   },
@@ -7180,12 +7408,14 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Reach the required Charisma skill level of 10"],
+    "objectives": [
+      "Reach the required Charisma skill level of 10"
+    ],
     "rewards": [
       "+15,600 EXP",
       "Ragman Rep +0.03",
       "60,000 Roubles",
-      "1× Ars Arma A18 Skanda plate carrier (MultiCam)",
+      "1\u00d7 Ars Arma A18 Skanda plate carrier (MultiCam)",
       "Unlocks barter for FORT Redut-M body armor at Ragman LL4"
     ]
   },
@@ -7198,12 +7428,14 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Reach level 3 loyalty with Therapist"],
+    "objectives": [
+      "Reach level 3 loyalty with Therapist"
+    ],
     "rewards": [
       "+15,800 EXP",
       "Ragman Rep +0.03",
       "32,000 Roubles",
-      "1× Altyn bulletproof helmet (Olive Drab)"
+      "1\u00d7 Altyn bulletproof helmet (Olive Drab)"
     ]
   },
   {
@@ -7223,8 +7455,8 @@
       "+24,100 EXP",
       "Ragman Rep +0.03",
       "250,000 Roubles",
-      "1× Interchange plan map",
-      "1× FORT Defender-2 body armor",
+      "1\u00d7 Interchange plan map",
+      "1\u00d7 FORT Defender-2 body armor",
       "Unlocks barter for FORT Redut-T5 body armor (Smog) at Ragman LL4"
     ]
   },
@@ -7237,7 +7469,9 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Reach the required Search skill level of 9"],
+    "objectives": [
+      "Reach the required Search skill level of 9"
+    ],
     "rewards": [
       "+17,700 EXP",
       "Ragman Rep +0.03",
@@ -7266,7 +7500,7 @@
       "+10,000 EXP",
       "Ragman Rep +0.03",
       "30,000 Roubles",
-      "1× ZSh-1-2M helmet (Olive Drab)",
+      "1\u00d7 ZSh-1-2M helmet (Olive Drab)",
       "Unlocks purchase of Camelbak Tri-Zip assault backpack (Foliage) at Ragman LL3",
       "Unlocks purchase of Camelbak Tri-Zip assault backpack (MultiCam) at Ragman LL3"
     ]
@@ -7289,7 +7523,7 @@
       "+8,200 EXP",
       "Ragman Rep +0.03",
       "30,000 Roubles",
-      "2× Propane tank (5L)"
+      "2\u00d7 Propane tank (5L)"
     ]
   },
   {
@@ -7301,11 +7535,13 @@
     "location_name": "Interchange",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate 20 PMCs inside the ULTRA mall on Interchange"],
+    "objectives": [
+      "Eliminate 20 PMCs inside the ULTRA mall on Interchange"
+    ],
     "rewards": [
       "+84,000 EXP",
-      "1× 6Sh118 raid backpack (EMR)",
-      "1× Rys-T bulletproof helmet (Black)"
+      "1\u00d7 6Sh118 raid backpack (EMR)",
+      "1\u00d7 Rys-T bulletproof helmet (Black)"
     ]
   },
   {
@@ -7329,8 +7565,8 @@
     ],
     "rewards": [
       "+107,000 EXP",
-      "3× Paracord",
-      "10× Piece of plexiglass",
+      "3\u00d7 Paracord",
+      "10\u00d7 Piece of plexiglass",
       "Unlocks Bottle Hideout shooting range target style"
     ]
   },
@@ -7372,8 +7608,8 @@
       "+17,200 EXP",
       "Ragman Rep +0.02",
       "87,000 Roubles",
-      "1× Roler Submariner gold wrist watch",
-      "1× Gold skull ring",
+      "1\u00d7 Roler Submariner gold wrist watch",
+      "1\u00d7 Gold skull ring",
       "Unlocks purchase of CQC Osprey MK4A plate carrier (Assault, MTP) at Ragman LL3"
     ]
   },
@@ -7394,7 +7630,7 @@
       "+10,700 EXP",
       "Ragman Rep +0.02",
       "66,000 Roubles",
-      "1× Eagle Industries MMAC plate carrier (Ranger Green)",
+      "1\u00d7 Eagle Industries MMAC plate carrier (Ranger Green)",
       "Unlocks purchase of 6B5-15 Zh-86 Uley armored rig (Flora) at Ragman LL2"
     ]
   },
@@ -7416,7 +7652,7 @@
       "+33,000 EXP",
       "Ragman Rep +0.03",
       "350,000 Roubles",
-      "1× FORT Redut-M body armor",
+      "1\u00d7 FORT Redut-M body armor",
       "Unlocks Bricks Hideout wall style"
     ]
   },
@@ -7437,7 +7673,7 @@
       "+7,200 EXP",
       "Ragman Rep +0.01",
       "25,000 Roubles",
-      "1× Stich Profi Chest Rig MK2 (Recon, A-TACS FG)"
+      "1\u00d7 Stich Profi Chest Rig MK2 (Recon, A-TACS FG)"
     ]
   },
   {
@@ -7492,7 +7728,7 @@
       "+12,800 EXP",
       "Ragman Rep +0.02",
       "86,000 Roubles",
-      "1× Gold skull ring"
+      "1\u00d7 Gold skull ring"
     ]
   },
   {
@@ -7504,12 +7740,14 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Sell Ragman any 250 backpacks or tactical rigs"],
+    "objectives": [
+      "Sell Ragman any 250 backpacks or tactical rigs"
+    ],
     "rewards": [
       "+32,000 EXP",
       "Ragman Rep +0.01",
       "264,000 Roubles",
-      "2× Bottle of Fierce Hatchling moonshine"
+      "2\u00d7 Bottle of Fierce Hatchling moonshine"
     ]
   },
   {
@@ -7537,8 +7775,8 @@
       "+85,500 EXP",
       "Ragman Rep +0.03",
       "328,000 Roubles",
-      "2× Walker's XCEL 500BT Digital headset",
-      "2× Diamond Age Bastion helmet (Black)"
+      "2\u00d7 Walker's XCEL 500BT Digital headset",
+      "2\u00d7 Diamond Age Bastion helmet (Black)"
     ]
   },
   {
@@ -7551,13 +7789,13 @@
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
     "objectives": [
-      "Locate and neutralize any 5 Bosses (Excluding the Goons and Partisan) while using any Goons Edition tactical rig"
+      "Locate and neutralize any 5 Bosses (Excluding the Goons, Partisan, Shadow of Tagilla and Vengeful Killa) while using any Goons Edition tactical rig"
     ],
     "rewards": [
       "+92,000 EXP",
       "Ragman Rep +0.03",
       "340,000 Roubles",
-      "3× NPP KlASS Bagariy plate carrier (EMR)",
+      "3\u00d7 NPP KlASS Bagariy plate carrier (EMR)",
       "Unlocks Laminate Hideout floor style"
     ]
   },
@@ -7570,8 +7808,13 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Hand over 15 Physical Bitcoins"],
-    "rewards": ["Ragman Rep +0.01", "+2 pocket slots"]
+    "objectives": [
+      "Hand over 15 Physical Bitcoins"
+    ],
+    "rewards": [
+      "Ragman Rep +0.01",
+      "+2 pocket slots"
+    ]
   },
   {
     "task_id": 351,
@@ -7590,7 +7833,7 @@
       "+55,000 EXP",
       "Ragman Rep +0.02",
       "145,000 Roubles",
-      "3× Bottle of Fierce Hatchling moonshine"
+      "3\u00d7 Bottle of Fierce Hatchling moonshine"
     ]
   },
   {
@@ -7611,7 +7854,7 @@
       "+28,800 EXP",
       "Ragman Rep +0.03",
       "98,000 Roubles",
-      "2× Peltor ComTac VI headset (Coyote Brown)"
+      "2\u00d7 Peltor ComTac VI headset (Coyote Brown)"
     ]
   },
   {
@@ -7633,7 +7876,7 @@
       "+11,400 EXP",
       "Ragman Rep +0.03",
       "100,000 Roubles",
-      "1× IOTV Gen4 body armor (High Mobility Kit, MultiCam)"
+      "1\u00d7 IOTV Gen4 body armor (High Mobility Kit, MultiCam)"
     ]
   },
   {
@@ -7653,7 +7896,7 @@
       "+12,800 EXP",
       "Ragman Rep +0.02",
       "67,000 Roubles",
-      "2× Peltor ComTac V headset (OD Green)"
+      "2\u00d7 Peltor ComTac V headset (OD Green)"
     ]
   },
   {
@@ -7673,7 +7916,7 @@
       "+24,100 EXP",
       "Ragman Rep +0.03",
       "124,000 Roubles",
-      "1× IOTV Gen4 body armor (Assault Kit, MultiCam)"
+      "1\u00d7 IOTV Gen4 body armor (Assault Kit, MultiCam)"
     ]
   },
   {
@@ -7699,7 +7942,11 @@
       "Hand over the item: Cultist figurine",
       "Hand over the item: Den figurine"
     ],
-    "rewards": ["+10,000 EXP", "Ragman Rep +0.01", "100,000 Roubles"]
+    "rewards": [
+      "+10,000 EXP",
+      "Ragman Rep +0.01",
+      "100,000 Roubles"
+    ]
   },
   {
     "task_id": 357,
@@ -7724,7 +7971,11 @@
       "Hand over the found in raid item: Cultist figurine",
       "Hand over the found in raid item: Den figurine"
     ],
-    "rewards": ["+11,000 EXP", "Ragman Rep +0.01", "200,000 Roubles"]
+    "rewards": [
+      "+11,000 EXP",
+      "Ragman Rep +0.01",
+      "200,000 Roubles"
+    ]
   },
   {
     "task_id": 358,
@@ -7747,7 +7998,7 @@
       "+3,900 EXP",
       "Jaeger Rep +0.01",
       "50,000 Roubles",
-      "1× SurvL Survivor Lighter"
+      "1\u00d7 SurvL Survivor Lighter"
     ]
   },
   {
@@ -7759,13 +8010,15 @@
     "location_name": "Woods",
     "required_for_kappa": true,
     "required_for_lightkeeper": true,
-    "objectives": ["Eliminate 5 Scavs without wearing any body armor on Woods"],
+    "objectives": [
+      "Eliminate 5 Scavs without wearing any body armor on Woods"
+    ],
     "rewards": [
       "+5,600 EXP",
       "Jaeger Rep +0.02",
       "35,000 Roubles",
-      "1× Kalashnikov AKMSN 7.62x39 assault rifle",
-      "10× 7.62x39mm FMJ ammo pack (20 pcs)"
+      "1\u00d7 Kalashnikov AKMSN 7.62x39 assault rifle",
+      "10\u00d7 7.62x39mm FMJ ammo pack (20 pcs)"
     ]
   },
   {
@@ -7787,8 +8040,8 @@
       "+4,700 EXP",
       "Jaeger Rep +0.01",
       "22,000 Roubles",
-      "2× Phase control relay",
-      "1× Metal fuel tank",
+      "2\u00d7 Phase control relay",
+      "1\u00d7 Metal fuel tank",
       "Unlocks purchase of Iskra ration pack at Jaeger LL2"
     ]
   },
@@ -7809,8 +8062,8 @@
       "+5,700 EXP",
       "Jaeger Rep +0.02",
       "30,000 Roubles",
-      "2× Aquamari water bottle with filter",
-      "2× Water filter"
+      "2\u00d7 Aquamari water bottle with filter",
+      "2\u00d7 Water filter"
     ]
   },
   {
@@ -7822,7 +8075,9 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": true,
-    "objectives": ["Eliminate 3 Scavs while suffering from pain effect"],
+    "objectives": [
+      "Eliminate 3 Scavs while suffering from pain effect"
+    ],
     "rewards": [
       "+5,800 EXP",
       "+1 Stress resistance skill level",
@@ -7887,9 +8142,9 @@
       "+2 Metabolism skill levels",
       "Jaeger Rep +0.02",
       "30,000 Roubles",
-      "6× 12/70 RIP ammo pack (5 pcs)",
-      "4× 5.56x45mm Warmageddon ammo pack (20 pcs)",
-      "1× 5.45x39mm BT gs ammo pack (120 pcs)"
+      "6\u00d7 12/70 RIP ammo pack (5 pcs)",
+      "4\u00d7 5.56x45mm Warmageddon ammo pack (20 pcs)",
+      "1\u00d7 5.45x39mm BT gs ammo pack (120 pcs)"
     ]
   },
   {
@@ -7909,7 +8164,7 @@
       "+0.5 Perception skill level",
       "Jaeger Rep +0.02",
       "40,000 Roubles",
-      "3× Armasight Vulcan MG 3.5x Bravo night vision scope"
+      "3\u00d7 Armasight Vulcan MG 3.5x Bravo night vision scope"
     ]
   },
   {
@@ -7921,7 +8176,9 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Reach the required Vitality skill level of 5"],
+    "objectives": [
+      "Reach the required Vitality skill level of 5"
+    ],
     "rewards": [
       "+5,900 EXP",
       "+2 Surgery skill levels",
@@ -7939,16 +8196,16 @@
     "required_for_kappa": true,
     "required_for_lightkeeper": true,
     "objectives": [
-      "Eliminate 6 PMСs in the office area (any floor) on Factory"
+      "Eliminate 6 PM\u0421s in the office area (any floor) on Factory"
     ],
     "rewards": [
       "+9,800 EXP",
       "Jaeger Rep +0.02",
       "37,000 Roubles",
-      "2× Pliers Elite",
-      "1× Toolset",
-      "2× Nippers",
-      "2× Corrugated hose"
+      "2\u00d7 Pliers Elite",
+      "1\u00d7 Toolset",
+      "2\u00d7 Nippers",
+      "2\u00d7 Corrugated hose"
     ]
   },
   {
@@ -7969,10 +8226,10 @@
       "+15,300 EXP",
       "Jaeger Rep +0.02",
       "90,000 Roubles",
-      "1× Magazine case",
-      "3× Golden neck chain",
-      "2× Gold skull ring",
-      "1× Roler Submariner gold wrist watch"
+      "1\u00d7 Magazine case",
+      "3\u00d7 Golden neck chain",
+      "2\u00d7 Gold skull ring",
+      "1\u00d7 Roler Submariner gold wrist watch"
     ]
   },
   {
@@ -7984,13 +8241,15 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": true,
-    "objectives": ["Eliminate 30 Scavs all over the Tarkov territory"],
+    "objectives": [
+      "Eliminate 30 Scavs all over the Tarkov territory"
+    ],
     "rewards": [
       "+5,900 EXP",
       "Jaeger Rep +0.02",
       "55,000 Roubles",
-      "1× TOZ KS-23M 23x75mm pump-action shotgun",
-      "3× 23x75mm Barrikada slug ammo pack (5 pcs)"
+      "1\u00d7 TOZ KS-23M 23x75mm pump-action shotgun",
+      "3\u00d7 23x75mm Barrikada slug ammo pack (5 pcs)"
     ]
   },
   {
@@ -8009,7 +8268,7 @@
       "+7,200 EXP",
       "Jaeger Rep +0.02",
       "50,000 Roubles",
-      "1× NcSTAR ADO P4 Sniper 3-9x42 riflescope"
+      "1\u00d7 NcSTAR ADO P4 Sniper 3-9x42 riflescope"
     ]
   },
   {
@@ -8030,10 +8289,10 @@
       "+20,000 EXP",
       "Jaeger Rep +0.02",
       "150,000 Roubles",
-      "3× Intelligence folder",
-      "1× IDEA cash register key",
-      "1× OLI cash register key",
-      "1× Goshan cash register key",
+      "3\u00d7 Intelligence folder",
+      "1\u00d7 IDEA cash register key",
+      "1\u00d7 OLI cash register key",
+      "1\u00d7 Goshan cash register key",
       "Unlocks barter for RPK-16 5.45x39 light machine gun at Prapor LL2"
     ]
   },
@@ -8055,9 +8314,9 @@
       "+36,000 EXP",
       "Jaeger Rep +0.02",
       "150,000 Roubles",
-      "1× Intelligence folder",
-      "5× GP coin",
-      "1× Accuracy International AXMC .338 LM bolt-action sniper rifle"
+      "1\u00d7 Intelligence folder",
+      "5\u00d7 GP coin",
+      "1\u00d7 Accuracy International AXMC .338 LM bolt-action sniper rifle"
     ]
   },
   {
@@ -8077,9 +8336,9 @@
     "rewards": [
       "+18,000 EXP",
       "Jaeger Rep +0.02",
-      "4× Gunpowder \"Hawk\"",
-      "1× VPX Flash Storage Module",
-      "3× TerraGroup Labs access keycard",
+      "4\u00d7 Gunpowder \"Hawk\"",
+      "1\u00d7 VPX Flash Storage Module",
+      "3\u00d7 TerraGroup Labs access keycard",
       "Unlocks purchase of Remington Model 700 7.62x51 bolt-action sniper rifle (variant ARCH) at Jaeger LL3"
     ]
   },
@@ -8095,7 +8354,11 @@
     "objectives": [
       "Eliminate 3 Scavs dressed in police uniform (Reshala's bodyguards)"
     ],
-    "rewards": ["+12,300 EXP", "Jaeger Rep +0.02", "80,000 Roubles"]
+    "rewards": [
+      "+12,300 EXP",
+      "Jaeger Rep +0.02",
+      "80,000 Roubles"
+    ]
   },
   {
     "task_id": 376,
@@ -8106,8 +8369,14 @@
     "location_name": "Customs",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate 5 PMCs in the Dorms area on Customs"],
-    "rewards": ["+10,000 EXP", "Jaeger Rep +0.02", "75,000 Roubles"]
+    "objectives": [
+      "Eliminate 5 PMCs in the Dorms area on Customs"
+    ],
+    "rewards": [
+      "+10,000 EXP",
+      "Jaeger Rep +0.02",
+      "75,000 Roubles"
+    ]
   },
   {
     "task_id": 377,
@@ -8118,13 +8387,15 @@
     "location_name": "Reserve",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate Glukhar"],
+    "objectives": [
+      "Eliminate Glukhar"
+    ],
     "rewards": [
       "+18,300 EXP",
       "Jaeger Rep +0.02",
       "200,000 Roubles",
       "5,000 Dollars",
-      "1× Weapon case"
+      "1\u00d7 Weapon case"
     ]
   },
   {
@@ -8136,12 +8407,14 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate 6 Raiders"],
+    "objectives": [
+      "Eliminate 6 Raiders"
+    ],
     "rewards": [
       "+22,500 EXP",
       "Jaeger Rep +0.04",
       "80,000 Roubles",
-      "1× FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope",
+      "1\u00d7 FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope",
       "Unlocks barter for MP-155 Ultima thermal camera at Jaeger LL4"
     ]
   },
@@ -8154,14 +8427,16 @@
     "location_name": "Shoreline",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate Sanitar"],
+    "objectives": [
+      "Eliminate Sanitar"
+    ],
     "rewards": [
       "+16,300 EXP",
       "Jaeger Rep +0.02",
       "115,000 Roubles",
-      "1× Trijicon REAP-IR thermal scope",
-      "4× 12/70 AP-20 ammo pack (25 pcs)",
-      "2× Surv12 field surgical kit"
+      "1\u00d7 Trijicon REAP-IR thermal scope",
+      "4\u00d7 12/70 AP-20 ammo pack (25 pcs)",
+      "2\u00d7 Surv12 field surgical kit"
     ]
   },
   {
@@ -8203,7 +8478,7 @@
       "+11,400 EXP",
       "Jaeger Rep +0.02",
       "50,000 Roubles",
-      "1× SSD drive"
+      "1\u00d7 SSD drive"
     ]
   },
   {
@@ -8224,8 +8499,8 @@
       "+16,800 EXP",
       "Jaeger Rep +0.02",
       "30,000 Roubles",
-      "1× Documents case",
-      "1× HEP station storage room key"
+      "1\u00d7 Documents case",
+      "1\u00d7 HEP station storage room key"
     ]
   },
   {
@@ -8241,7 +8516,11 @@
       "Find 2 TerraGroup Labs access keycards in raid",
       "Hand over 2 TerraGroup Labs access keycards to Jaeger"
     ],
-    "rewards": ["+18,000 EXP", "Jaeger Rep +0.02", "40,000 Roubles"]
+    "rewards": [
+      "+18,000 EXP",
+      "Jaeger Rep +0.02",
+      "40,000 Roubles"
+    ]
   },
   {
     "task_id": 384,
@@ -8258,7 +8537,11 @@
       "Locate the priest's house in the abandoned village on Shoreline",
       "Survive and extract from Shoreline with the \"Survived\" exit status"
     ],
-    "rewards": ["+11,800 EXP", "Jaeger Rep +0.03", "35,000 Roubles"]
+    "rewards": [
+      "+11,800 EXP",
+      "Jaeger Rep +0.03",
+      "35,000 Roubles"
+    ]
   },
   {
     "task_id": 385,
@@ -8276,9 +8559,9 @@
       "+15,000 EXP",
       "Jaeger Rep +0.02",
       "100,000 Roubles",
-      "1× VPX Flash Storage Module",
-      "1× Iridium military thermal vision module",
-      "1× Phased array element",
+      "1\u00d7 VPX Flash Storage Module",
+      "1\u00d7 Iridium military thermal vision module",
+      "1\u00d7 Phased array element",
       "Unlocks purchase of Accuracy International AXMC .338 LM bolt-action sniper rifle at Jaeger LL4"
     ]
   },
@@ -8299,10 +8582,10 @@
       "+11,800 EXP",
       "Jaeger Rep +0.02",
       "16,000 Roubles",
-      "3× Pack of nails",
-      "3× Pack of screws",
-      "1× Silicone tube",
-      "2× Broken LCDs"
+      "3\u00d7 Pack of nails",
+      "3\u00d7 Pack of screws",
+      "1\u00d7 Silicone tube",
+      "2\u00d7 Broken LCDs"
     ]
   },
   {
@@ -8317,7 +8600,11 @@
     "objectives": [
       "Eliminate 5 Scavs from over 40 meters away while using a bolt-action rifle with iron sights"
     ],
-    "rewards": ["+12,300 EXP", "Jaeger Rep +0.02", "50,000 Roubles"]
+    "rewards": [
+      "+12,300 EXP",
+      "Jaeger Rep +0.02",
+      "50,000 Roubles"
+    ]
   },
   {
     "task_id": 388,
@@ -8332,7 +8619,11 @@
       "Shoot any target in the legs from over 40 meters away while using a bolt-action rifle 3 times",
       "Shoot any target in the head from over 40 meters away while using a bolt-action rifle 2 times"
     ],
-    "rewards": ["+12,400 EXP", "Jaeger Rep +0.02", "65,000 Roubles"]
+    "rewards": [
+      "+12,400 EXP",
+      "Jaeger Rep +0.02",
+      "65,000 Roubles"
+    ]
   },
   {
     "task_id": 389,
@@ -8350,8 +8641,8 @@
       "+10,500 EXP",
       "Jaeger Rep +0.02",
       "70,000 Roubles",
-      "1× Mosin Rifle Tacfire Tanker Style 7.62x54R muzzle brake",
-      "1× Mosin Rifle AIM Sports Recoil Pad",
+      "1\u00d7 Mosin Rifle Tacfire Tanker Style 7.62x54R muzzle brake",
+      "1\u00d7 Mosin Rifle AIM Sports Recoil Pad",
       "Unlocks purchase of Mosin Rifle Tacfire Tanker Style 7.62x54R muzzle brake at Jaeger LL2",
       "Unlocks purchase of Mosin Rifle AIM Sports Recoil Pad at Jaeger LL2",
       "Unlocks craft for .366 TKM AP-M at Workbench level 3",
@@ -8374,8 +8665,8 @@
       "+11,800 EXP",
       "Jaeger Rep +0.02",
       "80,000 Roubles",
-      "1× Mosin Rifle AIM Sports Tri-Rail mount",
-      "1× Mosin Rifle Tacfire pistol grip",
+      "1\u00d7 Mosin Rifle AIM Sports Tri-Rail mount",
+      "1\u00d7 Mosin Rifle Tacfire pistol grip",
       "Unlocks purchase of Mosin Rifle AIM Sports Tri-Rail mount at Jaeger LL2",
       "Unlocks purchase of Mosin Rifle Tacfire pistol grip at Jaeger LL2"
     ]
@@ -8392,7 +8683,11 @@
     "objectives": [
       "Eliminate 8 Scavs while using a bolt-action rifle in the time period of 21:00-5:00 on Customs"
     ],
-    "rewards": ["+13,000 EXP", "Jaeger Rep +0.02", "80,000 Roubles"]
+    "rewards": [
+      "+13,000 EXP",
+      "Jaeger Rep +0.02",
+      "80,000 Roubles"
+    ]
   },
   {
     "task_id": 392,
@@ -8403,13 +8698,15 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate 5 Sniper Scavs while using a bolt-action rifle"],
+    "objectives": [
+      "Eliminate 5 Sniper Scavs while using a bolt-action rifle"
+    ],
     "rewards": [
       "+13,100 EXP",
       "Jaeger Rep +0.02",
       "85,000 Roubles",
-      "1× Mosin Rifle ATI Monte Carlo stock",
-      "1× Ski hat with holes for eyes",
+      "1\u00d7 Mosin Rifle ATI Monte Carlo stock",
+      "1\u00d7 Ski hat with holes for eyes",
       "Unlocks purchase of Mosin Rifle ATI Monte Carlo stock at Jaeger LL3"
     ]
   },
@@ -8425,7 +8722,11 @@
     "objectives": [
       "Eliminate 5 PMCs from over 45 meters while using a suppressed bolt-action rifle"
     ],
-    "rewards": ["+13,300 EXP", "Jaeger Rep +0.02", "85,000 Roubles"]
+    "rewards": [
+      "+13,300 EXP",
+      "Jaeger Rep +0.02",
+      "85,000 Roubles"
+    ]
   },
   {
     "task_id": 394,
@@ -8444,8 +8745,8 @@
       "+3 Bolt-action Rifles skill level",
       "Jaeger Rep +0.01",
       "400,000 Roubles",
-      "1× Mosin 7.62x54R bolt-action rifle (Sniper) (variant Archangel)",
-      "1× Military flash drive",
+      "1\u00d7 Mosin 7.62x54R bolt-action rifle (Sniper) (variant Archangel)",
+      "1\u00d7 Military flash drive",
       "Unlocks purchase of Mosin Rifle ProMag Archangel OPFOR PRS chassis at Jaeger LL4",
       "Unlocks purchase of Mosin Rifle 7.62x54R ProMag Archangel OPFOR 10-round magazine at Jaeger LL4",
       "Unlocks barter for Vortex Razor HD Gen.2 1-6x24 30mm riflescope at Jaeger LL4"
@@ -8460,8 +8761,14 @@
     "location_name": "Reserve",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate 10 Scavs in the barracks area on Reserve"],
-    "rewards": ["+7,400 EXP", "Jaeger Rep +0.02", "20,000 Roubles"]
+    "objectives": [
+      "Eliminate 10 Scavs in the barracks area on Reserve"
+    ],
+    "rewards": [
+      "+7,400 EXP",
+      "Jaeger Rep +0.02",
+      "20,000 Roubles"
+    ]
   },
   {
     "task_id": 396,
@@ -8479,9 +8786,9 @@
       "+107,000 EXP",
       "+1 Endurance skill level",
       "+1 Stress Resistance skill level",
-      "1× Armband (Train Hard)",
-      "2× .338 Lapua Magnum AP ammo pack (20 pcs)",
-      "5× 7.62x39mm MAI AP ammo pack (20 pcs)"
+      "1\u00d7 Armband (Train Hard)",
+      "2\u00d7 .338 Lapua Magnum AP ammo pack (20 pcs)",
+      "5\u00d7 7.62x39mm MAI AP ammo pack (20 pcs)"
     ]
   },
   {
@@ -8505,9 +8812,9 @@
       "+280,000 EXP",
       "+2 Crafting skill levels",
       "+1 Immunity skill level",
-      "1× FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope",
-      "5× Expeditionary fuel tank",
-      "20× GP coin"
+      "1\u00d7 FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope",
+      "5\u00d7 Expeditionary fuel tank",
+      "20\u00d7 GP coin"
     ]
   },
   {
@@ -8528,7 +8835,7 @@
       "+16,000 EXP",
       "Jaeger Rep +0.02",
       "700,000 Roubles",
-      "1× Factory emergency exit key"
+      "1\u00d7 Factory emergency exit key"
     ]
   },
   {
@@ -8540,11 +8847,13 @@
     "location_name": "Woods",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate Shturman 20 times"],
+    "objectives": [
+      "Eliminate Shturman 20 times"
+    ],
     "rewards": [
       "100,000 Roubles",
-      "1× Weapon case",
-      "1× Chain with Prokill medallion",
+      "1\u00d7 Weapon case",
+      "1\u00d7 Chain with Prokill medallion",
       "Unlocks purchase of SWORD International Mk-18 .338 LM marksman rifle at Jaeger LL4"
     ]
   },
@@ -8562,7 +8871,11 @@
       "Find and obtain the message for Jaeger",
       "Hand over the message to Jaeger"
     ],
-    "rewards": ["+12,000 EXP", "Jaeger Rep +0.02", "55,000 Roubles"]
+    "rewards": [
+      "+12,000 EXP",
+      "Jaeger Rep +0.02",
+      "55,000 Roubles"
+    ]
   },
   {
     "task_id": 401,
@@ -8573,7 +8886,9 @@
     "location_name": "Any",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate 10 Rogues on Lighthouse"],
+    "objectives": [
+      "Eliminate 10 Rogues on Lighthouse"
+    ],
     "rewards": [
       "+9,000 EXP",
       "Jaeger Rep +0.02",
@@ -8599,10 +8914,10 @@
       "+35,000 EXP",
       "Jaeger Rep +0.02",
       "250,000 Roubles",
-      "1× S I C C organizational pouch",
-      "1× SWORD International Mk-18 .338 LM marksman rifle",
-      "2× Mk-18 .338 LM 10-round magazine",
-      "1× .338 Lapua Magnum FMJ ammo pack (20 pcs)"
+      "1\u00d7 S I C C organizational pouch",
+      "1\u00d7 SWORD International Mk-18 .338 LM marksman rifle",
+      "2\u00d7 Mk-18 .338 LM 10-round magazine",
+      "1\u00d7 .338 Lapua Magnum FMJ ammo pack (20 pcs)"
     ]
   },
   {
@@ -8625,9 +8940,9 @@
       "+2,600 EXP",
       "Jaeger Rep +0.01",
       "10,000 Roubles",
-      "2× Bolts",
-      "2× Screw nuts",
-      "1× Corrugated hose"
+      "2\u00d7 Bolts",
+      "2\u00d7 Screw nuts",
+      "1\u00d7 Corrugated hose"
     ]
   },
   {
@@ -8646,8 +8961,8 @@
       "+5,600 EXP",
       "Jaeger Rep +0.02",
       "27,000 Roubles",
-      "1× ZiD SP-81 26x75 signal pistol",
-      "3× 26x75mm flare cartridge (Green)"
+      "1\u00d7 ZiD SP-81 26x75 signal pistol",
+      "3\u00d7 26x75mm flare cartridge (Green)"
     ]
   },
   {
@@ -8667,7 +8982,8 @@
       "+10,800 EXP",
       "Jaeger Rep +0.02",
       "68,000 Roubles",
-      "Unlocks barter for Surv12 field surgical kit at Jaeger LL2"
+      "Unlocks barter for Surv12 field surgical kit at Jaeger LL2",
+      "Unlocks purchase of Surv12 field surgical kit at Jaeger LL3"
     ]
   },
   {
@@ -8687,7 +9003,7 @@
       "+22,600 EXP",
       "Jaeger Rep +0.03",
       "94,000 Roubles",
-      "2× Expeditionary fuel tank",
+      "2\u00d7 Expeditionary fuel tank",
       "Unlocks purchase of .45 ACP RIP at Mechanic LL4"
     ]
   },
@@ -8708,7 +9024,7 @@
       "+15,600 EXP",
       "Jaeger Rep +0.02",
       "81,000 Roubles",
-      "1× Remington Model 700 7.62x51 bolt-action sniper rifle"
+      "1\u00d7 Remington Model 700 7.62x51 bolt-action sniper rifle"
     ]
   },
   {
@@ -8757,8 +9073,8 @@
       "+33,000 EXP",
       "Jaeger Rep +0.02",
       "250,000 Roubles",
-      "1× 6-STEN-140-M military battery",
-      "5× Military circuit board",
+      "1\u00d7 6-STEN-140-M military battery",
+      "5\u00d7 Military circuit board",
       "Unlocks barter for Armasight Zeus-Pro 640 2-8x50 30Hz thermal scope at Jaeger LL4",
       "Unlocks Hog Hideout shooting range target style"
     ]
@@ -8782,8 +9098,8 @@
       "24,000 EXP",
       "Jaeger Rep +0.03",
       "75,000 Roubles",
-      "2× Molot Arms VPO-101 Vepr-Hunter 7.62x51 carbine",
-      "2× 7.62x51mm M61 ammo pack (20 pcs)",
+      "2\u00d7 Molot Arms VPO-101 Vepr-Hunter 7.62x51 carbine",
+      "2\u00d7 7.62x51mm M61 ammo pack (20 pcs)",
       "Unlocks barter for Armasight Zeus-Pro 640 2-8x50 30Hz thermal scope at Jaeger LL4"
     ]
   },
@@ -8802,7 +9118,7 @@
     "rewards": [
       "+8,500 EXP",
       "Jaeger Rep +0.01",
-      "3× 12/70 RIP ammo pack (5 pcs)"
+      "3\u00d7 12/70 RIP ammo pack (5 pcs)"
     ]
   },
   {
@@ -8842,7 +9158,7 @@
       "+4,440 EXP",
       "Jaeger Rep +0.01",
       "60,000 Roubles",
-      "2× Tripwire installation kit"
+      "2\u00d7 Tripwire installation kit"
     ]
   },
   {
@@ -8862,9 +9178,9 @@
       "+17,300 EXP",
       "Jaeger Rep +0.02",
       "90,000 Roubles",
-      "1× Springfield Armory M1A 7.62x51 rifle",
-      "3× M14 7.62x51 30-round magazine",
-      "6× 7.62x51mm M62 Tracer ammo pack (20 pcs)"
+      "1\u00d7 Springfield Armory M1A 7.62x51 rifle",
+      "3\u00d7 M14 7.62x51 30-round magazine",
+      "6\u00d7 7.62x51mm M62 Tracer ammo pack (20 pcs)"
     ]
   },
   {
@@ -8883,7 +9199,7 @@
       "25,400 EXP",
       "Jaeger Rep +0.03",
       "89,000 Roubles",
-      "2× Burris FullField TAC30 1-4x24 30mm riflescope"
+      "2\u00d7 Burris FullField TAC30 1-4x24 30mm riflescope"
     ]
   },
   {
@@ -8904,9 +9220,9 @@
       "+25,600 EXP",
       "Jaeger Rep +0.03",
       "105,000 Roubles",
-      "1× Magnum Research Desert Eagle L6 .50 AE pistol",
-      "3× Desert Eagle .50 AE 7-round magazine",
-      "30× .50 AE Hawk JSP"
+      "1\u00d7 Magnum Research Desert Eagle L6 .50 AE pistol",
+      "3\u00d7 Desert Eagle .50 AE 7-round magazine",
+      "30\u00d7 .50 AE Hawk JSP"
     ]
   },
   {
@@ -8918,12 +9234,15 @@
     "location_name": "Customs",
     "required_for_kappa": true,
     "required_for_lightkeeper": false,
-    "objectives": ["Find the secret exfil on Customs"],
+    "objectives": [
+      "Locate the secret exfil on Customs\n(Optional) Obtain the special item to extract through the secret exfil",
+      "(Optional) Obtain the special item to extract through the secret exfil"
+    ],
     "rewards": [
       "+6,600 EXP",
       "Jaeger Rep +0.01",
       "32,000 Roubles",
-      "2× CMS surgical kit"
+      "2\u00d7 CMS surgical kit"
     ]
   },
   {
@@ -8944,9 +9263,9 @@
       "+43,000 EXP",
       "Jaeger Rep +0.03",
       "200,000 Roubles",
-      "1× Remington Model 700 7.62x51 bolt-action sniper rifle (variant MRS)",
-      "3× M700 7.62x51 Wyatt's Outdoor 10-round magazine",
-      "2× 7.62x51mm M80 ammo pack (20 pcs)"
+      "1\u00d7 Remington Model 700 7.62x51 bolt-action sniper rifle (variant MRS)",
+      "3\u00d7 M700 7.62x51 Wyatt's Outdoor 10-round magazine",
+      "2\u00d7 7.62x51mm M80 ammo pack (20 pcs)"
     ]
   },
   {
@@ -8959,16 +9278,14 @@
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
     "objectives": [
-      "Find 2 Bottle of Tarkovskaya vodka in raid",
-      "Hand over 2 Bottle of Tarkovskaya vodka to Ref",
-      "Find 7 Bottle of Pevko Light beer in raid",
-      "Hand over 7 Bottle of Pevko Light beer to Ref",
-      "Find 2 Alyonka chocolate bars in raid",
-      "Hand over 2 Alyonka chocolate bars to Ref",
-      "Find 5 Pack of Tarker dried meat in raid",
-      "Hand over 5 Pack of Tarker dried meat to Ref"
+      "Hand over 5 found in raid items from the Drinks category",
+      "Hand over 5 found in raid items from the Food category"
     ],
-    "rewards": ["+4,200 EXP", "Ref Rep +0.03", "26 GP coins"]
+    "rewards": [
+      "+4,200 EXP",
+      "Ref Rep +0.03",
+      "26 GP coins"
+    ]
   },
   {
     "task_id": 420,
@@ -8990,9 +9307,9 @@
       "+32,000 EXP",
       "Ref Rep +0.02",
       "45 GP coins",
-      "1× Lone Star TX-15 DML 5.56x45 carbine",
-      "3× 5.56x45 HK 30 STANAG polymer 30-round magazine",
-      "3× 5.56x45mm M855A1 ammo pack (50 pcs)"
+      "1\u00d7 Lone Star TX-15 DML 5.56x45 carbine",
+      "3\u00d7 AR-15 5.56x45 HK 30 STANAG polymer 30-round magazine",
+      "3\u00d7 5.56x45mm M855A1 ammo pack (50 pcs)"
     ]
   },
   {
@@ -9005,16 +9322,17 @@
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
     "objectives": [
-      "Eliminate 10 Scavs while using a G36 assault rifle and any NFM THOR body armor on Interchange"
+      "Eliminate 5 Scavs while using a Steyr AUG on any location"
     ],
     "rewards": [
       "+5,100 EXP",
       "Ref Rep +0.03",
-      "26 GP coins",
-      "1× Death Shadow lightweight armored mask",
-      "3× HK G36 5.56x45 30-round magazine",
-      "120× 5.56x45mm M856",
-      "1× HK G36 5.56x45 assault rifle"
+      "45 GP coins",
+      "1\u00d7 Steyr AUG A1 5.56x45 assault rifle",
+      "3\u00d7 Steyr AUG 5.56x45 30-round magazine",
+      "3\u00d7 5.56x45mm M856 ammo pack (50 pcs)",
+      "1\u00d7 Death Shadow lightweight armored mask",
+      "1\u00d7 Escape from Tarkov: Arena 3-day trial"
     ]
   },
   {
@@ -9027,15 +9345,13 @@
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
     "objectives": [
-      "Eliminate 5 PMCs while using AKS-74UB and PACA body armor on Streets of Tarkov"
+      "Eliminate 2 PMC operatives while wearing a PACA Soft Armor on any location"
     ],
     "rewards": [
       "+7,000 EXP",
       "Ref Rep +0.03",
-      "28 GP coins",
-      "1× Kalashnikov AKS-74UB 5.45x39 assault rifle",
-      "3× AK-74 Delta-Tek Saiga 545 5.45x39 20-round magazine",
-      "60× 5.45x39mm T gs"
+      "52 GP coins",
+      "2\u00d7 Death Shadow lightweight armored mask"
     ]
   },
   {
@@ -9048,15 +9364,13 @@
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
     "objectives": [
-      "Hand over 1 found in raid Korund-VM ballistic plates (Front) to Ref",
-      "Hand over 1 found in raid SPRTN Omega ballistic plate to Ref",
-      "Hand over 1 found in raid 6B33 ballistic plate (Front) to Ref"
+      "Hand over 3 found in raid class 4 or higher ballistic plates to Ref"
     ],
     "rewards": [
       "+3,600 EXP",
       "Ref Rep +0.04",
-      "28 GP coins",
-      "1× Maska-1SCh bulletproof helmet (Killa Edition)"
+      "55 GP coins",
+      "1\u00d7 Maska-1SCh bulletproof helmet (Killa Edition)"
     ]
   },
   {
@@ -9069,16 +9383,15 @@
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
     "objectives": [
-      "Plant 3 TP-200 TNT bricks under Kaban's office on Streets of Tarkov",
-      "Plant 3 TP-200 TNT bricks at the MVD academy entrance on Streets of Tarkov"
+      "Plant 3 TP-200 TNT bricks on the second floor of the cafe on Ground Zero"
     ],
     "rewards": [
       "+5,000 EXP",
       "Ref Rep +0.05",
       "28 GP coins",
-      "1× Desert Tech MDR 5.56x45 assault rifle",
-      "3× 5.56x45 Magpul PMAG 20 GEN M3 STANAG 20-round magazine",
-      "80× 5.56x45mm M856"
+      "3\u00d7 AR-15 5.56x45 Magpul PMAG 20 GEN M3 STANAG 20-round magazine",
+      "1\u00d7 5.56x45mm M856 ammo pack (100 pcs)",
+      "1\u00d7 Desert Tech MDR 5.56x45 assault rifle"
     ]
   },
   {
@@ -9091,17 +9404,16 @@
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
     "objectives": [
-      "Eliminate 3 of Kaban's guards on Streets of Tarkov",
-      "Eliminate 3 of Kollontay's guards on Streets of Tarkov",
+      "Eliminate 2 of Kaban's or Kollontay's guards on Streets of Tarkov",
       "Do not harm Kaban or Kollontay"
     ],
     "rewards": [
       "+10,000 EXP",
       "Ref Rep +0.07",
-      "36 GP coins",
-      "1× Degtyarev RPDN 7.62x39 machine gun",
-      "1× RPD 7.62x39 \"Buben\" 100-round box",
-      "200× 7.62x39mm FMJ"
+      "1\u00d7 Degtyarev RPDN 7.62x39 machine gun",
+      "1\u00d7 RPD 7.62x39 Buben 100-round box",
+      "10\u00d7 7.62x39mm FMJ ammo pack (20 pcs)",
+      "1\u00d7 Lega Medal"
     ]
   },
   {
@@ -9113,14 +9425,17 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Win a match in ranked game mode in Arena"],
+    "objectives": [
+      "Win a match in CheckPoint or LastHero mode in Arena"
+    ],
     "rewards": [
       "+5,600 EXP",
       "Ref Rep +0.03",
-      "32 GP coins",
-      "1× Remington Model 700 7.62x51 bolt-action sniper rifle",
-      "2× M700 7.62x51 Magpul PMAG AC 5-round magazine",
-      "30× 7.62x51mm TCW SP"
+      "72 GP coins",
+      "2\u00d7 M700 7.62x51 Magpul PMAG AC 5-round magazine",
+      "2\u00d7 7.62x51mm TCW SP ammo pack (20 pcs)",
+      "1\u00d7 Lega Medal",
+      "1\u00d7 Remington Model 700 7.62x51 bolt-action sniper rifle"
     ]
   },
   {
@@ -9132,14 +9447,16 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Win 5 matches in ranked game mode in Arena"],
+    "objectives": [
+      "Win a match in TeamFight, BlastGang, or CheckPoint mode in Arena"
+    ],
     "rewards": [
       "+6,500 EXP",
       "Ref Rep +0.03",
-      "36 GP coins",
-      "1× Steyr AUG A1 5.56x45 assault rifle",
-      "3× Steyr AUG 5.56x45 30-round magazine",
-      "120× 5.56x45mm FMJ",
+      "45 GP coins",
+      "1\u00d7 CMMG Mk47 Mutant 7.62x39 assault rifle",
+      "3\u00d7 AK 7.62x39 US Palm \"AK30\" 30-round magazine (Black)",
+      "3\u00d7 7.62x39mm PS gzh ammo pack (20 pcs)",
       "Unlocks Parquet Hideout floor style"
     ]
   },
@@ -9153,15 +9470,15 @@
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
     "objectives": [
-      "Win 3 matches while claiming first place in ranked game mode in Arena"
+      "Win 2 matches while claiming at least 3rd place in TeamFight, BlastGang, or CheckPoint mode in Arena"
     ],
     "rewards": [
       "+11,000 EXP",
       "Ref Rep +0.04",
       "38 GP coins",
-      "1× Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle",
-      "2× DVL-10 7.62x51 10-round magazine",
-      "40× 7.62x51mm TCW SP"
+      "1\u00d7 Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle (variant Saboteur)",
+      "2\u00d7 DVL-10 7.62x51 10-round magazine",
+      "2\u00d7 7.62x51mm TCW SP ammo pack (20 pcs)"
     ]
   },
   {
@@ -9174,19 +9491,19 @@
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
     "objectives": [
-      "Hand over 3,000,000 Roubles from the EFT balance",
-      "Win 6 matches out of 10 in ranked game mode in Arena\nDo not lose 5 matches",
-      "Do not lose 5 matches"
+      "Hand over 1,000,000 Roubles from the EFT balance",
+      "Win 3 out of 6 matches in TeamFight, BlastGang or CheckPoint mode in Arena\nDo not lose 4 matches",
+      "Do not lose 4 matches"
     ],
     "rewards": [
       "+12,000 EXP",
       "Ref Rep +0.09",
-      "??? GP coins",
+      "41 GP coins",
       "2,500,000 Roubles",
-      "1× Armband (ARENA)",
-      "1× HK MP7A1 4.6x30 submachine gun",
-      "3× HK MP7 4.6x30 30-round magazine",
-      "120× 4.6x30mm JSP SX"
+      "1\u00d7 Armband (ARENA)",
+      "1\u00d7 HK MP7A1 4.6x30 submachine gun",
+      "3\u00d7 HK MP7 4.6x30 30-round magazine",
+      "3\u00d7 4.6x30mm JSP SX ammo pack (40 pcs)"
     ]
   },
   {
@@ -9198,11 +9515,13 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Win 3 matches in a row in ranked game mode in Arena"],
+    "objectives": [
+      "Win 2 matches in a row in TeamFight, BlastGang or CheckPoint mode in Arena"
+    ],
     "rewards": [
       "+21,000 EXP",
       "Ref Rep +0.05",
-      "??? GP coins",
+      "41 GP coins",
       "Unlocks barter for APOK Tactical Wasteland Gladius at Ref LL2"
     ]
   },
@@ -9216,20 +9535,15 @@
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
     "objectives": [
-      "Eliminate 50 targets while using an Assault carbine in Arena",
-      "Eliminate 50 targets while using an Assault rifle in Arena",
-      "Eliminate 50 targets while using a Machine gun in Arena",
-      "Eliminate 50 targets while using a Marksman rifle in Arena",
-      "Eliminate 50 targets while using a Shotgun in Arena",
-      "Eliminate 50 targets while using an SMG in Arena"
+      "Eliminate 100 enemies in any game mode in Arena"
     ],
     "rewards": [
       "+23,000 EXP",
       "Ref Rep +0.06",
-      "??? GP coins",
-      "1× SIG MCX-SPEAR 6.8x51 assault rifle",
-      "3× AR-10 7.62x51 Lancer L7AWM 20-round magazine",
-      "80× 6.8x51mm SIG FMJ"
+      "88 GP coins",
+      "1\u00d7 SIG MCX-SPEAR 6.8x51 assault rifle",
+      "3\u00d7 AR-10 7.62x51 Lancer L7AWM 20-round magazine",
+      "80\u00d7 6.8x51mm SIG FMJ"
     ]
   },
   {
@@ -9249,9 +9563,9 @@
     "rewards": [
       "+18,500 EXP",
       "Ref Rep +0.15",
-      "Fence Rep -1.5",
-      "??? GP coins",
-      "1× Secure container Theta"
+      "Fence Rep -0.15",
+      "72 GP coins",
+      "1\u00d7 Secure container Theta"
     ]
   },
   {
@@ -9274,7 +9588,7 @@
     ],
     "rewards": [
       "Lightkeeper Rep +0.01",
-      "1× Advanced Electronic Materials textbook",
+      "1\u00d7 Advanced Electronic Materials textbook",
       "Unlocks craft for Virtex programmable processor at Intelligence Center level 2"
     ]
   },
@@ -9296,7 +9610,7 @@
     ],
     "rewards": [
       "Lightkeeper Rep +0.01",
-      "1× Microcontroller board",
+      "1\u00d7 Microcontroller board",
       "Unlocks barter for Microcontroller board at Mechanic LL4",
       "Unlocks craft for Military COFDM Wireless Signal Transmitter at Intelligence Center level 2"
     ]
@@ -9319,8 +9633,8 @@
     ],
     "rewards": [
       "Lightkeeper Rep +0.01",
-      "3× VPX Flash Storage Module",
-      "Unlocks purchase of Atomic Defense CQCM ballistic mask (Black) at Ragman LL4",
+      "3\u00d7 VPX Flash Storage Module",
+      "Unlocks purchase of Atomic Defense CQCM up armored ballistic mask (Black) at Ragman LL4",
       "Unlocks craft for UHF RFID Reader at Intelligence Center level 2",
       "Unlocks the Lightkeeper service \"Sacred Amulet\""
     ]
@@ -9341,7 +9655,7 @@
     ],
     "rewards": [
       "Lightkeeper Rep +0.03",
-      "1× Silicon Optoelectronic Integrated Circuits textbook",
+      "1\u00d7 Silicon Optoelectronic Integrated Circuits textbook",
       "Unlocks craft for VPX Flash Storage Module at Intelligence Center level 2"
     ]
   },
@@ -9362,8 +9676,8 @@
     ],
     "rewards": [
       "Lightkeeper Rep +0.03",
-      "1× Microcontroller board",
-      "3× LEDX Skin Transilluminator",
+      "1\u00d7 Microcontroller board",
+      "3\u00d7 LEDX Skin Transilluminator",
       "Unlocks purchase of DevTac Ronin Respirator at Ragman LL4"
     ]
   },
@@ -9385,7 +9699,7 @@
     ],
     "rewards": [
       "Lightkeeper Rep +0.03",
-      "2× Virtex programmable processor",
+      "2\u00d7 Virtex programmable processor",
       "Unlocks craft for FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope at Workbench level 3",
       "Unlocks the Lightkeeper service \"Rogue support\""
     ]
@@ -9408,7 +9722,7 @@
     ],
     "rewards": [
       "Lightkeeper Rep +0.04",
-      "1× Far-forward GPS Signal Amplifier Unit",
+      "1\u00d7 Far-forward GPS Signal Amplifier Unit",
       "Unlocks barter for Far-forward GPS Signal Amplifier Unit at Mechanic LL4"
     ]
   },
@@ -9430,7 +9744,7 @@
     ],
     "rewards": [
       "Lightkeeper Rep +0.04",
-      "1× Microcontroller board",
+      "1\u00d7 Microcontroller board",
       "Unlocks craft for Microcontroller board at Workbench level 3"
     ]
   },
@@ -9449,7 +9763,7 @@
     ],
     "rewards": [
       "Lightkeeper Rep +0.04",
-      "2× Phased array element",
+      "2\u00d7 Phased array element",
       "Unlocks craft for Trijicon REAP-IR thermal scope at Workbench level 3",
       "Unlocks the Lightkeeper service \"Zryachiy support\""
     ]
@@ -9472,7 +9786,7 @@
     ],
     "rewards": [
       "Lightkeeper Rep +0.05",
-      "1× Advanced current converter",
+      "1\u00d7 Advanced current converter",
       "Unlocks barter for Advanced current converter at Mechanic LL4",
       "Unlocks purchase of SIG MCX-SPEAR 6.8x51 assault rifle at Peacekeeper LL4",
       "Unlocks purchase of AR-10 7.62x51 Lancer L7AWM 25-round magazine at Peacekeeper LL4",
@@ -9496,9 +9810,9 @@
       "+56,700 EXP",
       "Lightkeeper Rep +0.02",
       "4,000 Dollars",
-      "1× Military COFDM Wireless Signal Transmitter",
-      "1× UHF RFID Reader",
-      "1× Virtex programmable processor"
+      "1\u00d7 Military COFDM Wireless Signal Transmitter",
+      "1\u00d7 UHF RFID Reader",
+      "1\u00d7 Virtex programmable processor"
     ]
   },
   {
@@ -9518,9 +9832,9 @@
       "+46,700 EXP",
       "Lightkeeper Rep +0.02",
       "4,000 Dollars",
-      "1× Military COFDM Wireless Signal Transmitter",
-      "1× UHF RFID Reader",
-      "1× Virtex programmable processor"
+      "1\u00d7 Military COFDM Wireless Signal Transmitter",
+      "1\u00d7 UHF RFID Reader",
+      "1\u00d7 Virtex programmable processor"
     ]
   },
   {
@@ -9542,8 +9856,8 @@
       "+11,500 EXP",
       "BTR Driver Rep +0.01",
       "84,000 Roubles",
-      "1× RSP-30 reactive signal cartridge (Blue)",
-      "1× Tetriz portable game console"
+      "1\u00d7 RSP-30 reactive signal cartridge (Blue)",
+      "1\u00d7 Tetriz portable game console"
     ]
   },
   {
@@ -9556,13 +9870,14 @@
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
     "objectives": [
-      "Locate and mark the spare BTR wheels with an MS2000 Marker"
+      "Locate and mark the spare BTR wheels with an MS2000 Marker\n(Optional) Complete the main objective as soon as possible",
+      "(Optional) Complete the main objective as soon as possible"
     ],
     "rewards": [
       "+24,300 EXP",
       "BTR Driver Rep +0.03",
       "116,000 Roubles",
-      "1× Military power filter"
+      "1\u00d7 Military power filter"
     ]
   },
   {
@@ -9581,7 +9896,7 @@
       "+13,500 EXP",
       "BTR Driver Rep +0.02",
       "84,000 Roubles",
-      "3× NIXXOR lens"
+      "3\u00d7 NIXXOR lens"
     ]
   },
   {
@@ -9593,12 +9908,14 @@
     "location_name": "Woods",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Eliminate 10 Scavs on Woods"],
+    "objectives": [
+      "Eliminate 10 Scavs on Woods"
+    ],
     "rewards": [
       "+16,000 EXP",
       "BTR Driver Rep +0.03",
       "85,000 Roubles",
-      "1× Old house room key"
+      "1\u00d7 Old house room key"
     ]
   },
   {
@@ -9615,7 +9932,11 @@
       "Use the transit from Woods to Reserve",
       "Eliminate 5 Scavs on Reserve"
     ],
-    "rewards": ["+15,500 EXP", "BTR Driver Rep +0.02", "82,000 Roubles"]
+    "rewards": [
+      "+15,500 EXP",
+      "BTR Driver Rep +0.02",
+      "82,000 Roubles"
+    ]
   },
   {
     "task_id": 450,
@@ -9635,7 +9956,7 @@
       "+14,500 EXP",
       "BTR Driver Rep +0.01",
       "126,000 Roubles",
-      "1× Bottle of Fierce Hatchling moonshine"
+      "1\u00d7 Bottle of Fierce Hatchling moonshine"
     ]
   },
   {
@@ -9655,7 +9976,7 @@
       "+26,800 EXP",
       "BTR Driver Rep +0.03",
       "96,000 Roubles",
-      "1× Graphics card"
+      "1\u00d7 Graphics card"
     ]
   },
   {
@@ -9677,7 +9998,7 @@
       "+13,200 EXP",
       "BTR Driver Rep +0.02",
       "85,000 Roubles",
-      "2× GreenBat lithium battery"
+      "2\u00d7 GreenBat lithium battery"
     ]
   },
   {
@@ -9689,12 +10010,14 @@
     "location_name": "Any",
     "required_for_kappa": false,
     "required_for_lightkeeper": false,
-    "objectives": ["Hand over the item: 6-STEN-140-M military battery"],
+    "objectives": [
+      "Hand over the item: 6-STEN-140-M military battery"
+    ],
     "rewards": [
       "+58,700 EXP",
       "BTR Driver Rep +0.03",
       "284,000 Roubles",
-      "1× Body armor repair kit"
+      "1\u00d7 Body armor repair kit"
     ]
   },
   {
@@ -9714,9 +10037,9 @@
       "+25,400 EXP",
       "BTR Driver Rep +0.02",
       "96,000 Roubles",
-      "1× Aklys Defense Velociraptor .300 Blackout assault rifle",
-      "3× SLR-106/AK 5.56x45 Circle 10 30-round magazine",
-      "4× .300 Blackout CBJ ammo pack (50 pcs)",
+      "1\u00d7 Aklys Defense Velociraptor .300 Blackout assault rifle",
+      "3\u00d7 SLR-106/AK 5.56x45 Circle 10 30-round magazine",
+      "4\u00d7 .300 Blackout CBJ ammo pack (50 pcs)",
       "Unlocks purchase of Aklys Defense Velociraptor .300 Blackout assault rifle at Mechanic LL4"
     ]
   },
@@ -9738,7 +10061,7 @@
       "+23,400 EXP",
       "BTR Driver Rep +0.03",
       "175,000 Roubles",
-      "3× Military flash drive"
+      "3\u00d7 Military flash drive"
     ]
   },
   {
@@ -9769,6 +10092,705 @@
       "Unlocks barter for RSP-30 reactive signal cartridge (Blue) at Mechanic LL2",
       "Unlocks barter for Graphics card at Mechanic LL3",
       "Unlocks achievement All-Wheel Drive"
+    ]
+  },
+  {
+    "task_id": 457,
+    "task_name": "The Art of Explosion",
+    "trader_id": 1,
+    "trader_name": "Prapor",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Eliminate any 35 targets while using grenades or grenade launchers"
+    ],
+    "rewards": [
+      "+19,200 EXP",
+      "92,000 Roubles",
+      "1\u00d7 RShG-2 72.5mm rocket launcher",
+      "Unlocks purchase of RShG-2 72.5mm rocket launcher at Prapor LL4"
+    ]
+  },
+  {
+    "task_id": 458,
+    "task_name": "The Tarkov Butcher",
+    "trader_id": 2,
+    "trader_name": "Therapist",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Locate and obtain the chemical container on Ground Zero",
+      "Stash the container inside the ambulance car by the cottages on Shoreline"
+    ],
+    "rewards": [
+      "+14,700 EXP",
+      "Therapist Rep +0.02",
+      "50,000 Roubles",
+      "5\u00d7 Labrys access keycard",
+      "1\u00d7 Key case",
+      "Unlocks barter for Labrys access keycard at Therapist LL1"
+    ]
+  },
+  {
+    "task_id": 459,
+    "task_name": "This Tape Sucks",
+    "trader_id": 2,
+    "trader_name": "Therapist",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Locate the torture room inside The Labyrinth",
+      "Locate and obtain any evidence of torture",
+      "Hand over the found information"
+    ],
+    "rewards": [
+      "+15,500 EXP",
+      "Therapist Rep +0.03",
+      "230,000 Roubles",
+      "2\u00d7 SJ12 TGLabs combat stimulant injector",
+      "2\u00d7 Meldonin injector",
+      "2\u00d7 3-(b-TG) stimulant injector",
+      "1x Taurus poster"
+    ]
+  },
+  {
+    "task_id": 460,
+    "task_name": "Secret Benefactor",
+    "trader_id": 2,
+    "trader_name": "Therapist",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Locate and obtain the new charity recruiters' notes\n(Optional) Scout the Scav checkpoints on Customs, Shoreline or Woods",
+      "(Optional) Scout the Scav checkpoints on Customs, Shoreline or Woods",
+      "Hand over the found information"
+    ],
+    "rewards": [
+      "+9,100 EXP",
+      "Therapist Rep +0.02",
+      "75,000 Roubles",
+      "1\u00d7 Military corrugated tube",
+      "2\u00d7 NIXXOR lens",
+      "2\u00d7 WD-40 (100ml)"
+    ]
+  },
+  {
+    "task_id": 461,
+    "task_name": "An Alternative",
+    "trader_id": 2,
+    "trader_name": "Therapist",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Hand over 5 found in raid dry food type items",
+      "Hand over 5 found in raid clean water type items"
+    ],
+    "rewards": [
+      "+8,600 EXP",
+      "Therapist Rep +0.02",
+      "68,000 Roubles",
+      "2\u00d7 Propital regenerative stimulant injector",
+      "2\u00d7 SJ6 TGLabs combat stimulant injector"
+    ]
+  },
+  {
+    "task_id": 462,
+    "task_name": "Indisputable Authority",
+    "trader_id": 4,
+    "trader_name": "Skier",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Locate and neutralize the \"Minotaur\" inside The Labyrinth",
+      "Eliminate 6 of \"Minotaur's\" guards inside The Labyrinth"
+    ],
+    "rewards": [
+      "+25,500 EXP",
+      "Skier Rep +0.03",
+      "3,000 Euros",
+      "8\u00d7 7.62x39mm MAI AP ammo pack (20 pcs)",
+      "8\u00d7 7.62x39mm BP gzh ammo pack (20 pcs)",
+      "1\u00d7 Tark Souls poster"
+    ]
+  },
+  {
+    "task_id": 463,
+    "task_name": "Staff Shortage",
+    "trader_id": 4,
+    "trader_name": "Skier",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Locate and neutralize Partisan",
+      "Eliminate 10 PMC operatives"
+    ],
+    "rewards": [
+      "+16,300 EXP",
+      "Skier Rep +0.05",
+      "150,000 Roubles",
+      "1\u00d7 Milkor M32A1 MSGL 40mm grenade launcher",
+      "6\u00d7 40x46mm M386 (HE) grenade",
+      "6\u00d7 40x46mm M406 (HE) grenade",
+      "6\u00d7 40x46mm M433 (HEDP) grenade",
+      "12\u00d7 40x46mm M576 (MP-APERS) grenade"
+    ]
+  },
+  {
+    "task_id": 464,
+    "task_name": "Profitable Venture",
+    "trader_id": 4,
+    "trader_name": "Skier",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Hand over 15 Trijicon REAP-IR thermal scopes"
+    ],
+    "rewards": [
+      "+1 Stress Resistance skill level",
+      "+1 Perception skill level",
+      "+1 Attention skill level",
+      "+1 Aim Drills skill level",
+      "+1 Covert Movement skill level"
+    ]
+  },
+  {
+    "task_id": 465,
+    "task_name": "Safety Guarantee",
+    "trader_id": 4,
+    "trader_name": "Skier",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Hand over 15 BNTI Zhuk body armors (EMR)",
+      "Hand over 12 Vulkan-5 LShZ-5 bulletproof helmets",
+      "Hand over 3 Maska-1SCh face shields (Killa Edition)"
+    ],
+    "rewards": [
+      "+1 Light Vests skill level",
+      "+1 Heavy Vests skill level",
+      "+1 Weapon Maintenance skill level",
+      "+1 Troubleshooting skill level"
+    ]
+  },
+  {
+    "task_id": 466,
+    "task_name": "Never Too Late To Learn",
+    "trader_id": 4,
+    "trader_name": "Skier",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Hand over the item: 15 HK 416A5 5.56x45 assault rifle",
+      "Hand over the item: 4,500 5.56x45mm MK 318 Mod 0 (SOST)",
+      "Hand over the item: 8 UVSR Taiga-1 survival machete"
+    ],
+    "rewards": [
+      "+1 Troubleshooting skill level",
+      "+1 Mag Drills skill level",
+      "+1 Crafting skill level",
+      "+1 Hideout Management skill level"
+    ]
+  },
+  {
+    "task_id": 467,
+    "task_name": "Get a Foothold",
+    "trader_id": 4,
+    "trader_name": "Skier",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Hand over the item: 30 SJ6 TGLabs combat stimulant injector",
+      "Hand over the item: 30 Obdolbos 2 cocktail injector",
+      "Hand over the item: 30 Propital regenerative stimulant injector",
+      "Hand over the item: 30 M.U.L.E. stimulant injector",
+      "Hand over the item: 30 ETG-change regenerative stimulant injector",
+      "Hand over the item: 30 SJ9 TGLabs combat stimulant injector",
+      "Hand over the item: 30 SJ12 TGLabs combat stimulant injector",
+      "Hand over the item: 30 Meldonin injector"
+    ],
+    "rewards": [
+      "+1 Stress Resistance skill level",
+      "+1 Vitality skill level",
+      "+1 Surgery skill level",
+      "+1 Health skill level",
+      "+1 Immunity skill level"
+    ]
+  },
+  {
+    "task_id": 468,
+    "task_name": "Profit Retention",
+    "trader_id": 4,
+    "trader_name": "Skier",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Hand over the item: 30 Graphics card",
+      "Hand over the item: 15 Physical Bitcoin"
+    ],
+    "rewards": [
+      "+1 Crafting skill level",
+      "+1 Hideout Management skill level",
+      "+1 Perception skill level",
+      "+1 Attention skill level",
+      "+1 Search skill level"
+    ]
+  },
+  {
+    "task_id": 469,
+    "task_name": "A Life Lesson",
+    "trader_id": 4,
+    "trader_name": "Skier",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Hand over the item: 8 Bottle of Tarkovskaya vodka",
+      "Hand over the item: 15 Bottle of Dan Jackiel whiskey",
+      "Hand over the item: 15 Bottle of Fierce Hatchling moonshine"
+    ],
+    "rewards": [
+      "+1 Endurance skill level",
+      "+1 Strength skill level",
+      "+1 Metabolism skill level",
+      "+1 Charisma skill level",
+      "+1 Intellect skill level"
+    ]
+  },
+  {
+    "task_id": 470,
+    "task_name": "Consolation Prize",
+    "trader_id": 4,
+    "trader_name": "Skier",
+    "location_id": 9,
+    "location_name": "The Lab",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Survive and extract from The Lab 15 times",
+      "Eliminate 100 Raiders in The Lab"
+    ],
+    "rewards": [
+      "+1 Aim Drills skill level",
+      "+1 Assault Rifles skill level",
+      "+1 Sniping skill level",
+      "+1 Weapon Maintenance skill level",
+      "+1 Troubleshooting skill level",
+      "+1 DMRs skill level",
+      "+1 Heavy Machine Guns skill level",
+      "+1 Light Machine Guns skill level",
+      "+1 Melee skill level",
+      "+1 Pistols skill level",
+      "+1 Revolvers skill level",
+      "+1 Grenade Launchers skill level",
+      "+1 Shotguns skill level",
+      "+1 Submachine Guns skill level",
+      "+1 Throwables skill level",
+      "+1 Underbarrel Launchers skill level",
+      "Unlocks achievement All on Red",
+      "+1 weekly operational task with skill reward"
+    ]
+  },
+  {
+    "task_id": 471,
+    "task_name": "Confidential Info",
+    "trader_id": 5,
+    "trader_name": "Peacekeeper",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Locate and obtain the special storage module inside The Labyrinth",
+      "Plant a hand grenade in the assembly workshop inside Labyrinth",
+      "Hand over the found information"
+    ],
+    "rewards": [
+      "+17,600 EXP",
+      "Peacekepper Rep +0.03",
+      "1,600 Dollars",
+      "1\u00d7 VPX Flash Storage Module",
+      "2\u00d7 SSD drive",
+      "2\u00d7 SAS drive",
+      "1\u00d7 Final Moment poster"
+    ]
+  },
+  {
+    "task_id": 472,
+    "task_name": "Shady Contractor",
+    "trader_id": 6,
+    "trader_name": "Mechanic",
+    "location_id": 10,
+    "location_name": "Ground Zero",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Locate the Knossos LLC senior manager's car on Ground Zero",
+      "Locate and obtain the manager's diary",
+      "Hand over the diary"
+    ],
+    "rewards": [
+      "+10,600 EXP",
+      "Mechanic Rep +0.01",
+      "52,000 Roubles",
+      "3\u00d7 Military corrugated tube"
+    ]
+  },
+  {
+    "task_id": 473,
+    "task_name": "Needle in a Haystack",
+    "trader_id": 6,
+    "trader_name": "Mechanic",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Investigate the courtyard park by TerraGroup HQ on Ground Zero",
+      "Investigate the kart track on Interchange",
+      "Investigate the children's playground on Interchange",
+      "Investigate the children's playground by Concordia on Streets of Tarkov",
+      "Investigate the coast-side construction site on Shoreline",
+      "Investigate the children's playground by the Health Resort on Shoreline"
+    ],
+    "rewards": [
+      "+9,800 EXP",
+      "Mechanic Rep +0.01",
+      "47,000 Roubles",
+      "5\u00d7 Light bulb",
+      "5\u00d7 Energy-saving lamp"
+    ]
+  },
+  {
+    "task_id": 474,
+    "task_name": "Hidden Layer",
+    "trader_id": 6,
+    "trader_name": "Mechanic",
+    "location_id": 6,
+    "location_name": "Shoreline",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Locate a good lead related to Knossos LLC",
+      "Find a way inside the Knossos LLC facility\n(Optional) Locate and obtain the Knossos LLC facility key",
+      "(Optional) Locate and obtain the Knossos LLC facility key"
+    ],
+    "rewards": [
+      "+10,300 EXP",
+      "Mechanic Rep +0.02",
+      "50,000 Roubles",
+      "1\u00d7 FN SCAR-H 7.62x51 assault rifle (FDE)",
+      "3\u00d7 FN SCAR-H 7.62x51 20-round magazine (FDE)",
+      "4\u00d7 7.62x51mm M80 ammo pack (20 pcs)"
+    ]
+  },
+  {
+    "task_id": 475,
+    "task_name": "Forced Alliance",
+    "trader_id": 6,
+    "trader_name": "Mechanic",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Find a way to get behind the Health Resort bunker door on Shoreline\n(Optional) Assist Therapist with her investigation",
+      "(Optional) Assist Therapist with her investigation"
+    ],
+    "rewards": [
+      "Mechanic Rep +0.01",
+      "37,000 Roubles",
+      "2\u00d7 FireKlean gun lube"
+    ]
+  },
+  {
+    "task_id": 476,
+    "task_name": "Offensive Reconnaissance",
+    "trader_id": 6,
+    "trader_name": "Mechanic",
+    "location_id": 6,
+    "location_name": "Shoreline",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Find out what is behind the Health Resort bunker door on Shoreline\n(Optional) Obtain the Labrys access keycard",
+      "(Optional) Obtain the Labrys access keycard"
+    ],
+    "rewards": [
+      "+4,500 EXP"
+    ]
+  },
+  {
+    "task_id": 477,
+    "task_name": "Hypotheses Testing",
+    "trader_id": 6,
+    "trader_name": "Mechanic",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Locate the lab area with the prototype weapon inside The Labyrinth",
+      "Hand over 5 found in raid Labrys research notes"
+    ],
+    "rewards": [
+      "+15,900 EXP",
+      "Mechanic Rep +0.02",
+      "82,000 Roubles",
+      "3\u00d7 Electric drill",
+      "3\u00d7 Set of files \"Master\"",
+      "3\u00d7 Military power filter"
+    ]
+  },
+  {
+    "task_id": 478,
+    "task_name": "Sensory Analysis - Part 1",
+    "trader_id": 7,
+    "trader_name": "Ragman",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Obtain the item: Bottle of Fierce Hatchling moonshine",
+      "Go to Woods or Streets of Tarkov",
+      "Hand over the Bottle of Fierce Hatchling moonshine to BTR Driver"
+    ],
+    "rewards": [
+      "+20,300 EXP",
+      "Ragman Rep +0.02",
+      "112,000 Roubles",
+      "2\u00d7 Safariland Liberator HP 2.0 Hearing Protection Headset (FDE)",
+      "2\u00d7 ECLiPSE RBAV-AF plate carrier (Ranger Green)"
+    ]
+  },
+  {
+    "task_id": 479,
+    "task_name": "Hot Zone",
+    "trader_id": 7,
+    "trader_name": "Ragman",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Stash 12 Zulu Nylon Gear M4 RSCR chest rigs at the new gas station on Customs",
+      "Stash 12 class 4 ballistic plates on the roof of the specified repair workshop on Reserve"
+    ],
+    "rewards": [
+      "+29,400 EXP",
+      "Ragman Rep +0.03",
+      "170,000 Roubles",
+      "3\u00d7 Labrys access keycard",
+      "2\u00d7 Vulkan-5 LShZ-5 bulletproof helmet (Black)",
+      "2\u00d7 Vulkan-5 helmet face shield",
+      "Unlocks barter for Labrys access keycard at Ragman LL1"
+    ]
+  },
+  {
+    "task_id": 480,
+    "task_name": "Vacate the Premises",
+    "trader_id": 7,
+    "trader_name": "Ragman",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Eliminate 24 PMC operatives inside The Labyrinth"
+    ],
+    "rewards": [
+      "+20,400 EXP",
+      "Ragman Rep +0.03",
+      "208,000 Roubles",
+      "3\u00d7 Atomic Defense CQCM up armored ballistic mask (Black)",
+      "1\u00d7 Last Breath poster"
+    ]
+  },
+  {
+    "task_id": 481,
+    "task_name": "Fight Back",
+    "trader_id": 8,
+    "trader_name": "Jaeger",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Eliminate 7 Scavs on Shoreline",
+      "Eliminate 7 Scavs on Customs",
+      "Eliminate 7 Scavs on Woods"
+    ],
+    "rewards": [
+      "+7,200 EXP",
+      "Jaeger Rep +0.02",
+      "65,000 Roubles",
+      "2\u00d7 Leupold Mark 5HD 5-25x56mm 35mm riflescope (FDE)",
+      "2\u00d7 Leupold Mark IMS 35mm ring scope mount"
+    ]
+  },
+  {
+    "task_id": 482,
+    "task_name": "Preemptive Strike",
+    "trader_id": 8,
+    "trader_name": "Jaeger",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Eliminate 12 Scavs at Skier's charity checkpoints"
+    ],
+    "rewards": [
+      "+10,500 EXP",
+      "Jaeger Rep +0.03",
+      "72,000 Roubles",
+      "2\u00d7 Metal fuel tank"
+    ]
+  },
+  {
+    "task_id": 483,
+    "task_name": "Fearless Beast",
+    "trader_id": 8,
+    "trader_name": "Jaeger",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Eliminate any 3 targets while using the F-1 hand grenade (Reduced delay)"
+    ],
+    "rewards": [
+      "+24,200 EXP",
+      "Jaeger Rep +0.05",
+      "200,000 Roubles",
+      "3\u00d7 RShG-2 72.5mm rocket launcher"
+    ]
+  },
+  {
+    "task_id": 484,
+    "task_name": "Against the Conscience - Part 1",
+    "trader_id": 9,
+    "trader_name": "Ref",
+    "location_id": 2,
+    "location_name": "Customs",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Locate the old champion's room on Customs\n(Optional) Locate and obtain the key at the smugglers' base on Shoreline",
+      "(Optional) Locate and obtain the key at the smugglers' base on Shoreline",
+      "Find out what happened to the champion",
+      "Survive and extract from the location"
+    ],
+    "rewards": [
+      "+11,700 EXP",
+      "50,000 Roubles",
+      "1\u00d7 CQC Osprey MK4A plate carrier (Assault, MTP)",
+      "1\u00d7 HK 416A5 5.56x45 assault rifle",
+      "3\u00d7 AR-15 5.56x45 HK Steel Maritime STANAG 30-round magazine",
+      "3\u00d7 5.56x45mm MK 318 Mod 0 (SOST) ammo pack (50 pcs)"
+    ]
+  },
+  {
+    "task_id": 485,
+    "task_name": "Postponed Reward",
+    "trader_id": 9,
+    "trader_name": "Ref",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Hand over a Lega Medal to Ref"
+    ],
+    "rewards": [
+      "Ref Rep +0.01",
+      "1\u00d7 Secure container Theta"
+    ]
+  },
+  {
+    "task_id": 486,
+    "task_name": "Keeper's Word",
+    "trader_id": 10,
+    "trader_name": "Lightkeeper",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Stash a Cultist knife in the first special place inside The Labyrinth",
+      "Stash a Cultist knife in the second special place inside The Labyrinth",
+      "Stash a Cultist knife in the third special place inside The Labyrinth"
+    ],
+    "rewards": [
+      "+56,800 EXP",
+      "Lightkeeper Rep +0.03",
+      "4,830 Dollars",
+      "1\u00d7 Virtex programmable processor",
+      "1\u00d7 S I C C organizational pouch",
+      "1\u00d7 Sacred Amulet"
+    ]
+  },
+  {
+    "task_id": 487,
+    "task_name": "Surprise Gift",
+    "trader_id": 10,
+    "trader_name": "Lightkeeper",
+    "location_id": 2,
+    "location_name": "Customs",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Return to the old champion's hideout on Customs",
+      "Locate and obtain the compromising information on Ref",
+      "Hand over the found info"
+    ],
+    "rewards": [
+      "+25,500 EXP",
+      "Lightkeeper Rep +0.01",
+      "1,187 Dollars"
+    ]
+  },
+  {
+    "task_id": 488,
+    "task_name": "Sensory Analysis - Part 2",
+    "trader_id": 11,
+    "trader_name": "BTR Driver",
+    "location_id": 11,
+    "location_name": "Any",
+    "required_for_kappa": false,
+    "required_for_lightkeeper": false,
+    "objectives": [
+      "Hand over a Bottle of Fierce Hatchling moonshine"
+    ],
+    "rewards": [
+      "+6,800 EXP",
+      "BTR Driver Rep +0.01",
+      "32,000 Roubles"
     ]
   }
 ]
