@@ -3,6 +3,7 @@ const express = require('express');
 const cors = require('cors');
 const authRoutes = require('./routes/auth');
 const todoRoutes = require('./routes/todo');
+const hideoutRoutes = require('./routes/hideout');
 
 const app = express();
 
@@ -33,6 +34,7 @@ app.get('/api/test', (req, res) => {
 
 app.use('/api/auth', authRoutes);
 app.use('/api/todo', todoRoutes);
+app.use('/api/hideout', hideoutRoutes);
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {

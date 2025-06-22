@@ -2,55 +2,60 @@ const sqlite3 = require('sqlite3').verbose();
 const path = require('path');
 
 // Get the absolute path for the database file
-const dbPath = path.resolve(__dirname, 'tarkovwiki.sqlite');
+const dbPath = path.join(__dirname, 'tarkov.db');
 console.log('Database path:', dbPath);
 
 // Create database connection
 const db = new sqlite3.Database(dbPath, (err) => {
   if (err) {
-    console.error('Error connecting to database:', err);
+    console.error('Database connection error:', err);
   } else {
     console.log('Connected to SQLite database');
+    createTables();
   }
 });
 
 // Enable foreign keys
 db.run('PRAGMA foreign_keys = ON');
 
-// Create tables if they don't exist
-db.serialize(() => {
-  // Create users table if not exists
-  db.run(`
-    CREATE TABLE IF NOT EXISTS users (
+function createTables() {
+  db.serialize(() => {
+    // Users table
+    db.run(`CREATE TABLE IF NOT EXISTS users (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
       email TEXT UNIQUE NOT NULL,
       username TEXT UNIQUE NOT NULL,
       passwordHash TEXT NOT NULL
-    )
-  `, (err) => {
-    if (err) {
-      console.error('Error creating users table:', err);
-    } else {
-      console.log('Users table created successfully');
-    }
-  });
+    )`);
 
-  // Create user tasks table if not exists
-  db.run(`
-    CREATE TABLE IF NOT EXISTS user_tasks (
+    // Todos table
+    db.run(`CREATE TABLE IF NOT EXISTS todos (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
       user_id INTEGER NOT NULL,
-      task_id INTEGER NOT NULL,
-      FOREIGN KEY(user_id) REFERENCES users(id)
-    )
-  `, (err) => {
-    if (err) {
-      console.error('Error creating user_tasks table:', err);
-    } else {
-      console.log('User tasks table created successfully');
-    }
+      quest_id TEXT NOT NULL,
+      completed BOOLEAN DEFAULT 0,
+      FOREIGN KEY (user_id) REFERENCES users (id)
+    )`);
+
+    // Hideout progress table
+    db.run(`CREATE TABLE IF NOT EXISTS hideout_progress (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      user_id INTEGER NOT NULL,
+      module_id TEXT NOT NULL,
+      level INTEGER DEFAULT 0,
+      FOREIGN KEY (user_id) REFERENCES users (id),
+      UNIQUE(user_id, module_id)
+    )`);
+
+    // User tasks table
+    db.run(`CREATE TABLE IF NOT EXISTS user_tasks (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      user_id INTEGER NOT NULL,
+      task_id TEXT NOT NULL,
+      FOREIGN KEY (user_id) REFERENCES users (id)
+    )`);
   });
-});
+}
 
 // Test database connection and tables
 db.get("SELECT name FROM sqlite_master WHERE type='table'", (err, row) => {

@@ -77,7 +77,7 @@ const MyTasksTab = ({ onSelectQuest, questData }) => {
   }
 
   const getTaskInfo = (taskId) => {
-    return questData.find(quest => quest.task_id === taskId) || { task_name: 'Unknown Task' };
+    return questData.find(quest => String(quest.task_id) === String(taskId)) || { task_name: 'Unknown Task' };
   };
 
   return (
