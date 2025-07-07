@@ -97,7 +97,8 @@ const Hideout = () => {
     // Kullanıcıya özel hideout ilerlemesini backend'den çek
     const token = localStorage.getItem('token');
     if (!token) return;
-    fetch('/api/hideout/progress', {
+    const API_URL = process.env.REACT_APP_API_URL || "https://tarkovwiki.onrender.com/api";
+    fetch(`${API_URL}/hideout/progress`, {
       headers: { 'Authorization': `Bearer ${token}` }
     })
       .then(res => res.json())
@@ -144,10 +145,11 @@ const Hideout = () => {
       ...Object.keys(currentLevels),
       ...Object.keys(targetLevels)
     ]));
+    const API_URL = process.env.REACT_APP_API_URL || "https://tarkovwiki.onrender.com/api";
     try {
       await Promise.all(
         allModuleIds.map(moduleId =>
-          fetch('/api/hideout/progress', {
+          fetch(`${API_URL}/hideout/progress`, {
             method: 'POST',
             headers: {
               'Content-Type': 'application/json',

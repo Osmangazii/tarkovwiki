@@ -19,7 +19,8 @@ const MyTasksTab = ({ onSelectQuest, questData }) => {
         return;
       }
 
-      const response = await fetch('/api/todo', {
+      const API_URL = process.env.REACT_APP_API_URL || "https://tarkovwiki.onrender.com/api";
+      const response = await fetch(`${API_URL}/todo`, {
         headers: {
           'Authorization': `Bearer ${token}`
         }
@@ -42,7 +43,8 @@ const MyTasksTab = ({ onSelectQuest, questData }) => {
   const removeTask = async (taskId) => {
     try {
       const token = localStorage.getItem('token');
-      const response = await fetch(`/api/todo/${taskId}`, {
+      const API_URL = process.env.REACT_APP_API_URL || "https://tarkovwiki.onrender.com/api";
+      const response = await fetch(`${API_URL}/todo/${taskId}`, {
         method: 'DELETE',
         headers: {
           'Authorization': `Bearer ${token}`

@@ -16,7 +16,8 @@ const TaskDetail = ({ selectedQuest }) => {
         const token = localStorage.getItem('token');
         if (!token) return;
 
-        const response = await fetch('/api/todo', {
+        const API_URL = process.env.REACT_APP_API_URL || "https://tarkovwiki.onrender.com/api";
+        const response = await fetch(`${API_URL}/todo`, {
           headers: {
             'Authorization': `Bearer ${token}`
           }
@@ -57,10 +58,11 @@ const TaskDetail = ({ selectedQuest }) => {
         throw new Error('Geçersiz görev seçildi');
       }
 
+      const API_URL = process.env.REACT_APP_API_URL || "https://tarkovwiki.onrender.com/api";
       const requestBody = { taskId: selectedQuest.task_id };
       console.log('Gönderilen veri:', requestBody);
 
-      const response = await fetch('/api/todo', {
+      const response = await fetch(`${API_URL}/todo`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
