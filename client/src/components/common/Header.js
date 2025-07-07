@@ -1,7 +1,7 @@
 import React from "react";
 
 // Backend runs on port 5000, frontend runs on port 3001
-const API_URL = "http://localhost:5000/api/auth";
+const API_URL = process.env.REACT_APP_API_URL || "https://tarkovwiki.onrender.com/api/auth";
 
 const Header = () => {
   const [isLoggedIn, setIsLoggedIn] = React.useState(false);
