@@ -9,7 +9,12 @@ const app = express();
 
 // Enable CORS for all routes
 app.use(cors({
-  origin: ['http://localhost:3000', 'http://localhost:3001'],
+  origin: [
+    'https://tarkovwiki.vercel.app',
+    'https://tarkovwiki-1.vercel.app', // Vercel’in sana verdiği gerçek domain
+    'http://localhost:3000',
+    'http://localhost:3001'
+  ],
   credentials: true
 }));
 
