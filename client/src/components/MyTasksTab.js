@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import questData from '../data/questData.json';
 
-const MyTasksTab = ({ onSelectQuest, questData }) => {
+const MyTasksTab = ({ onSelectQuest, questData, todoTasks, fetchTodoTasks }) => {
   const [tasks, setTasks] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -32,7 +32,8 @@ const MyTasksTab = ({ onSelectQuest, questData }) => {
       }
       
       const data = await response.json();
-      setTasks(data.todoTasks);
+      // Eski hali: sadece taskId dizisi
+      setTasks(data.todoTasks.map(row => row.task_id ? row.task_id : row));
     } catch (err) {
       setError(err.message);
     } finally {
@@ -55,8 +56,8 @@ const MyTasksTab = ({ onSelectQuest, questData }) => {
         const errorData = await response.json();
         throw new Error(errorData.message || 'Failed to remove task');
       }
-      
-      setTasks(tasks.filter(task => task !== taskId));
+      setTasks(tasks.filter(task => String(task) !== String(taskId)));
+      await fetchTodoTasks();
     } catch (err) {
       setError(err.message);
     }

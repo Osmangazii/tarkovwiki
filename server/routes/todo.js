@@ -6,13 +6,13 @@ const router = express.Router();
 // Get user's todo tasks
 router.get('/', auth, (req, res) => {
   console.log('Getting todo tasks for user:', req.user.id);
-  db.all('SELECT task_id FROM user_tasks WHERE user_id = ?', [req.user.id], (err, rows) => {
+  db.all('SELECT task_id, completed FROM user_tasks WHERE user_id = ?', [req.user.id], (err, rows) => {
     if (err) {
       console.error('Error getting todo tasks:', err);
       return res.status(500).json({ message: 'DB error' });
     }
     console.log('Found todo tasks:', rows);
-    res.json({ todoTasks: rows.map(r => r.task_id) });
+    res.json({ todoTasks: rows });
   });
 });
 
@@ -37,7 +37,7 @@ router.post('/', auth, (req, res) => {
       return res.json({ message: 'Task already in todo' });
     }
 
-    db.run('INSERT INTO user_tasks (user_id, task_id) VALUES (?, ?)', [req.user.id, taskId], function(err) {
+    db.run('INSERT INTO user_tasks (user_id, task_id, completed) VALUES (?, ?, 0)', [req.user.id, taskId], function(err) {
       if (err) {
         console.error('Error adding task to todo:', err);
         return res.status(500).json({ message: 'DB error' });
@@ -60,6 +60,22 @@ router.delete('/:taskId', auth, (req, res) => {
     }
     console.log('Task removed successfully:', { userId: req.user.id, taskId });
     res.json({ message: 'Task removed' });
+  });
+});
+
+// PATCH: update completed status
+router.patch('/:taskId/complete', auth, (req, res) => {
+  const { taskId } = req.params;
+  const { completed } = req.body;
+  if (typeof completed !== 'boolean') {
+    return res.status(400).json({ message: 'Completed must be boolean' });
+  }
+  db.run('UPDATE user_tasks SET completed = ? WHERE user_id = ? AND task_id = ?', [completed ? 1 : 0, req.user.id, taskId], function(err) {
+    if (err) {
+      console.error('Error updating completed status:', err);
+      return res.status(500).json({ message: 'DB error' });
+    }
+    res.json({ message: 'Completed status updated' });
   });
 });
 

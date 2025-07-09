@@ -13,6 +13,7 @@ const TarkovQuestTracker = () => {
   const [searchValue, setSearchValue] = useState("");
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [username, setUsername] = useState('');
+  const [todoTasks, setTodoTasks] = useState([]);
 
   useEffect(() => {
     const token = localStorage.getItem('token');
@@ -20,7 +21,47 @@ const TarkovQuestTracker = () => {
       setIsLoggedIn(true);
       setUsername(localStorage.getItem('username'));
     }
+    fetchTodoTasks();
   }, []);
+
+  const fetchTodoTasks = async () => {
+    try {
+      const token = localStorage.getItem('token');
+      if (!token) return;
+      const API_URL = process.env.REACT_APP_API_URL || "https://tarkovwiki.onrender.com/api";
+      const response = await fetch(`${API_URL}/todo`, {
+        headers: {
+          'Authorization': `Bearer ${token}`
+        }
+      });
+      if (!response.ok) return;
+      const data = await response.json();
+      setTodoTasks(data.todoTasks);
+    } catch (err) {
+      // ignore
+    }
+  };
+
+  const handleAddToTodo = async (taskId) => {
+    try {
+      const token = localStorage.getItem('token');
+      if (!token) return;
+      const API_URL = process.env.REACT_APP_API_URL || "https://tarkovwiki.onrender.com/api";
+      const response = await fetch(`${API_URL}/todo`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Accept': 'application/json',
+          'Authorization': `Bearer ${token}`
+        },
+        body: JSON.stringify({ taskId })
+      });
+      if (!response.ok) return;
+      await fetchTodoTasks();
+    } catch (err) {
+      // ignore
+    }
+  };
 
   const tabs = [
     { id: 'all', label: 'ALL TASKS' },
@@ -50,7 +91,7 @@ const TarkovQuestTracker = () => {
       case 'all':
         return <AllTasksTab questData={filteredQuests} selectedQuest={selectedQuest} onSelectQuest={handleSelectQuest} />;
       case 'my':
-        return isLoggedIn ? <MyTasksTab questData={questData} selectedQuest={selectedQuest} onSelectQuest={handleSelectQuest} /> : <div>Please login to view your tasks.</div>;
+        return isLoggedIn ? <MyTasksTab questData={questData} selectedQuest={selectedQuest} onSelectQuest={handleSelectQuest} todoTasks={todoTasks} fetchTodoTasks={fetchTodoTasks} /> : <div>Please login to view your tasks.</div>;
       case 'goons':
         return <div style={{ padding: '20px', textAlign: 'center' }}>This page is not created yet.</div>;
       case 'keys':
@@ -69,7 +110,7 @@ const TarkovQuestTracker = () => {
         <TabMenu tabs={tabs} activeTab={activeTab} setActiveTab={setActiveTab} />
         <div className="tq-content" style={{ minHeight: 'calc(100vh - 200px)', position: 'relative' }}>
           {activeTab === "tasks" && (
-            <TaskDetail selectedQuest={selectedQuest} />
+            <TaskDetail selectedQuest={selectedQuest} todoTasks={todoTasks} onAddToTodo={handleAddToTodo} />
           )}
           {activeTab === "all" && (
             <div className="tq-search" style={{ marginBottom: 16 }}>
