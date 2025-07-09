@@ -32,12 +32,35 @@ const MyTasksTab = ({ onSelectQuest, questData, todoTasks, fetchTodoTasks }) => 
       }
       
       const data = await response.json();
-      // Eski hali: sadece taskId dizisi
-      setTasks(data.todoTasks.map(row => row.task_id ? row.task_id : row));
+      // Artık {task_id, completed} objeleriyle çalışıyoruz
+      setTasks(data.todoTasks);
     } catch (err) {
       setError(err.message);
     } finally {
       setLoading(false);
+    }
+  };
+
+  const updateCompleted = async (taskId, completed) => {
+    try {
+      const token = localStorage.getItem('token');
+      const API_URL = process.env.REACT_APP_API_URL || "https://tarkovwiki.onrender.com/api";
+      const response = await fetch(`${API_URL}/todo/${taskId}/complete`, {
+        method: 'PATCH',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${token}`
+        },
+        body: JSON.stringify({ completed })
+      });
+      if (!response.ok) {
+        const errorData = await response.json();
+        throw new Error(errorData.message || 'Failed to update completed');
+      }
+      await fetchTasks();
+      await fetchTodoTasks();
+    } catch (err) {
+      setError(err.message);
     }
   };
 
@@ -56,7 +79,7 @@ const MyTasksTab = ({ onSelectQuest, questData, todoTasks, fetchTodoTasks }) => 
         const errorData = await response.json();
         throw new Error(errorData.message || 'Failed to remove task');
       }
-      setTasks(tasks.filter(task => String(task) !== String(taskId)));
+      setTasks(tasks.filter(task => String(task.task_id) !== String(taskId)));
       await fetchTodoTasks();
     } catch (err) {
       setError(err.message);
@@ -83,6 +106,9 @@ const MyTasksTab = ({ onSelectQuest, questData, todoTasks, fetchTodoTasks }) => 
     return questData.find(quest => String(quest.task_id) === String(taskId)) || { task_name: 'Unknown Task' };
   };
 
+  // Tamamlanmamışlar üstte, tamamlananlar altta olacak şekilde sırala
+  const sortedTasks = [...tasks].sort((a, b) => (a.completed === b.completed ? 0 : a.completed ? 1 : -1));
+
   return (
     <div className="my-tasks" style={{ padding: '20px' }}>
       <h2 style={{ marginBottom: '20px' }}>My Tasks</h2>
@@ -98,30 +124,53 @@ const MyTasksTab = ({ onSelectQuest, questData, todoTasks, fetchTodoTasks }) => 
         </div>
       ) : (
         <div className="task-list">
-          {tasks.map(taskId => {
-            const taskInfo = getTaskInfo(taskId);
+          {sortedTasks.map(({ task_id, completed }) => {
+            const taskInfo = getTaskInfo(task_id);
             return (
               <div 
-                key={taskId} 
+                key={task_id} 
                 className="task-item" 
                 onClick={() => onSelectQuest(taskInfo)}
                 style={{
-                display: 'flex',
-                justifyContent: 'space-between',
-                alignItems: 'center',
-                padding: '12px',
-                marginBottom: '8px',
-                background: '#fff',
-                borderRadius: '8px',
-                boxShadow: '0 1px 3px rgba(0,0,0,0.1)',
-                cursor: 'pointer'
+                  display: 'flex',
+                  justifyContent: 'space-between',
+                  alignItems: 'center',
+                  padding: '12px',
+                  marginBottom: '8px',
+                  background: completed ? '#f5f5f5' : '#fff',
+                  borderRadius: '8px',
+                  boxShadow: '0 1px 3px rgba(0,0,0,0.1)',
+                  cursor: 'pointer',
+                  opacity: completed ? 0.5 : 1
                 }}>
-                <span className="task-name" style={{ fontSize: '16px' }}>{taskInfo.task_name}</span>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+                  <input
+                    type="checkbox"
+                    checked={!!completed}
+                    onChange={e => {
+                      e.stopPropagation();
+                      updateCompleted(task_id, e.target.checked);
+                    }}
+                    onClick={e => e.stopPropagation()}
+                    style={{
+                      width: 22,
+                      height: 22,
+                      accentColor: completed ? '#4CAF50' : '#7b2ff2',
+                      borderRadius: 6,
+                      border: '2px solid #7b2ff2',
+                      boxShadow: completed ? '0 0 0 2px #4CAF5033' : '0 0 0 2px #7b2ff233',
+                      transition: 'all 0.2s',
+                      cursor: 'pointer',
+                      marginRight: 6
+                    }}
+                  />
+                  <span className="task-name" style={{ fontSize: '16px', textDecoration: completed ? 'line-through' : 'none' }}>{taskInfo.task_name}</span>
+                </div>
                 <button
                   className="remove-btn"
                   onClick={(e) => {
                     e.stopPropagation();
-                    removeTask(taskId);
+                    removeTask(task_id);
                   }}
                   style={{
                     background: "linear-gradient(90deg, #ff4b4b 0%, #ff7676 100%)",
