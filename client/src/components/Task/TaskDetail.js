@@ -7,7 +7,7 @@ import TaskObjective from "./TaskObjective";
 const TaskDetail = ({ selectedQuest, todoTasks, onAddToTodo }) => {
   const [error, setError] = useState(null);
 
-  // Düzeltme: tip uyumluluğu için tüm id'leri stringe çevirerek karşılaştır
+  // Doğrudan props ile kontrol
   const isInTodo = selectedQuest && todoTasks && todoTasks.map(String).includes(String(selectedQuest.task_id));
 
   const handleAddToTodo = async () => {

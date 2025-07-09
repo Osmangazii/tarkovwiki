@@ -36,7 +36,8 @@ const TarkovQuestTracker = () => {
       });
       if (!response.ok) return;
       const data = await response.json();
-      setTodoTasks(data.todoTasks);
+      // Sadece taskId dizisi olarak kaydet!
+      setTodoTasks(data.todoTasks.map(row => row.task_id ? row.task_id : row));
     } catch (err) {
       // ignore
     }
@@ -58,6 +59,7 @@ const TarkovQuestTracker = () => {
       });
       if (!response.ok) return;
       await fetchTodoTasks();
+      setSelectedQuest(prev => ({ ...prev })); // <-- Eklendi: yeniden render tetiklesin
     } catch (err) {
       // ignore
     }
