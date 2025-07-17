@@ -1,4 +1,51 @@
-# Project TarkovTiki
+# PROJE ADI: Tarkov Tiki
+
+## Proje Tanımı
+Tarkov Tiki, Escape from Tarkov oyunundaki görevleri ve hideout ilerlemesini kolayca takip edebilmek için geliştirilmiş bir görev ve ilerleme takip platformudur. Kullanıcılar, oyun içi görevlerini ekleyip tamamlayabilir, hideout modüllerinin seviyelerini güncelleyebilir ve tüm ilerlemelerini tek bir yerde görebilirler. Modern ve kullanıcı dostu arayüzü sayesinde, oyuncular görevlerini ve hideout gelişimlerini hızlıca yönetebilir, hangi görevlerin tamamlandığını ve sıradaki hedeflerini kolayca takip edebilirler. Uygulama, güvenli kullanıcı girişi, kişiye özel görev listesi ve mobil uyumlu tasarımı ile oyun deneyimini destekler.
+
+## Proje Kategorisi
+Oyun Yardımcı Uygulaması / Görev Takip Platformu
+
+## Referans Uygulama
+https://tarkovwiki-1.vercel.app/
+
+## Uygulama Adresi
+https://tarkovwiki-1.vercel.app/
+
+## Grup Adı
+Bireysel Proje
+
+## Proje Ekibi
+Osmangazi Metin
+
+---
+
+### Gereksinim Analizi
+
+[Gereksinim Analizi için tıklayın.](gereksinimler.md)
+
+### Durum Diyagramı
+
+![Durum Diyagramı](diyagram.pdf)
+
+### Durum Senaryoları
+
+[Durum Senaryosu PDF için tıklayın.](durum_senaryosu.pdf)
+
+### Front-End
+
+[Front-End Detayları için tıklayın.](front-end.md)
+
+### Back-End
+
+[Back-End Detayları için tıklayın.](back-end.md)
+
+### Video Sunum
+
+
+---
+
+
 
 scraping-tool, TarkovTiki ile ilgili çeşitli görevleri yerine getiren Python betikleri içermektedir.
 
