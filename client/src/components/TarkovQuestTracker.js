@@ -58,8 +58,11 @@ const TarkovQuestTracker = () => {
         body: JSON.stringify({ taskId })
       });
       if (!response.ok) return;
+      // HEMEN todoTasks state'ine ekle:
+      setTodoTasks(prev => prev.includes(String(taskId)) ? prev : [...prev, String(taskId)]);
+      // Sonra tekrar fetch ile güncel veri çek (opsiyonel, veri tutarlılığı için)
       await fetchTodoTasks();
-      setSelectedQuest(prev => ({ ...prev })); // <-- Eklendi: yeniden render tetiklesin
+      setSelectedQuest(prev => ({ ...prev })); // yeniden render tetiklesin
     } catch (err) {
       // ignore
     }

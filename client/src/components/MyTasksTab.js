@@ -8,7 +8,8 @@ const MyTasksTab = ({ onSelectQuest, questData, todoTasks, fetchTodoTasks }) => 
 
   useEffect(() => {
     fetchTasks();
-  }, []);
+    // eslint-disable-next-line
+  }, []); // Sadece mount olduğunda fetch et
 
   const fetchTasks = async () => {
     try {
@@ -26,6 +27,12 @@ const MyTasksTab = ({ onSelectQuest, questData, todoTasks, fetchTodoTasks }) => 
         }
       });
       
+      if (response.status === 204) {
+        setTasks([]);
+        setLoading(false);
+        return;
+      }
+
       if (!response.ok) {
         const errorData = await response.json();
         throw new Error(errorData.message || 'Failed to fetch tasks');
@@ -36,6 +43,7 @@ const MyTasksTab = ({ onSelectQuest, questData, todoTasks, fetchTodoTasks }) => 
       setTasks(data.todoTasks);
     } catch (err) {
       setError(err.message);
+      setLoading(false);
     } finally {
       setLoading(false);
     }

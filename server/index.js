@@ -4,11 +4,6 @@ const cors = require('cors');
 const authRoutes = require('./routes/auth');
 const todoRoutes = require('./routes/todo');
 const hideoutRoutes = require('./routes/hideout');
-// Redis ve RabbitMQ ile ilgili kodlar kaldırıldı
-// const { createClient } = require('redis');
-// const redisClient = createClient({ url: 'redis://localhost:6379' });
-// redisClient.on('error', (err) => console.error('Redis Client Error', err));
-// const { sendToQueue } = require('./rabbit');
 
 const app = express();
 
@@ -61,12 +56,6 @@ app.get('/api/todo', auth, (req, res) => {
 
 app.use('/api/todo', todoRoutes);
 app.use('/api/hideout', hideoutRoutes);
-
-// RabbitMQ test endpointi kaldırıldı
-// app.get('/api/rabbit-test', async (req, res) => {
-//   await sendToQueue('test_queue', JSON.stringify({ message: 'Merhaba RabbitMQ!' }));
-//   res.json({ success: true, message: 'Mesaj RabbitMQ kuyruğuna gönderildi!' });
-// });
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
