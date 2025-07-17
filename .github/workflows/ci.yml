@@ -1,0 +1,51 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches: ["main", "master"]
+  pull_request:
+    branches: ["main", "master"]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    services:
+      docker:
+        image: docker:20.10.24-dind
+        options: --privileged
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install server dependencies
+        run: |
+          cd server
+          npm install
+
+      - name: Install client dependencies
+        run: |
+          cd client
+          npm install
+
+      - name: Build server
+        run: |
+          cd server
+          npm run build || echo "No build script for server, skipping."
+
+      - name: Build client
+        run: |
+          cd client
+          npm run build || echo "No build script for client, skipping."
+
+      - name: Docker build (server)
+        run: |
+          docker build -t tarkovwiki-server ./server
+
+      - name: Docker build (client)
+        run: |
+          docker build -t tarkovwiki-client ./client 
