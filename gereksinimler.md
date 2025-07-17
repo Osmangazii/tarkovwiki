@@ -10,8 +10,7 @@
 6. **Görev Silme:** Kullanıcılar kendi görev listesinden görev çıkarabilmelidir.
 7. **Hideout Modülü:** Kullanıcılar hideout modüllerinin seviyelerini güncelleyip takip edebilmelidir.
 8. **Kişiye Özel Veri:** Her kullanıcının görev ve hideout verileri sadece kendisine özel olmalıdır.
-9. **Mobil Uyum:** Uygulama mobil cihazlarda da sorunsuz çalışmalıdır.
-10. **Güvenli Oturum:** Kullanıcı oturumu güvenli şekilde yönetilmeli, logout işlemi yapılabilmelidir.
+9. **Güvenli Oturum:** Kullanıcı oturumu güvenli şekilde yönetilmeli, logout işlemi yapılabilmelidir.
 
 ## Teknik Gereksinimler
 
