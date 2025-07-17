@@ -9,6 +9,13 @@ on:
 jobs:
   build-and-test:
     runs-on: ubuntu-latest
+<<<<<<< HEAD
+=======
+    services:
+      docker:
+        image: docker:20.10.24-dind
+        options: --privileged
+>>>>>>> test-ozellik
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -38,6 +45,7 @@ jobs:
           cd client
           npm run build || echo "No build script for client, skipping."
 
+<<<<<<< HEAD
       - name: Test server
         run: |
           cd server
@@ -47,3 +55,12 @@ jobs:
         run: |
           cd client
           npm test || echo "No tests for client, skipping." 
+=======
+      - name: Docker build (server)
+        run: |
+          docker build -t tarkovwiki-server ./server
+
+      - name: Docker build (client)
+        run: |
+          docker build -t tarkovwiki-client ./client 
+>>>>>>> test-ozellik
