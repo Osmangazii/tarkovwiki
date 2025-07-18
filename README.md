@@ -41,7 +41,7 @@ Osmangazi Metin
 [Back-End Detayları için tıklayın.](back-end.md)
 
 ### Video Sunum
-
+[Video Sunumu icin tiklayin.](https://www.youtube.com/watch?v=qIBdjdAdZDU)
 
 ---
 
